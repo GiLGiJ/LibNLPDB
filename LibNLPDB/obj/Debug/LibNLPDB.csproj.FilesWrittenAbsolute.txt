@@ -1,0 +1,13 @@
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/obj/Debug/LibNLPDB.SentenceDetector.resources
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/LibNLPDB.dll.config
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/LibNLPDB.dll.mdb
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/LibNLPDB.dll
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/obj/Debug/LibNLPDB.dll
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/obj/Debug/LibNLPDB.dll.mdb
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/OpenNLP.dll
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/OpenNLP.dll.mdb
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/SharpEntropy.dll
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/SharpEntropy.dll.mdb
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/SharpWordNet.dll
+/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/bin/Debug/SharpWordNet.pdb

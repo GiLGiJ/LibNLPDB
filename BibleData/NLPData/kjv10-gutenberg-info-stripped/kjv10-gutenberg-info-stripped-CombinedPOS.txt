@@ -1,0 +1,12724 @@
+' ^ POS ''
+- ^ :
+( ^ -LRB-
+) ^ -RRB-
+, ^ ,
+: ^ :
+; ^ :
+1 ^ CD LS
+10 ^ CD
+100 ^ CD
+101 ^ CD
+102 ^ CD
+103 ^ CD
+104 ^ CD
+105 ^ CD
+106 ^ CD
+107 ^ CD
+108 ^ CD
+109 ^ CD
+11 ^ CD
+110 ^ CD
+111 ^ CD
+112 ^ CD
+113 ^ CD
+114 ^ CD
+115 ^ CD
+116 ^ CD
+117 ^ CD
+118 ^ CD
+119 ^ CD
+12 ^ CD
+120 ^ CD
+121 ^ CD
+122 ^ CD
+123 ^ CD
+124 ^ CD
+125 ^ CD
+126 ^ CD
+127 ^ CD
+128 ^ CD
+129 ^ CD
+13 ^ CD
+130 ^ CD
+131 ^ CD
+132 ^ CD
+133 ^ CD
+134 ^ CD
+135 ^ CD
+136 ^ CD
+137 ^ CD
+138 ^ CD
+139 ^ CD
+14 ^ CD
+140 ^ CD
+141 ^ CD
+142 ^ CD
+143 ^ CD
+144 ^ CD
+145 ^ CD
+146 ^ CD
+147 ^ CD
+148 ^ CD
+149 ^ CD
+15 ^ CD
+150 ^ CD
+16 ^ CD
+17 ^ CD
+18 ^ CD
+19 ^ CD
+2 ^ CD LS
+20 ^ CD
+21 ^ CD
+22 ^ CD
+23 ^ CD
+24 ^ CD
+25 ^ CD
+26 ^ CD
+27 ^ CD
+28 ^ CD
+29 ^ CD
+3 ^ CD LS
+30 ^ CD
+31 ^ CD
+32 ^ CD
+33 ^ CD
+34 ^ CD
+35 ^ CD
+36 ^ CD
+37 ^ CD
+38 ^ CD
+39 ^ CD
+4 ^ CD
+40 ^ CD
+41 ^ CD
+42 ^ CD
+43 ^ CD
+44 ^ CD
+45 ^ CD
+46 ^ CD
+47 ^ CD
+48 ^ CD
+49 ^ CD
+5 ^ CD
+50 ^ CD
+51 ^ CD
+52 ^ CD
+53 ^ CD
+54 ^ CD
+55 ^ CD
+56 ^ CD
+57 ^ CD
+58 ^ CD
+59 ^ CD
+6 ^ CD
+60 ^ CD
+61 ^ CD
+62 ^ CD
+63 ^ CD
+64 ^ CD
+65 ^ CD
+66 ^ CD
+67 ^ CD
+68 ^ CD
+69 ^ CD
+7 ^ CD
+70 ^ CD
+71 ^ CD
+72 ^ CD
+73 ^ CD
+74 ^ CD
+75 ^ CD
+76 ^ CD
+77 ^ CD
+78 ^ CD
+79 ^ CD
+8 ^ CD
+80 ^ CD
+81 ^ CD
+82 ^ CD
+83 ^ CD
+84 ^ CD
+85 ^ CD
+86 ^ CD
+87 ^ CD
+88 ^ CD
+89 ^ CD
+9 ^ CD
+90 ^ CD
+91 ^ CD
+92 ^ CD
+93 ^ CD
+94 ^ CD
+95 ^ CD
+96 ^ CD
+97 ^ CD
+98 ^ CD
+99 ^ CD
+a ^ DT
+aaron ^ NN
+aaronites ^ NN
+abaddon ^ NN
+abagtha ^ NN
+abana ^ NN
+abarim ^ NN
+abase ^ NN JJ VB
+abased ^ VB
+abasing ^ VB
+abated ^ VB CC
+abba ^ NN
+abda ^ NN
+abdeel ^ NN
+abdi ^ NN
+abdiel ^ NN
+abdon ^ NN
+abednego ^ NN
+abel ^ NN
+abelbethmaachah ^ NN
+abelmaim ^ NN
+abelmeholah ^ NN
+abelmizraim ^ NN
+abelshittim ^ NN
+abez ^ NN
+abhor ^ VB IN NN CC JJ
+abhorred ^ VB JJ
+abhorrest ^ NN
+abhorreth ^ IN NN VB
+abhorring ^ NN
+abi ^ NN
+abia ^ NN
+abiah ^ NN
+abialbon ^ NN
+abiasaph ^ NN
+abiathar ^ NN
+abib ^ NN
+abida ^ NN
+abidah ^ NN
+abidan ^ NN
+abide ^ NN
+abideth ^ NN VB IN . JJ
+abiding ^ NN
+abiel ^ NN
+abiezer ^ NN
+abiezrite ^ NN
+abiezrites ^ NN
+abigail ^ NN
+abihail ^ NN
+abihu ^ NN
+abihud ^ NN
+abijah ^ NN
+abijam ^ NN
+abilene ^ NN
+ability ^ NN
+abimael ^ NN
+abimelech ^ NN
+abinadab ^ NN
+abinoam ^ NN
+abiram ^ NN
+abishag ^ NN
+abishai ^ NN
+abishalom ^ NN
+abishua ^ NN
+abishur ^ NN
+abital ^ NN
+abitub ^ NN
+abiud ^ NN
+abjects ^ NN
+able ^ JJ
+abner ^ NN
+aboard ^ IN
+abode ^ NN
+abodest ^ JJ
+abolish ^ VB
+abolished ^ VB
+abominable ^ JJ IN
+abominably ^ RB
+abomination ^ NN IN
+abominations ^ NN .
+abound ^ RB CC IN JJ
+abounded ^ RB VB IN
+aboundeth ^ RB IN
+abounding ^ NN
+about ^ IN RB
+above ^ IN RB JJ
+abraham ^ NN
+abram ^ NN
+abroad ^ RB
+absalom ^ NN
+absence ^ NN
+absent ^ JJ
+abstain ^ VB RB JJ
+abstinence ^ NN
+abundance ^ NN
+abundant ^ JJ
+abundantly ^ RB
+abuse ^ NN
+abused ^ VB
+abusers ^ NN
+abusing ^ VB
+accad ^ NN
+accept ^ VB
+acceptable ^ JJ
+acceptably ^ RB
+acceptance ^ NN
+acceptation ^ NN
+accepted ^ VB
+acceptest ^ NN
+accepteth ^ NN VB
+accepting ^ VB
+access ^ NN
+accho ^ NN
+accompanied ^ VB
+accompany ^ NN
+accompanying ^ VB
+accomplish ^ VB
+accomplished ^ VB
+accomplishing ^ VB
+accomplishment ^ NN
+accord ^ NN
+according ^ VB
+accordingly ^ RB
+account ^ NN
+accounted ^ VB
+accounting ^ NN
+accounts ^ NN
+accursed ^ VB JJ
+accusation ^ NN
+accuse ^ NN VB
+accused ^ VB
+accuser ^ NN
+accusers ^ NN
+accuseth ^ NN
+accusing ^ VB
+accustomed ^ VB
+aceldama ^ NN
+achaia ^ NN
+achaicus ^ NN
+achan ^ NN
+achar ^ NN
+achaz ^ NN
+achbor ^ NN
+achim ^ NN
+achish ^ NN
+achmetha ^ NN
+achor ^ NN
+achsa ^ NN
+achsah ^ NN
+achshaph ^ NN
+achzib ^ NN
+acknowledge ^ VB
+acknowledged ^ VB
+acknowledgement ^ NN
+acknowledgeth ^ VB
+acknowledging ^ VB
+acquaint ^ NN
+acquaintance ^ NN
+acquainted ^ VB
+acquainting ^ VB
+acquit ^ VB NN
+acre ^ NN
+acres ^ NN
+act ^ NN
+actions ^ NN
+activity ^ NN
+acts ^ NN
+adadah ^ NN
+adah ^ NN
+adaiah ^ NN
+adalia ^ NN
+adam ^ NN
+adamah ^ NN
+adamant ^ JJ
+adami ^ NN
+adar ^ NN
+adbeel ^ NN
+add ^ VB
+addan ^ NN
+addar ^ NN
+added ^ VB
+adder ^ NN
+adders ^ NN
+addeth ^ VB NN
+addi ^ NN
+addicted ^ VB
+addition ^ NN
+additions ^ NN
+addon ^ NN
+ader ^ NN
+adiel ^ NN
+adin ^ NN
+adina ^ NN
+adino ^ NN
+adithaim ^ NN
+adjure ^ NN
+adjured ^ VB
+adlai ^ NN
+admah ^ NN
+admatha ^ NN
+administered ^ VB
+administration ^ NN
+administrations ^ NN
+admiration ^ NN
+admired ^ VB
+admonish ^ VB JJ
+admonished ^ VB
+admonishing ^ VB
+admonition ^ NN
+adna ^ NN
+adnah ^ NN
+ado ^ NN
+adonibezek ^ NN
+adonijah ^ NN
+adonikam ^ NN
+adoniram ^ NN
+adonizedec ^ NN
+adoption ^ NN
+adoraim ^ NN
+adoram ^ NN
+adorn ^ NN
+adorned ^ VB
+adorneth ^ VB
+adorning ^ NN
+adrammelech ^ NN
+adramyttium ^ NN
+adria ^ NN
+adriel ^ NN
+adullam ^ NN
+adullamite ^ NN
+adulterer ^ NN
+adulterers ^ NN
+adulteress ^ NN
+adulteresses ^ NN
+adulteries ^ NN
+adulterous ^ JJ
+adultery ^ NN
+adultress ^ NN
+adummim ^ NN
+advanced ^ VB
+advantage ^ NN
+advantaged ^ VB
+advantageth ^ VB
+adventure ^ NN VB
+adventured ^ VB
+adversaries ^ NN
+adversary ^ NN
+adversities ^ NN
+adversity ^ NN
+advertise ^ NN
+advice ^ NN
+advise ^ VB
+advised ^ VB
+advisement ^ NN
+advocate ^ NN
+aeneas ^ NN
+aenon ^ NN
+afar ^ NN
+affairs ^ NN
+affect ^ VB
+affected ^ VB
+affecteth ^ NN
+affection ^ NN
+affectionately ^ RB
+affectioned ^ VB
+affections ^ NN
+affinity ^ NN
+affirm ^ NN VB
+affirmed ^ VB
+afflict ^ VB NN JJ
+afflicted ^ VB JJ .
+afflictest ^ VB
+affliction ^ NN
+afflictions ^ NN
+affording ^ VB
+affright ^ VB
+affrighted ^ VB JJ
+afoot ^ RB
+afore ^ IN RB
+aforehand ^ RB
+aforetime ^ NN RB
+afraid ^ JJ
+afresh ^ JJ
+after ^ IN RB
+afternoon ^ NN
+afterward ^ RB JJ IN
+afterwards ^ NN
+agabus ^ NN
+agag ^ NN
+agagite ^ NN
+again ^ RB
+against ^ IN
+agar ^ NN
+agate ^ NN
+agates ^ NN
+age ^ NN
+aged ^ VB
+agee ^ NN
+ages ^ NN
+ago ^ RB IN
+agone ^ NN
+agony ^ NN
+agree ^ VB
+agreed ^ VB
+agreement ^ NN
+agreeth ^ NN
+agrippa ^ NN
+aground ^ NN
+ague ^ NN
+agur ^ NN
+ah ^ UH RB NN
+aha ^ NN
+ahab ^ NN
+aharah ^ NN
+aharhel ^ NN
+ahasai ^ NN
+ahasbai ^ NN
+ahasuerus ^ NN
+ahava ^ NN
+ahaz ^ NN
+ahaziah ^ NN
+ahban ^ NN
+aher ^ NN
+ahi ^ NN
+ahiah ^ NN
+ahiam ^ NN
+ahian ^ NN
+ahiezer ^ NN
+ahihud ^ NN
+ahijah ^ NN
+ahikam ^ NN
+ahilud ^ NN
+ahimaaz ^ NN
+ahiman ^ NN
+ahimelech ^ NN
+ahimoth ^ NN
+ahinadab ^ NN
+ahinoam ^ NN
+ahio ^ NN
+ahira ^ NN
+ahiram ^ NN
+ahiramites ^ NN
+ahisamach ^ NN
+ahishahar ^ NN
+ahishar ^ NN
+ahithophel ^ NN
+ahitub ^ NN
+ahlab ^ NN
+ahlai ^ NN
+ahoah ^ NN
+ahohite ^ NN
+aholah ^ NN
+aholiab ^ NN
+aholibah ^ NN
+aholibamah ^ NN
+ahumai ^ NN
+ahuzam ^ NN
+ahuzzath ^ NN
+ai ^ NN
+aiah ^ NN
+aiath ^ NN
+aided ^ VB
+aija ^ NN
+aijalon ^ NN
+ailed ^ VB
+aileth ^ VB
+ain ^ NN
+air ^ NN
+ajah ^ NN
+ajalon ^ NN
+akan ^ NN
+akkub ^ NN
+akrabbim ^ NN
+alabaster ^ NN
+alameth ^ NN
+alammelech ^ NN
+alamoth ^ NN
+alarm ^ NN
+alas ^ UH NN
+albeit ^ IN
+alemeth ^ NN
+alexander ^ NN
+alexandria ^ NN
+alexandrians ^ NN
+algum ^ NN
+aliah ^ NN
+alian ^ NN
+alien ^ NN
+alienate ^ VB
+alienated ^ VB
+aliens ^ NN
+alike ^ RB
+alive ^ JJ RB VB
+all ^ JJ PDT RB
+alleging ^ VB
+allegory ^ NN
+alleluia ^ JJ NN CC
+allied ^ VB
+allon ^ NN
+allonbachuth ^ NN
+allow ^ VB
+allowance ^ NN
+allowed ^ VB
+alloweth ^ VB
+allure ^ VB
+almighty ^ JJ RB NN
+almodad ^ NN
+almon ^ NN
+almond ^ JJ
+almondiblathaim ^ NN
+almonds ^ NN
+almost ^ RB
+alms ^ NN
+almsdeeds ^ NN
+almug ^ JJ
+aloes ^ NN
+alone ^ RB
+along ^ IN RB RP
+aloof ^ IN
+aloth ^ NN
+aloud ^ RB NN
+alpha ^ NN
+alphaeus ^ NN
+already ^ RB
+also ^ RB
+altar ^ NN
+altars ^ NN
+alter ^ VB
+altered ^ VB
+altereth ^ VB
+although ^ IN
+altogether ^ RB IN
+alush ^ NN
+alvah ^ NN
+alvan ^ NN
+alway ^ RB NN
+always ^ RB
+am ^ VB
+amad ^ NN
+amal ^ NN
+amalek ^ NN
+amalekite ^ NN
+amalekites ^ NN
+amam ^ NN
+amana ^ NN
+amariah ^ NN
+amasa ^ NN
+amasai ^ NN
+amashai ^ NN
+amasiah ^ NN
+amazed ^ VB JJ
+amazement ^ NN
+amaziah ^ NN
+ambassador ^ NN
+ambassadors ^ NN
+ambassage ^ NN
+amber ^ NN
+ambush ^ NN
+ambushes ^ NN
+ambushment ^ NN
+ambushments ^ NN
+amen ^ NN RB
+amend ^ VB
+amends ^ NN
+amerce ^ NN
+amethyst ^ NN
+ami ^ NN
+amiable ^ JJ
+aminadab ^ NN
+amiss ^ JJ IN
+amittai ^ NN
+ammah ^ NN
+ammi ^ NN
+ammiel ^ NN
+ammihud ^ NN
+amminadab ^ NN
+amminadib ^ NN
+ammishaddai ^ NN
+ammizabad ^ NN
+ammon ^ NN
+ammonite ^ NN
+ammonites ^ NN
+ammonitess ^ NN
+amnon ^ NN
+amok ^ NN
+amon ^ NN
+among ^ IN
+amongst ^ IN
+amorite ^ NN
+amorites ^ NN
+amos ^ NN
+amounting ^ NN
+amoz ^ NN
+amphipolis ^ NN
+amplias ^ NN
+amram ^ NN
+amramites ^ NN
+amraphel ^ NN
+amzi ^ NN
+an ^ DT
+anab ^ NN
+anah ^ NN
+anaharath ^ NN
+anaiah ^ NN
+anak ^ NN
+anakims ^ NN
+anamim ^ NN
+anammelech ^ NN
+anan ^ NN
+anani ^ NN
+ananiah ^ NN
+ananias ^ NN
+anath ^ NN
+anathema ^ NN
+anathoth ^ NN
+ancestors ^ NN
+anchor ^ NN
+anchors ^ NN
+ancient ^ JJ
+ancients ^ NN
+and ^ CC
+andrew ^ NN
+andronicus ^ NN
+anem ^ NN
+aner ^ NN
+anethothite ^ NN
+anetothite ^ NN
+angel ^ NN
+angels ^ NN
+anger ^ NN
+angered ^ VB
+angle ^ NN
+angry ^ JJ
+anguish ^ NN
+aniam ^ NN
+anim ^ NN
+anise ^ NN
+ankle ^ NN
+ankles ^ NN
+anna ^ NN
+annas ^ NN
+anoint ^ IN NN VB JJ
+anointed ^ VB JJ POS CC
+anointedst ^ IN
+anointest ^ CC
+anointing ^ JJ NN VB CC
+anon ^ NN
+another ^ JJ
+answer ^ NN
+answerable ^ JJ
+answered ^ VB NN CC
+answeredst ^ NN
+answerest ^ NN
+answereth ^ NN VB
+answering ^ NN VB
+answers ^ NN
+ant ^ JJ
+antichrist ^ NN
+antichrists ^ NN
+antioch ^ NN
+antipas ^ NN
+antipatris ^ NN
+antiquity ^ NN
+antothijah ^ NN
+antothite ^ NN
+ants ^ NN
+anub ^ NN
+anvil ^ JJ
+any ^ JJ RB
+anything ^ NN
+apace ^ RB NN
+apart ^ RB
+apelles ^ NN
+apes ^ NN
+apharsachites ^ NN
+apharsathchites ^ NN
+apharsites ^ NN
+aphek ^ NN
+aphekah ^ NN
+aphiah ^ NN
+aphik ^ NN
+aphrah ^ NN
+aphses ^ NN
+apiece ^ RB
+apollonia ^ NN
+apollos ^ NN
+apollyon ^ NN
+apostle ^ NN JJ
+apostles ^ NN
+apostleship ^ NN
+apothecaries ^ NN
+apothecary ^ JJ NN
+appaim ^ NN
+apparel ^ NN
+apparelled ^ VB
+apparently ^ RB
+appeal ^ NN
+appealed ^ VB
+appear ^ VB
+appearance ^ NN
+appearances ^ NN
+appeared ^ VB
+appeareth ^ NN
+appearing ^ VB
+appease ^ VB
+appeased ^ VB
+appeaseth ^ NN
+appertain ^ NN VB
+appertained ^ VB
+appertaineth ^ VB
+appetite ^ NN VB
+apphia ^ NN
+appii ^ NN
+apple ^ NN
+apples ^ NN
+applied ^ VB
+apply ^ VB
+appoint ^ NN VB JJ
+appointed ^ VB
+appointeth ^ VB
+appointment ^ NN
+apprehend ^ VB
+apprehended ^ VB
+approach ^ NN
+approached ^ VB
+approacheth ^ NN
+approaching ^ NN
+approve ^ VB
+approved ^ VB
+approvest ^ VB
+approveth ^ NN
+approving ^ VB
+aprons ^ NN
+apt ^ JJ
+aquila ^ NN
+ar ^ NN
+ara ^ NN
+arab ^ NN
+arabah ^ NN
+arabia ^ NN
+arabian ^ NN
+arabians ^ NN
+arad ^ NN
+arah ^ NN
+aram ^ NN
+aramitess ^ NN
+aran ^ NN
+ararat ^ NN
+araunah ^ NN
+arba ^ NN
+arbah ^ NN
+arbathite ^ NN
+arbite ^ NN
+archangel ^ NN
+archelaus ^ NN
+archer ^ NN
+archers ^ NN
+arches ^ NN
+archevites ^ NN
+archi ^ NN
+archippus ^ NN
+archite ^ NN
+arcturus ^ NN
+ard ^ NN
+ardites ^ NN
+ardon ^ NN
+are ^ VB
+areli ^ NN
+arelites ^ NN
+areopagite ^ NN
+areopagus ^ NN
+aretas ^ NN
+argob ^ NN
+arguing ^ VB
+arguments ^ NN
+aridai ^ NN
+aridatha ^ NN
+arieh ^ NN
+ariel ^ NN
+aright ^ NN VB
+arimathaea ^ NN
+arioch ^ NN
+arisai ^ NN
+arise ^ NN
+ariseth ^ VB
+arising ^ VB
+aristarchus ^ NN
+aristobulus ^ NN
+ark ^ NN
+arkite ^ NN
+arm ^ NN
+armageddon ^ NN
+armed ^ VB JJ RP
+armenia ^ NN
+armholes ^ NN
+armies ^ NN
+armoni ^ NN
+armour ^ NN IN
+armourbearer ^ NN
+armoury ^ NN
+arms ^ NN
+army ^ NN
+arnan ^ NN
+arnon ^ NN
+arod ^ NN
+arodi ^ NN
+arodites ^ NN
+aroer ^ NN
+aroerite ^ NN
+arose ^ VB NN .
+arpad ^ NN
+arphad ^ NN
+arphaxad ^ NN
+array ^ NN
+arrayed ^ VB
+arrived ^ VB
+arrogancy ^ VB NN
+arrow ^ NN VB JJ
+arrows ^ NN VB
+art ^ NN
+artaxerxes ^ NN
+artemas ^ NN
+artificer ^ NN
+artificers ^ NN
+artillery ^ NN
+arts ^ NN
+aruboth ^ NN
+arumah ^ NN
+arvad ^ NN
+arvadite ^ NN
+arza ^ NN
+as ^ IN RB
+asa ^ NN
+asahel ^ NN
+asahiah ^ NN
+asaiah ^ NN
+asaph ^ NN
+asareel ^ NN
+asarelah ^ NN
+ascend ^ NN
+ascended ^ VB
+ascendeth ^ VB
+ascending ^ VB
+ascent ^ NN
+ascribe ^ NN VB
+ascribed ^ VB
+asenath ^ NN
+aser ^ NN
+ash ^ JJ
+ashamed ^ JJ VB
+ashan ^ NN
+ashbea ^ NN
+ashbel ^ NN
+ashbelites ^ NN
+ashchenaz ^ NN
+ashdod ^ NN
+ashdodites ^ NN
+ashdothites ^ NN
+ashdothpisgah ^ NN
+asher ^ NN
+asherites ^ NN
+ashes ^ NN
+ashima ^ NN
+ashkelon ^ NN
+ashkenaz ^ NN
+ashnah ^ NN
+ashpenaz ^ NN
+ashriel ^ NN
+ashtaroth ^ NN
+ashterathite ^ NN
+ashteroth ^ NN
+ashtoreth ^ NN
+ashur ^ NN
+ashurites ^ NN
+ashvath ^ NN
+asia ^ NN
+aside ^ RB RP
+asiel ^ NN
+ask ^ VB
+asked ^ VB
+askelon ^ NN
+askest ^ JJS
+asketh ^ IN NN VB JJ
+asking ^ VB
+asleep ^ NN
+asnah ^ NN
+asnapper ^ NN
+asp ^ NN
+aspatha ^ NN
+asps ^ NN
+asriel ^ NN
+asrielites ^ NN
+ass ^ NN
+assault ^ NN
+assaulted ^ VB
+assay ^ VB
+assayed ^ VB
+assaying ^ NN
+assemble ^ VB NN JJ IN
+assembled ^ VB
+assemblies ^ NN
+assembling ^ NN
+assembly ^ NN
+assent ^ NN
+assented ^ VB
+asses ^ VB NN
+asshur ^ NN
+asshurim ^ NN
+assigned ^ VB
+assir ^ NN
+assist ^ VB
+associate ^ NN
+assos ^ NN
+assur ^ NN
+assurance ^ NN
+assure ^ VB
+assured ^ VB
+assuredly ^ RB IN
+asswage ^ VB
+asswaged ^ VB
+assyria ^ NN
+assyrian ^ NN
+assyrians ^ NN
+astaroth ^ NN
+astonied ^ JJ VB
+astonished ^ VB JJ
+astonishment ^ NN
+astray ^ RB NN
+astrologer ^ NN
+astrologers ^ NN
+asunder ^ NN
+asuppim ^ NN
+asyncritus ^ NN
+at ^ IN
+atad ^ NN
+atarah ^ NN
+ataroth ^ NN
+atarothadar ^ NN
+atarothaddar ^ NN
+ate ^ VB
+ater ^ NN
+athach ^ NN
+athaiah ^ NN
+athaliah ^ NN
+athenians ^ NN
+athens ^ NN
+athirst ^ JJ NN IN
+athlai ^ NN
+atonement ^ NN IN
+atonements ^ NN
+atroth ^ NN
+attai ^ NN
+attain ^ VB
+attained ^ VB
+attalia ^ NN
+attend ^ VB
+attendance ^ NN
+attended ^ VB
+attending ^ VB
+attent ^ NN
+attentive ^ JJ
+attentively ^ IN
+attire ^ NN
+attired ^ VB
+audience ^ NN
+augment ^ NN
+augustus ^ NN
+aul ^ NN
+aunt ^ NN
+austere ^ JJ
+author ^ NN
+authorities ^ NN
+authority ^ NN
+ava ^ NN
+availeth ^ NN IN
+aven ^ NN
+avenge ^ VB NN
+avenged ^ VB JJ
+avenger ^ NN
+avengeth ^ VB
+avenging ^ NN VB
+averse ^ JJ
+avim ^ NN
+avims ^ NN
+avites ^ NN
+avith ^ NN
+avoid ^ VB
+avoided ^ VB
+avoiding ^ VB
+avouched ^ VB
+await ^ NN
+awake ^ NN
+awaked ^ VB JJ
+awakest ^ NN
+awaketh ^ NN VB
+awaking ^ VB
+aware ^ JJ
+away ^ RB RP
+awe ^ NN
+awoke ^ NN
+axe ^ NN JJ
+axes ^ NN
+axletrees ^ NN
+azal ^ NN
+azaliah ^ NN
+azaniah ^ NN
+azarael ^ NN
+azareel ^ NN
+azariah ^ NN
+azaz ^ NN
+azaziah ^ NN
+azbuk ^ NN
+azekah ^ NN
+azel ^ NN
+azem ^ NN
+azgad ^ NN
+aziel ^ NN
+aziza ^ NN
+azmaveth ^ NN
+azmon ^ NN
+aznothtabor ^ NN
+azor ^ NN
+azotus ^ NN
+azriel ^ NN
+azrikam ^ NN
+azubah ^ NN
+azur ^ NN
+azzah ^ NN
+azzan ^ NN
+azzur ^ NN
+baal ^ NN
+baalah ^ NN
+baalath ^ NN
+baalathbeer ^ NN
+baalberith ^ NN
+baale ^ NN
+baalgad ^ NN
+baalhamon ^ NN
+baalhanan ^ NN
+baalhazor ^ NN
+baalhermon ^ NN
+baali ^ NN
+baalim ^ NN
+baalis ^ NN
+baalmeon ^ NN
+baalpeor ^ NN
+baalperazim ^ NN
+baalshalisha ^ NN
+baaltamar ^ NN
+baalzebub ^ NN
+baalzephon ^ NN
+baana ^ NN
+baanah ^ NN
+baara ^ NN
+baaseiah ^ NN
+baasha ^ NN
+babbler ^ NN
+babbling ^ VB
+babblings ^ NN
+babe ^ NN
+babel ^ NN
+babes ^ NN
+babylon ^ NN
+babylonians ^ NN
+babylonish ^ NN
+baca ^ NN
+bachrites ^ NN
+back ^ RP RB JJ NN
+backbiters ^ NN
+backbiteth ^ VB
+backbiting ^ NN
+backbitings ^ NN
+backbone ^ NN
+backs ^ NN
+backside ^ NN
+backslider ^ NN
+backsliding ^ NN VB
+backslidings ^ RB NN
+backward ^ RB NN
+bad ^ JJ
+bade ^ NN JJ VB IN RB
+badest ^ VB
+badgers ^ NN
+badness ^ NN
+bag ^ NN
+bags ^ NN
+baharumite ^ NN
+bahurim ^ NN
+bajith ^ NN
+bakbakkar ^ NN
+bakbuk ^ NN
+bakbukiah ^ NN
+bake ^ NN VB
+baked ^ VB
+bakemeats ^ NN
+baken ^ VB NN
+baker ^ NN
+bakers ^ NN
+baketh ^ NN
+balaam ^ NN
+balac ^ NN
+baladan ^ NN
+balah ^ NN
+balak ^ NN
+balance ^ NN
+balances ^ NN
+balancings ^ NN
+bald ^ NN VB JJ
+baldness ^ NN
+ball ^ NN
+balm ^ NN
+bamah ^ NN
+bamoth ^ NN
+bamothbaal ^ NN
+band ^ NN
+banded ^ VB
+bands ^ NN
+bani ^ NN
+banished ^ '' VB
+banishment ^ NN
+bank ^ NN
+banks ^ NN
+banner ^ NN
+banners ^ NN
+banquet ^ NN VB
+banqueting ^ NN
+banquetings ^ NN
+baptism ^ NN
+baptisms ^ NN
+baptist ^ NN
+baptize ^ NN
+baptized ^ VB
+baptizest ^ NN
+baptizeth ^ VB NN
+baptizing ^ VB
+bar ^ NN
+barabbas ^ NN
+barachel ^ NN
+barachias ^ NN
+barak ^ NN
+barbarian ^ NN
+barbarians ^ NN
+barbarous ^ JJ
+barbed ^ JJ
+barber ^ NN
+bare ^ JJ VB NN
+barefoot ^ JJ
+barest ^ NN JJ
+barhumite ^ NN
+bariah ^ NN
+barjesus ^ NN
+barjona ^ NN
+bark ^ VB
+barked ^ VB
+barkos ^ NN
+barley ^ NN
+barn ^ NN
+barnabas ^ NN
+barnfloor ^ NN
+barns ^ VB NN
+barrel ^ NN
+barrels ^ NN
+barren ^ NN
+barrenness ^ NN
+bars ^ NN
+barsabas ^ NN
+bartholomew ^ NN
+bartimaeus ^ NN
+baruch ^ NN
+barzillai ^ NN
+base ^ NN
+baser ^ NN
+bases ^ NN
+basest ^ NN
+bashan ^ NN
+bashanhavothjair ^ NN
+bashemath ^ NN
+basket ^ NN
+baskets ^ NN
+basmath ^ NN
+bason ^ NN
+basons ^ NN
+bastard ^ NN
+bastards ^ NN
+bat ^ NN
+bath ^ NN
+bathe ^ VB NN
+bathed ^ VB
+bathrabbim ^ NN
+baths ^ NN
+bathsheba ^ NN
+bathshua ^ NN
+bats ^ NN
+battered ^ VB
+battering ^ NN VB
+battle ^ NN
+battlement ^ NN
+battlements ^ NN
+battles ^ NN
+bavai ^ NN
+bay ^ NN
+bazlith ^ NN
+bazluth ^ NN
+bdellium ^ NN
+be ^ VB
+beacon ^ NN
+bealiah ^ NN
+bealoth ^ NN
+beam ^ NN
+beams ^ NN
+beans ^ NN
+bear ^ NN
+beard ^ NN VB . JJ
+beards ^ NN
+bearer ^ NN
+bearers ^ NN
+bearest ^ NN
+beareth ^ NN VB IN JJ
+bearing ^ NN
+bears ^ VB NN
+beast ^ NN
+beasts ^ NN
+beat ^ VB JJ NN
+beaten ^ VB JJ
+beatest ^ NN
+beateth ^ VB
+beating ^ VB NN
+beauties ^ NN
+beautiful ^ JJ
+beautify ^ VB
+beauty ^ NN
+bebai ^ NN
+became ^ VB
+becamest ^ VB NN
+because ^ IN RB
+becher ^ NN
+bechorath ^ NN
+beckoned ^ VB
+beckoning ^ VB
+become ^ VB
+becometh ^ IN VB
+bed ^ NN
+bedad ^ NN
+bedan ^ NN
+bedchamber ^ NN
+bedeiah ^ NN
+beds ^ NN
+bedstead ^ NN
+bee ^ NN
+beeliada ^ NN
+beelzebub ^ NN
+been ^ VB
+beer ^ NN
+beera ^ NN
+beerah ^ NN
+beerelim ^ NN
+beeri ^ NN
+beerlahairoi ^ NN
+beeroth ^ NN
+beerothite ^ NN
+beerothites ^ NN
+beersheba ^ NN
+bees ^ NN
+beeshterah ^ NN
+beetle ^ NN
+beeves ^ NN
+befall ^ NN
+befallen ^ VB IN JJ
+befalleth ^ VB IN
+befell ^ RB VB JJ
+before ^ IN RB
+beforehand ^ NN
+beforetime ^ NN RB IN
+beg ^ NN VB
+began ^ VB
+begat ^ IN NN VB JJ
+beget ^ VB NN
+begettest ^ NN
+begetteth ^ VB
+beggar ^ NN
+beggarly ^ JJ
+begged ^ VB
+begging ^ NN
+begin ^ VB
+beginnest ^ NN
+beginning ^ NN
+beginnings ^ NN
+begotten ^ VB CD JJ
+beguile ^ VB IN
+beguiled ^ VB
+beguiling ^ VB
+begun ^ VB
+behalf ^ NN
+behave ^ VB
+behaved ^ VB
+behaveth ^ VB
+behaviour ^ NN
+beheaded ^ VB
+beheld ^ NN
+behemoth ^ ,
+behind ^ IN RB
+behold ^ NN VB JJ
+beholdest ^ NN JJ VB
+beholdeth ^ VB
+beholding ^ VB NN
+behoved ^ VB
+being ^ VB
+bekah ^ NN
+bel ^ NN
+bela ^ NN
+belah ^ NN
+belaites ^ NN
+belch ^ VB
+belial ^ NN
+belied ^ VB
+belief ^ NN
+believe ^ VB
+believed ^ VB
+believers ^ NN
+believest ^ NN
+believeth ^ VB NN
+believing ^ VB
+bell ^ NN
+bellies ^ NN
+bellow ^ VB
+bellows ^ NN
+bells ^ NN
+belly ^ NN
+belong ^ IN VB
+belonged ^ VB
+belongest ^ NN
+belongeth ^ NN
+belonging ^ VB
+beloved ^ VB JJ . IN
+belshazzar ^ NN
+belteshazzar ^ NN
+bemoan ^ VB IN
+bemoaned ^ VB
+bemoaning ^ VB
+ben ^ NN
+benaiah ^ NN
+benammi ^ NN
+benches ^ NN
+bend ^ . VB
+bendeth ^ VB IN
+bending ^ NN
+beneath ^ NN
+beneberak ^ NN
+benefactors ^ NN
+benefit ^ NN
+benefits ^ NN
+benejaakan ^ NN
+benevolence ^ NN
+benhadad ^ NN
+benhail ^ NN
+benhanan ^ NN
+beninu ^ NN
+benjamin ^ NN
+benjamite ^ NN
+benjamites ^ NN
+beno ^ NN
+benoni ^ NN
+bent ^ NN
+benzoheth ^ NN
+beon ^ NN
+beor ^ NN
+bera ^ NN
+berachah ^ NN
+berachiah ^ NN
+beraiah ^ NN
+berea ^ NN
+bereave ^ VB JJ
+bereaved ^ VB JJ
+bereaveth ^ NN
+berechiah ^ NN
+bered ^ NN
+beri ^ NN
+beriah ^ NN
+beriites ^ NN
+berites ^ NN
+berith ^ NN
+bernice ^ NN
+berodachbaladan ^ NN
+berothah ^ NN
+berothai ^ NN
+berothite ^ NN
+berries ^ NN
+beryl ^ NN
+besai ^ NN
+beseech ^ NN
+beseeching ^ VB
+beset ^ VB
+beside ^ IN RB
+besides ^ NN IN
+besiege ^ IN VB NN
+besieged ^ VB
+besodeiah ^ NN
+besom ^ NN
+besor ^ NN
+besought ^ VB IN
+best ^ JJS RBS
+bestead ^ RB
+bestir ^ IN
+bestow ^ VB RB IN
+bestowed ^ VB
+betah ^ NN
+beten ^ NN
+bethabara ^ NN
+bethanath ^ NN
+bethanoth ^ NN
+bethany ^ NN
+betharabah ^ NN
+betharam ^ NN
+betharbel ^ NN
+bethaven ^ NN
+bethazmaveth ^ NN
+bethbaalmeon ^ NN
+bethbarah ^ NN
+bethbirei ^ NN
+bethcar ^ NN
+bethdagon ^ NN
+bethdiblathaim ^ NN
+bethel ^ NN
+bethelite ^ NN
+bethemek ^ NN
+bether ^ NN
+bethesda ^ NN
+bethezel ^ NN
+bethgader ^ NN
+bethgamul ^ NN
+bethhaccerem ^ NN
+bethharan ^ NN
+bethhogla ^ NN
+bethhoglah ^ NN
+bethhoron ^ NN
+bethink ^ VB
+bethjeshimoth ^ NN
+bethjesimoth ^ NN
+bethlebaoth ^ NN
+bethlehem ^ NN
+bethlehemite ^ NN
+bethlehemjudah ^ NN
+bethmaachah ^ NN
+bethmarcaboth ^ NN
+bethmeon ^ NN
+bethnimrah ^ NN
+bethpalet ^ NN
+bethpazzez ^ NN
+bethpeor ^ NN
+bethphage ^ NN
+bethphelet ^ NN
+bethrapha ^ NN
+bethrehob ^ NN
+bethsaida ^ NN
+bethshan ^ NN
+bethshean ^ NN
+bethshemesh ^ NN
+bethshemite ^ NN
+bethshittah ^ NN
+bethtappuah ^ NN
+bethuel ^ NN
+bethul ^ NN
+bethzur ^ NN
+betimes ^ NN .
+betonim ^ NN
+betray ^ VB IN
+betrayed ^ VB JJ NN
+betrayers ^ NN
+betrayest ^ NN
+betrayeth ^ VB IN
+betroth ^ IN
+betrothed ^ VB JJ
+better ^ RBR RB JJR
+bettered ^ JJ
+between ^ IN
+betwixt ^ IN
+beulah ^ NN
+bewail ^ VB NN
+bewailed ^ VB
+bewaileth ^ VB
+beware ^ NN VB JJ IN
+bewitched ^ VB
+bewray ^ NN
+bewrayeth ^ VB
+beyond ^ IN
+bezai ^ NN
+bezaleel ^ NN
+bezek ^ NN
+bezer ^ NN
+bichri ^ NN
+bid ^ NN
+bidden ^ NN JJ VB
+biddeth ^ VB
+bidding ^ NN
+bidkar ^ NN
+bier ^ NN
+bigtha ^ NN
+bigthan ^ NN
+bigthana ^ NN
+bigvai ^ NN
+bildad ^ NN
+bileam ^ NN
+bilgah ^ NN
+bilgai ^ NN
+bilhah ^ NN
+bilhan ^ NN
+bill ^ NN
+billows ^ NN
+bilshan ^ NN
+bimhal ^ NN
+bind ^ NN
+bindeth ^ NN VB JJ
+binding ^ JJ VB NN
+binea ^ NN
+binnui ^ NN
+bird ^ NN
+birds ^ NN
+birsha ^ NN
+birth ^ NN
+birthday ^ NN
+birthright ^ VB NN
+birzavith ^ NN
+bishlam ^ NN
+bishop ^ NN
+bishoprick ^ NN
+bishops ^ NN
+bit ^ RB NN
+bite ^ NN
+biteth ^ VB
+bithiah ^ NN
+bithron ^ NN
+bithynia ^ NN
+bits ^ NN
+bitten ^ VB
+bitter ^ JJ
+bitterly ^ RB
+bittern ^ JJ
+bitterness ^ NN
+bizjothjah ^ NN
+biztha ^ NN
+black ^ JJ
+blacker ^ JJR
+blackish ^ JJ
+blackness ^ NN
+blade ^ NN
+blains ^ NN
+blame ^ NN
+blamed ^ VB
+blameless ^ VB JJ .
+blaspheme ^ VB NN
+blasphemed ^ VB
+blasphemer ^ NN
+blasphemers ^ NN
+blasphemest ^ NN
+blasphemeth ^ NN
+blasphemies ^ NN
+blaspheming ^ VB
+blasphemous ^ JJ
+blasphemously ^ RB
+blasphemy ^ NN
+blast ^ NN
+blasted ^ VB
+blasting ^ NN VB
+blastus ^ NN
+blaze ^ VB
+bleating ^ NN
+bleatings ^ NN
+blemish ^ NN
+blemishes ^ NN
+bless ^ JJ VB IN
+blessed ^ VB JJ
+blessedness ^ NN
+blessest ^ NN
+blesseth ^ NN VB
+blessing ^ NN
+blessings ^ NN
+blew ^ VB JJ
+blind ^ NN
+blinded ^ VB JJ
+blindeth ^ IN
+blindfolded ^ VB
+blindness ^ NN
+block ^ NN
+blocks ^ NN
+blood ^ NN
+bloodguiltiness ^ NN
+bloodthirsty ^ NN
+bloody ^ JJ
+bloomed ^ VB
+blossom ^ VB NN
+blossomed ^ VB
+blossoms ^ NN
+blot ^ NN VB
+blotted ^ VB
+blotteth ^ VB
+blotting ^ VB
+blow ^ NN VB
+bloweth ^ NN
+blowing ^ NN VB
+blown ^ VB
+blue ^ JJ NN
+blueness ^ NN
+blunt ^ JJ
+blush ^ JJ
+boanerges ^ NN
+boar ^ NN
+board ^ NN
+boards ^ NN
+boast ^ NN VB
+boasted ^ VB
+boasters ^ NN
+boastest ^ NN
+boasteth ^ NN VB
+boasting ^ VB NN
+boastings ^ NN
+boat ^ NN
+boats ^ NN
+boaz ^ NN
+bocheru ^ NN
+bochim ^ NN
+bodies ^ NN
+bodily ^ NN
+body ^ NN
+bohan ^ NN
+boil ^ NN VB
+boiled ^ VB
+boiling ^ NN
+boils ^ NN
+boisterous ^ JJ
+bold ^ JJ VB
+boldly ^ RB
+boldness ^ NN
+bolled ^ VB
+bolster ^ VB
+bolt ^ VB
+bolted ^ VB
+bond ^ NN
+bondage ^ NN
+bondmaid ^ NN
+bondmaids ^ NN
+bondman ^ NN
+bondmen ^ NN VB
+bonds ^ NN
+bondservant ^ NN
+bondservice ^ NN
+bondwoman ^ NN
+bondwomen ^ NN
+bone ^ NN
+bones ^ NN
+bonnets ^ NN
+book ^ NN
+books ^ NN
+booth ^ NN
+booths ^ NN
+booties ^ NN
+booty ^ NN
+booz ^ NN
+border ^ NN
+borders ^ NN
+bore ^ NN
+bored ^ VB
+born ^ VB
+borne ^ NN
+borrow ^ VB
+borrowed ^ VB
+borrower ^ NN
+borroweth ^ NN
+boscath ^ NN
+bosom ^ NN
+bosor ^ NN
+bosses ^ NN
+botch ^ NN
+both ^ JJ CC PDT
+bottle ^ NN
+bottles ^ NN
+bottom ^ NN
+bottomless ^ JJ
+bottoms ^ NN
+bough ^ NN
+boughs ^ NN
+bought ^ VB
+bound ^ NN
+bounds ^ NN
+bountiful ^ JJ VB
+bountifully ^ VB .
+bountifulness ^ NN
+bounty ^ NN
+bow ^ NN
+bowed ^ VB
+bowels ^ NN
+boweth ^ VB
+bowing ^ VB NN
+bowl ^ NN
+bowls ^ VB NN
+bowmen ^ NN
+bows ^ NN
+box ^ NN
+boy ^ NN
+boys ^ NN
+bozez ^ NN
+bozkath ^ NN
+bozrah ^ NN
+bracelet ^ NN
+bracelets ^ NN
+brake ^ NN VB
+brakest ^ NN VB
+bramble ^ NN
+brambles ^ NN
+branch ^ NN
+branches ^ NN
+brand ^ NN
+brandish ^ VB
+brands ^ NN
+brasen ^ JJ NN
+brass ^ NN
+bravery ^ NN
+brawler ^ NN
+brawlers ^ NN
+brawling ^ JJ
+bray ^ NN VB
+brayed ^ VB
+breach ^ NN VB
+breaches ^ NN
+bread ^ NN
+breadth ^ NN
+break ^ VB NN
+breaker ^ NN
+breakest ^ NN
+breaketh ^ NN VB IN
+breaking ^ NN VB
+breakings ^ NN
+breast ^ NN
+breastplate ^ NN
+breastplates ^ NN
+breasts ^ NN
+breath ^ NN
+breathe ^ NN VB
+breathed ^ VB JJ
+breatheth ^ NN
+breathing ^ NN
+bred ^ VB
+breeches ^ NN
+breed ^ VB NN
+breeding ^ NN
+brethren ^ NN
+bribe ^ NN
+bribery ^ NN
+bribes ^ NN
+brick ^ NN
+brickkiln ^ NN
+bricks ^ NN
+bride ^ NN
+bridechamber ^ NN
+bridegroom ^ NN
+bridle ^ NN VB
+bridles ^ NN
+bridleth ^ VB
+briefly ^ RB NN
+brier ^ NN
+briers ^ NN
+brigandine ^ NN
+brigandines ^ NN
+bright ^ JJ
+brightness ^ NN . VB
+brim ^ NN VB
+brimstone ^ VB NN
+bring ^ VB
+bringers ^ NN
+bringest ^ VB
+bringeth ^ VB JJ NN
+bringing ^ VB
+brink ^ NN VB
+broad ^ JJ
+broader ^ JJR
+broided ^ JJ
+broidered ^ JJ VB
+broiled ^ JJ
+broken ^ VB JJ NN
+brokenfooted ^ VB
+brokenhanded ^ VB
+brokenhearted ^ VB
+brood ^ NN
+brook ^ NN
+brooks ^ NN
+broth ^ NN
+brother ^ NN
+brotherhood ^ NN
+brotherly ^ JJ RB
+brothers ^ NN
+brought ^ VB
+broughtest ^ VB JJS
+brow ^ NN
+brown ^ JJ NN
+bruise ^ VB NN
+bruised ^ VB JJ
+bruises ^ NN
+bruising ^ VB
+bruit ^ NN
+brute ^ JJ
+brutish ^ JJ
+bucket ^ NN
+buckets ^ NN
+buckler ^ NN VB
+bucklers ^ NN
+bud ^ NN
+budded ^ VB CC JJ
+buds ^ NN
+buffet ^ VB
+buffeted ^ VB
+build ^ VB
+builded ^ VB
+buildedst ^ NN
+builder ^ NN
+builders ^ NN
+buildest ^ NN
+buildeth ^ NN
+building ^ NN
+buildings ^ NN
+built ^ VB
+bukki ^ NN
+bukkiah ^ NN
+bul ^ NN
+bull ^ NN
+bullock ^ NN
+bullocks ^ NN
+bulls ^ NN
+bulrush ^ NN
+bulrushes ^ NN
+bulwarks ^ NN
+bunah ^ NN
+bunch ^ NN
+bunches ^ NN
+bundle ^ NN
+bundles ^ NN
+bunni ^ NN
+burden ^ NN
+burdened ^ VB
+burdens ^ NN
+burdensome ^ JJ
+burial ^ NN
+buried ^ VB
+buriers ^ NN
+burn ^ VB NN
+burned ^ VB JJ
+burneth ^ NN
+burning ^ NN
+burnings ^ NN
+burnished ^ VB
+burnt ^ JJ NN VB CC
+burst ^ NN
+bursting ^ NN
+bury ^ NN
+burying ^ VB NN
+buryingplace ^ NN
+bush ^ NN
+bushel ^ NN
+bushes ^ NN
+bushy ^ JJ
+busied ^ JJ
+business ^ NN
+busy ^ JJ
+busybodies ^ NN
+busybody ^ NN
+but ^ CC
+butler ^ NN
+butlers ^ NN
+butlership ^ NN
+butter ^ NN
+buttocks ^ NN
+buy ^ VB NN
+buyer ^ NN
+buyest ^ NN VB
+buyeth ^ NN VB
+buz ^ NN
+buzi ^ NN
+buzite ^ NN
+by ^ IN
+byways ^ NN
+byword ^ NN
+cab ^ NN
+cabbon ^ NN
+cabins ^ NN
+cabul ^ NN
+caesar ^ NN
+caesarea ^ NN
+cage ^ NN
+caiaphas ^ NN
+cain ^ NN
+cainan ^ NN
+cake ^ NN
+cakes ^ NN
+calah ^ NN
+calamities ^ NN
+calamity ^ NN
+calamus ^ NN
+calcol ^ NN
+caldron ^ NN
+caldrons ^ NN
+caleb ^ NN
+calebephratah ^ NN
+calf ^ NN
+calkers ^ VB NN
+call ^ NN
+called ^ VB
+calledst ^ NN
+callest ^ NN
+calleth ^ NN
+calling ^ VB
+calm ^ NN
+calneh ^ NN
+calno ^ NN
+calvary ^ NN
+calve ^ VB
+calved ^ VB
+calves ^ NN
+calveth ^ NN
+came ^ VB
+camel ^ NN
+camels ^ NN
+camest ^ NN
+camon ^ NN
+camp ^ NN
+camped ^ VB
+camphire ^ NN
+camps ^ NN
+can ^ VB
+cana ^ NN
+canaan ^ NN
+canaanite ^ NN
+canaanites ^ NN
+canaanitess ^ NN
+canaanitish ^ NN
+candace ^ NN
+candle ^ NN
+candles ^ NN
+candlestick ^ NN
+candlesticks ^ NN
+cane ^ NN
+canker ^ NN
+cankered ^ VB
+cankerworm ^ NN
+canneh ^ NN
+cannot ^ NN VB RB IN
+canst ^ VB NN IN
+capernaum ^ NN
+caphthorim ^ NN
+caphtor ^ NN
+caphtorim ^ NN
+caphtorims ^ NN
+cappadocia ^ NN
+captain ^ NN
+captains ^ NN
+captive ^ NN
+captives ^ NN
+captivity ^ NN
+carbuncle ^ NN
+carbuncles ^ NN
+carcas ^ NN
+carcase ^ NN VB JJ
+carcases ^ NN
+carchemish ^ NN
+care ^ NN
+careah ^ NN
+cared ^ VB
+careful ^ JJ
+carefully ^ RB
+carefulness ^ NN
+careless ^ JJ VB
+carelessly ^ RB
+cares ^ NN
+carest ^ NN
+careth ^ NN
+caring ^ NN
+carmel ^ NN
+carmelite ^ NN
+carmelitess ^ NN
+carmi ^ NN
+carmites ^ NN
+carnal ^ JJ VB
+carnally ^ RB NN
+carpenter ^ NN
+carpenters ^ NN
+carpus ^ NN
+carriage ^ NN
+carriages ^ NN
+carried ^ VB
+carriest ^ VB
+carrieth ^ NN
+carry ^ VB
+carrying ^ VB
+carshena ^ NN
+cart ^ NN
+carved ^ VB JJ
+carving ^ NN
+carvings ^ NN
+case ^ NN
+casement ^ NN
+cases ^ NN
+casiphia ^ NN
+casluhim ^ NN
+cassia ^ NN
+cast ^ VB NN
+castaway ^ NN
+castedst ^ NN
+castest ^ NN
+casteth ^ VB NN
+casting ^ NN
+castle ^ NN
+castles ^ NN
+castor ^ NN
+catch ^ VB
+catcheth ^ VB NN
+caterpiller ^ NN
+caterpillers ^ NN
+cattle ^ NN
+caught ^ VB
+caul ^ NN
+cauls ^ NN
+cause ^ NN
+caused ^ VB
+causeless ^ VB
+causes ^ NN
+causest ^ NN
+causeth ^ VB NN
+causeway ^ NN
+causing ^ VB
+cave ^ NN
+caves ^ NN
+cease ^ NN
+ceased ^ VB .
+ceaseth ^ VB NN
+ceasing ^ VB NN
+cedar ^ NN VB JJ
+cedars ^ NN VB .
+cedron ^ NN
+ceiling ^ NN
+celebrate ^ VB JJ
+celestial ^ JJ NN
+cellars ^ NN
+cenchrea ^ NN
+censer ^ NN
+censers ^ NN
+centurion ^ NN
+centurions ^ NN
+cephas ^ NN
+ceremonies ^ NN
+certain ^ JJ
+certainly ^ RB
+certainty ^ NN
+certified ^ JJ VB
+certify ^ VB JJ NN
+chafed ^ VB
+chaff ^ NN
+chain ^ NN
+chains ^ NN
+chalcedony ^ NN
+chalcol ^ NN
+chaldaeans ^ NN
+chaldea ^ NN
+chaldean ^ NN
+chaldeans ^ NN
+chaldees ^ NN
+chalkstones ^ NN
+challengeth ^ NN
+chamber ^ NN
+chambering ^ NN
+chamberlain ^ NN VB
+chamberlains ^ NN
+chambers ^ NN
+chameleon ^ NN
+chamois ^ NN
+champaign ^ NN
+champion ^ NN
+chanaan ^ NN
+chance ^ NN
+chancellor ^ NN
+chanceth ^ VB
+change ^ NN
+changeable ^ JJ
+changed ^ VB
+changers ^ NN
+changes ^ NN
+changest ^ VB
+changeth ^ NN VB
+changing ^ VB
+channel ^ NN
+channels ^ NN
+chant ^ NN
+chapel ^ NN
+chapiter ^ NN
+chapiters ^ NN
+chapmen ^ NN
+chapt ^ JJ
+charashim ^ NN
+charchemish ^ NN
+charge ^ NN VB
+chargeable ^ JJ
+charged ^ VB
+chargedst ^ NN
+charger ^ NN
+chargers ^ NN
+charges ^ NN
+chargest ^ NN
+charging ^ VB
+chariot ^ NN
+chariots ^ NN
+charitably ^ RB
+charity ^ NN
+charmed ^ VB
+charmer ^ NN
+charmers ^ NN
+charming ^ VB
+charran ^ NN
+chase ^ VB NN
+chased ^ VB JJ
+chaseth ^ VB
+chasing ^ VB
+chaste ^ NN
+chasten ^ VB
+chastened ^ VB
+chastenest ^ NN
+chasteneth ^ NN
+chastening ^ NN
+chastise ^ NN VB
+chastised ^ VB
+chastisement ^ NN
+chastiseth ^ VB
+chatter ^ NN
+chebar ^ NN
+check ^ NN
+checker ^ NN
+chedorlaomer ^ NN
+cheek ^ NN
+cheeks ^ NN
+cheer ^ VB NN
+cheereth ^ NN
+cheerful ^ JJ
+cheerfully ^ RB
+cheerfulness ^ NN
+cheese ^ NN
+cheeses ^ NN
+chelal ^ NN
+chelluh ^ NN
+chelub ^ NN
+chelubai ^ NN
+chemarims ^ NN
+chemosh ^ NN
+chenaanah ^ NN
+chenani ^ NN
+chenaniah ^ NN
+chepharhaammonai ^ NN
+chephirah ^ NN
+cheran ^ NN
+cherethims ^ NN
+cherethites ^ NN
+cherish ^ VB
+cherished ^ VB
+cherisheth ^ JJ IN
+cherith ^ NN
+cherub ^ NN
+cherubims ^ NN
+chesalon ^ NN
+chesed ^ NN
+chesil ^ NN
+chesnut ^ NN
+chest ^ NN
+chestnut ^ NN
+chests ^ NN
+chesulloth ^ NN
+chew ^ VB
+chewed ^ VB
+cheweth ^ VB
+chezib ^ NN
+chickens ^ VB
+chide ^ NN
+chiding ^ NN
+chidon ^ NN
+chief ^ NN
+chiefest ^ NN JJ
+chiefly ^ NN RB
+child ^ NN
+childbearing ^ NN
+childhood ^ NN
+childish ^ JJ
+childless ^ JJ . VB RB
+children ^ NN
+chileab ^ NN
+chilion ^ NN
+chilmad ^ NN
+chimham ^ NN
+chimney ^ NN
+chinnereth ^ NN
+chinneroth ^ NN
+chios ^ NN
+chisleu ^ NN
+chislon ^ NN
+chislothtabor ^ NN
+chittim ^ NN
+chiun ^ NN
+chloe ^ NN
+chode ^ NN
+choice ^ NN
+choicest ^ NN VB
+choke ^ VB
+choked ^ VB
+choler ^ NN
+choose ^ VB
+choosest ^ VB NN
+chooseth ^ NN
+choosing ^ VB
+chop ^ VB
+chorashan ^ NN
+chorazin ^ NN
+chose ^ VB
+chosen ^ NN
+chozeba ^ NN
+christ ^ NN
+christian ^ NN
+christians ^ NN
+christs ^ NN
+chronicles ^ NN
+chrysolyte ^ NN
+chrysoprasus ^ NN
+chub ^ NN
+chun ^ NN
+church ^ NN
+churches ^ NN
+churl ^ NN
+churlish ^ JJ
+churning ^ NN
+chushanrishathaim ^ NN
+chuza ^ NN
+cieled ^ VB JJ
+cilicia ^ NN
+cinnamon ^ NN
+cinneroth ^ NN
+circle ^ NN
+circuit ^ NN
+circuits ^ NN
+circumcise ^ NN
+circumcised ^ VB
+circumcising ^ VB NN
+circumcision ^ NN
+circumspect ^ JJ
+circumspectly ^ RB
+cis ^ NN
+cistern ^ NN
+cisterns ^ NN
+cities ^ NN
+citizen ^ NN
+citizens ^ NN
+city ^ NN
+clad ^ NN
+clamorous ^ JJ
+clamour ^ NN
+clap ^ VB NN
+clapped ^ VB
+clappeth ^ VB
+clauda ^ NN
+claudia ^ NN
+claudius ^ NN
+clave ^ VB NN
+claws ^ NN
+clay ^ NN
+clean ^ JJ VB NN
+cleanness ^ NN
+cleanse ^ NN
+cleansed ^ VB JJ
+cleanseth ^ VB
+cleansing ^ NN VB
+clear ^ JJ VB
+clearer ^ JJR
+clearing ^ VB NN
+clearly ^ RB
+clearness ^ NN
+cleave ^ VB JJ NN
+cleaved ^ VB
+cleaveth ^ VB NN JJ
+cleft ^ NN
+clefts ^ NN
+clemency ^ RB
+clement ^ NN
+cleopas ^ NN
+cleophas ^ NN
+cliff ^ NN
+cliffs ^ NN
+clift ^ NN
+clifts ^ NN
+climb ^ NN VB
+climbed ^ VB
+climbeth ^ VB
+clipped ^ VB
+cloak ^ NN
+clods ^ NN
+cloke ^ NN
+close ^ JJ RB NN VB
+closed ^ VB JJ
+closer ^ JJR
+closest ^ NN
+closet ^ NN
+closets ^ NN
+cloth ^ NN
+clothe ^ VB JJ RB IN
+clothed ^ VB
+clothes ^ NN
+clothest ^ NN
+clothing ^ NN
+cloths ^ NN
+cloud ^ NN
+clouds ^ NN
+cloudy ^ NN JJ
+clouted ^ VB
+clouts ^ NN
+cloven ^ JJ RB
+clovenfooted ^ VB
+cluster ^ NN
+clusters ^ NN
+cnidus ^ NN
+coal ^ NN
+coals ^ NN
+coast ^ NN
+coasts ^ NN
+coat ^ NN
+coats ^ NN
+cock ^ NN
+cockatrice ^ NN
+cockatrices ^ NN
+cockcrowing ^ NN
+cockle ^ NN
+coffer ^ NN
+coffin ^ NN
+cogitations ^ NN
+cold ^ NN
+colhozeh ^ NN
+collar ^ NN
+collars ^ NN
+collection ^ NN
+college ^ NN
+collops ^ NN
+colony ^ NN
+colosse ^ NN
+colossians ^ NN
+colour ^ NN
+coloured ^ VB
+colours ^ NN
+colt ^ NN
+colts ^ NN
+come ^ VB
+comeliness ^ NN VB
+comely ^ RB NN VB
+comers ^ NN
+comest ^ NN
+cometh ^ VB NN IN
+comfort ^ NN
+comfortable ^ JJ
+comfortably ^ RB
+comforted ^ VB JJ
+comfortedst ^ NN
+comforter ^ NN
+comforters ^ NN
+comforteth ^ VB JJ
+comfortless ^ JJ
+comforts ^ VB NN
+coming ^ VB JJ
+comings ^ NN
+command ^ NN
+commanded ^ VB JJ . CC
+commandedst ^ NN
+commander ^ NN
+commandest ^ NN
+commandeth ^ NN
+commanding ^ VB JJ
+commandment ^ NN
+commandments ^ NN
+commend ^ NN
+commendation ^ NN
+commended ^ VB
+commendeth ^ VB NN
+commending ^ VB
+commission ^ NN
+commissions ^ NN
+commit ^ VB NN
+committed ^ VB JJ
+committest ^ NN
+committeth ^ JJ VB NN
+committing ^ VB
+commodious ^ JJ
+common ^ JJ
+commonly ^ RB
+commonwealth ^ NN
+commotion ^ NN
+commotions ^ NN
+commune ^ VB JJ NN
+communed ^ JJ VB
+communicate ^ NN
+communicated ^ JJ VB
+communication ^ NN
+communications ^ NN
+communing ^ NN VB
+communion ^ NN
+compact ^ NN
+compacted ^ VB
+companied ^ VB
+companies ^ NN
+companion ^ NN
+companions ^ NN
+company ^ NN
+comparable ^ JJ
+compare ^ NN VB
+compared ^ VB
+comparing ^ VB
+comparison ^ NN
+compass ^ NN VB
+compassed ^ VB JJ
+compassest ^ NN
+compasseth ^ VB NN
+compassing ^ VB
+compassion ^ NN
+compassions ^ NN
+compel ^ VB
+compelled ^ VB
+compellest ^ NN
+complain ^ VB
+complained ^ VB
+complainers ^ NN
+complaining ^ NN
+complaint ^ NN
+complaints ^ NN
+complete ^ JJ VB
+composition ^ NN
+compound ^ NN
+compoundeth ^ VB
+comprehend ^ VB
+comprehended ^ VB
+conaniah ^ NN
+conceal ^ NN
+concealed ^ VB
+concealeth ^ VB
+conceit ^ NN
+conceits ^ NN
+conceive ^ NN
+conceived ^ VB . CC
+conceiving ^ VB
+conception ^ NN
+concern ^ NN
+concerneth ^ VB
+concerning ^ NN
+concision ^ NN
+conclude ^ VB
+concluded ^ VB
+conclusion ^ NN
+concord ^ NN
+concourse ^ NN
+concubine ^ NN VB
+concubines ^ NN
+concupiscence ^ NN
+condemn ^ NN
+condemnation ^ NN
+condemned ^ VB
+condemnest ^ NN
+condemneth ^ NN
+condemning ^ VB
+condescend ^ NN
+condition ^ NN
+conditions ^ NN
+conduct ^ NN
+conducted ^ VB
+conduit ^ NN
+coney ^ NN
+confection ^ NN
+confectionaries ^ NN
+confederacy ^ NN
+confederate ^ JJ
+conference ^ NN
+conferred ^ VB
+confess ^ NN
+confessed ^ VB
+confesseth ^ NN
+confessing ^ VB
+confession ^ NN
+confidence ^ NN
+confidences ^ VB
+confident ^ JJ
+confidently ^ NN
+confirm ^ VB
+confirmation ^ NN
+confirmed ^ VB
+confirmeth ^ VB
+confirming ^ VB
+confiscation ^ NN
+conflict ^ NN
+conformable ^ JJ
+conformed ^ VB
+confound ^ VB NN
+confounded ^ VB JJ
+confused ^ JJ VB
+confusion ^ NN
+congealed ^ VB
+congratulate ^ VB
+congregation ^ NN
+congregations ^ NN
+coniah ^ NN
+conies ^ NN
+cononiah ^ NN
+conquer ^ VB
+conquering ^ NN
+conquerors ^ NN
+conscience ^ NN
+consciences ^ NN
+consecrate ^ VB NN
+consecrated ^ VB JJ
+consecration ^ NN
+consecrations ^ NN
+consent ^ NN
+consented ^ VB
+consentedst ^ NN
+consenting ^ NN
+consider ^ VB
+considered ^ VB
+considerest ^ NN
+considereth ^ VB NN
+considering ^ VB
+consist ^ VB
+consisteth ^ NN
+consolation ^ NN
+consolations ^ NN
+consorted ^ VB
+conspiracy ^ NN
+conspirators ^ NN
+conspired ^ VB
+constant ^ JJ
+constantly ^ RB
+constellations ^ NN
+constrain ^ VB
+constrained ^ VB
+constraineth ^ VB NN
+constraint ^ NN
+consult ^ VB
+consultation ^ NN
+consulted ^ VB
+consulter ^ NN
+consulteth ^ VB
+consume ^ VB NN
+consumed ^ VB
+consumeth ^ NN VB
+consuming ^ JJ NN
+consummation ^ NN
+consumption ^ NN
+contain ^ VB
+contained ^ VB
+containeth ^ VB
+containing ^ VB
+contemn ^ NN
+contemned ^ VB
+contemneth ^ VB
+contempt ^ NN
+contemptible ^ JJ VB
+contemptuously ^ RB
+contend ^ VB
+contended ^ VB
+contendest ^ NN
+contendeth ^ VB NN
+contending ^ VB
+content ^ NN JJ VB
+contention ^ NN
+contentions ^ NN
+contentious ^ JJ
+contentment ^ NN
+continual ^ JJ NN
+continually ^ RB
+continuance ^ NN
+continue ^ VB
+continued ^ VB
+continueth ^ VB NN
+continuing ^ VB
+contradicting ^ VB
+contradiction ^ NN
+contrariwise ^ NN
+contrary ^ NN
+contribution ^ NN
+contrite ^ NN
+controversies ^ NN
+controversy ^ NN
+convenient ^ NN JJ
+conveniently ^ RB
+conversant ^ JJ
+conversation ^ NN
+conversion ^ NN
+convert ^ NN
+converted ^ VB
+converteth ^ VB
+converting ^ VB
+converts ^ NN
+convey ^ NN VB
+conveyed ^ VB
+convicted ^ VB
+convince ^ VB
+convinced ^ JJ VB
+convinceth ^ VB
+convocation ^ NN
+convocations ^ NN
+cook ^ NN
+cooks ^ NN
+cool ^ NN VB
+coos ^ NN
+copied ^ VB
+coping ^ NN
+copper ^ NN
+coppersmith ^ NN
+copulation ^ NN
+copy ^ NN
+cor ^ NN
+coral ^ JJ
+corban ^ JJ
+cord ^ NN
+cords ^ NN
+core ^ NN
+coriander ^ NN
+corinth ^ NN
+corinthians ^ NN
+cormorant ^ NN
+corn ^ NN
+cornelius ^ NN
+corner ^ NN
+corners ^ NN
+cornet ^ NN
+cornets ^ NN
+cornfloor ^ NN
+corpse ^ NN
+corpses ^ NN
+correct ^ JJ VB
+corrected ^ VB
+correcteth ^ NN VB
+correction ^ NN
+corrupt ^ JJ VB NN
+corrupted ^ VB JJ
+corrupters ^ NN
+corrupteth ^ NN
+corruptible ^ JJ
+corrupting ^ VB
+corruption ^ NN
+corruptly ^ RB
+cosam ^ NN
+cost ^ NN
+costliness ^ NN
+costly ^ JJ
+cotes ^ NN
+cottage ^ NN
+cottages ^ NN
+couch ^ NN
+couched ^ VB
+couches ^ NN
+coucheth ^ NN
+couching ^ NN
+could ^ VB
+couldest ^ NN VB
+coulter ^ NN
+coulters ^ NN
+council ^ NN
+councils ^ NN
+counsel ^ NN
+counselled ^ VB
+counsellor ^ NN
+counsellors ^ NN
+counsels ^ NN
+count ^ NN VB
+counted ^ VB
+countenance ^ NN
+countenances ^ NN
+countervail ^ VB
+counteth ^ VB
+counting ^ VB
+countries ^ NN
+country ^ NN
+countrymen ^ NN
+couple ^ NN
+coupled ^ VB
+coupleth ^ VB
+coupling ^ NN
+couplings ^ NN
+courage ^ NN
+courageous ^ JJ
+courageously ^ RB
+course ^ NN
+courses ^ NN
+court ^ NN
+courteous ^ JJ
+courteously ^ RB
+courts ^ NN
+cousin ^ NN
+cousins ^ NN
+covenant ^ NN
+covenantbreakers ^ NN
+covenanted ^ VB
+covenants ^ NN
+cover ^ VB
+covered ^ VB JJ .
+coveredst ^ NN
+coverest ^ NN VB
+covereth ^ VB NN
+covering ^ VB
+coverings ^ NN VB
+covers ^ VB NN
+covert ^ NN JJ
+covet ^ NN
+coveted ^ VB
+coveteth ^ VB
+covetous ^ JJ
+covetousness ^ NN
+cow ^ JJ NN
+coz ^ NN
+cozbi ^ NN
+crackling ^ NN
+cracknels ^ NN
+craft ^ NN
+craftiness ^ NN
+craftsman ^ NN
+craftsmen ^ NN
+crafty ^ NN JJ
+crag ^ NN
+crane ^ NN
+crashing ^ NN
+craved ^ VB
+craveth ^ NN
+create ^ VB
+created ^ VB
+createth ^ VB
+creation ^ NN
+creator ^ NN
+creature ^ NN
+creatures ^ NN
+creditor ^ NN
+creditors ^ NN
+creek ^ NN
+creep ^ NN VB
+creepeth ^ VB NN
+creeping ^ VB
+crept ^ NN
+crescens ^ NN
+crete ^ NN
+cretes ^ NN
+cretians ^ NN
+crew ^ NN
+crib ^ NN
+cried ^ VB JJ
+cries ^ NN
+criest ^ JJS VB , NN
+crieth ^ NN
+crime ^ NN
+crimes ^ NN
+crimson ^ NN
+cripple ^ NN
+crisping ^ NN
+crispus ^ NN
+crookbackt ^ NN
+crooked ^ JJ VB .
+crop ^ NN
+cropped ^ VB
+cross ^ NN
+crossway ^ NN
+crouch ^ NN
+croucheth ^ VB
+crow ^ NN
+crown ^ NN
+crowned ^ JJ VB
+crownedst ^ NN
+crownest ^ NN
+crowneth ^ VB
+crowning ^ NN
+crowns ^ NN
+crucified ^ VB . JJ
+crucify ^ NN
+cruel ^ JJ NN
+cruelly ^ JJ
+cruelty ^ NN
+crumbs ^ NN
+cruse ^ NN
+crush ^ VB
+crushed ^ VB JJ
+cry ^ NN VB
+crying ^ NN
+crystal ^ NN
+cubit ^ NN
+cubits ^ NN
+cuckow ^ NN
+cucumbers ^ NN
+cud ^ NN
+cumbered ^ VB
+cumbereth ^ NN
+cumbrance ^ NN
+cumi ^ NN
+cummin ^ NN
+cunning ^ NN VB
+cunningly ^ RB
+cup ^ NN
+cupbearer ^ IN
+cupbearers ^ NN
+cups ^ NN
+curdled ^ VB
+cure ^ NN VB
+cured ^ VB
+cures ^ NN
+curious ^ JJ
+curiously ^ RB
+current ^ JJ
+curse ^ NN
+cursed ^ VB . JJ
+cursedst ^ NN
+curses ^ NN
+cursest ^ NN
+curseth ^ NN
+cursing ^ NN
+cursings ^ NN
+curtain ^ NN
+curtains ^ NN
+cush ^ NN
+cushan ^ NN
+cushi ^ NN
+custody ^ NN
+custom ^ NN
+customs ^ NN
+cut ^ NN
+cuth ^ NN
+cuthah ^ NN
+cuttest ^ NN
+cutteth ^ VB NN
+cutting ^ VB
+cuttings ^ NN
+cymbal ^ .
+cymbals ^ NN
+cypress ^ NN
+cyprus ^ NN
+cyrene ^ NN
+cyrenian ^ NN
+cyrenians ^ NN
+cyrenius ^ NN
+cyrus ^ NN
+dabareh ^ NN
+dabbasheth ^ NN
+daberath ^ NN
+dagger ^ NN
+dagon ^ NN
+daily ^ JJ RB
+dainties ^ NN
+dainty ^ NN
+dalaiah ^ NN
+dale ^ NN
+dalmanutha ^ NN
+dalmatia ^ NN
+dalphon ^ NN
+dam ^ NN
+damage ^ VB NN
+damaris ^ NN
+damascenes ^ NN
+damascus ^ NN
+damnable ^ JJ
+damnation ^ NN
+damned ^ VB
+damsel ^ NN
+damsels ^ NN
+dan ^ NN
+dance ^ VB NN
+danced ^ VB JJ
+dances ^ NN
+dancing ^ NN VB
+dandled ^ VB
+danger ^ NN
+dangerous ^ JJ
+daniel ^ NN
+danites ^ NN
+danjaan ^ NN
+dannah ^ NN
+dara ^ NN
+darda ^ NN
+dare ^ NN VB
+darius ^ NN
+dark ^ NN
+darken ^ VB
+darkened ^ VB
+darkeneth ^ JJ
+darkish ^ JJ
+darkly ^ RB
+darkness ^ NN
+darkon ^ NN
+darling ^ NN
+dart ^ NN
+darts ^ NN
+dash ^ NN VB
+dashed ^ VB
+dasheth ^ NN
+dathan ^ NN
+daub ^ VB
+daubed ^ VB JJ
+daubing ^ VB
+daughers ^ NN
+daughter ^ NN
+daughters ^ NN
+david ^ NN
+dawn ^ NN
+dawning ^ NN
+day ^ NN
+days ^ NN
+daysman ^ NN
+dayspring ^ NN
+daytime ^ NN
+deacon ^ NN
+deacons ^ NN
+dead ^ NN
+deadly ^ JJ
+deadness ^ NN
+deaf ^ NN
+deal ^ VB NN
+dealer ^ NN
+dealers ^ NN
+dealest ^ NN
+dealeth ^ NN VB
+dealing ^ VB
+dealings ^ NN
+deals ^ NN
+dealt ^ VB NN
+dear ^ NN
+dearly ^ JJ RB
+dearth ^ NN RB
+death ^ NN
+deaths ^ NN
+debase ^ NN
+debate ^ NN
+debates ^ NN
+debir ^ NN
+deborah ^ NN
+debt ^ NN
+debtor ^ NN
+debtors ^ NN
+debts ^ NN
+decapolis ^ NN
+decay ^ NN
+decayed ^ VB JJ
+decayeth ^ NN
+decease ^ NN
+deceased ^ VB
+deceit ^ NN
+deceitful ^ JJ
+deceitfully ^ RB
+deceitfulness ^ NN
+deceits ^ NN
+deceivableness ^ NN
+deceive ^ NN
+deceived ^ VB JJ
+deceiver ^ NN
+deceivers ^ NN
+deceiveth ^ VB
+deceiving ^ VB
+deceivings ^ NN
+decently ^ RB
+decided ^ VB
+decision ^ NN
+deck ^ NN VB
+decked ^ VB
+deckedst ^ NN
+deckest ^ NN
+decketh ^ NN
+declaration ^ NN
+declare ^ VB NN
+declared ^ VB
+declareth ^ NN VB
+declaring ^ VB
+decline ^ VB NN
+declined ^ VB
+declineth ^ NN VB
+decrease ^ VB
+decreased ^ VB
+decree ^ NN
+decreed ^ VB
+decrees ^ NN
+dedan ^ NN
+dedanim ^ NN
+dedicate ^ NN VB
+dedicated ^ VB JJ
+dedicating ^ NN
+dedication ^ NN
+deed ^ VB CC RB . JJ NN
+deeds ^ NN
+deemed ^ VB
+deep ^ JJ RB
+deeper ^ JJR
+deeply ^ RB
+deepness ^ NN
+deeps ^ NN
+deer ^ NN
+defamed ^ VB
+defaming ^ NN
+defeat ^ VB
+defence ^ NN
+defenced ^ JJ VB
+defend ^ VB
+defended ^ VB
+defendest ^ NN
+defending ^ VB
+defer ^ NN VB
+deferred ^ VB
+deferreth ^ VB
+defied ^ VB
+defile ^ NN VB JJ IN
+defiled ^ VB JJ
+defiledst ^ NN
+defileth ^ VB NN
+defraud ^ NN
+defrauded ^ VB
+defy ^ JJ VB
+degenerate ^ JJ
+degree ^ NN
+degrees ^ NN
+dehavites ^ NN
+dekar ^ NN
+delaiah ^ NN
+delay ^ NN
+delayed ^ VB
+delayeth ^ VB
+delectable ^ JJ
+delicacies ^ NN
+delicate ^ JJ VB
+delicately ^ RB NN
+delicateness ^ NN
+delicates ^ NN
+deliciously ^ RB
+delight ^ NN
+delighted ^ VB
+delightest ^ NN
+delighteth ^ VB NN
+delights ^ NN
+delightsome ^ JJ
+delilah ^ NN
+deliver ^ VB
+deliverance ^ NN
+deliverances ^ NN
+delivered ^ VB
+deliveredst ^ JJ NN
+deliverer ^ NN
+deliverest ^ VB NN
+delivereth ^ VB
+delivering ^ VB
+delivery ^ NN
+delusion ^ NN
+delusions ^ NN
+demand ^ NN
+demanded ^ VB
+demas ^ NN
+demetrius ^ NN
+demonstration ^ NN
+den ^ NN
+denied ^ VB
+denieth ^ NN
+denounce ^ NN
+dens ^ NN
+deny ^ NN
+denying ^ VB
+depart ^ NN VB
+departed ^ VB .
+departeth ^ VB NN
+departing ^ VB NN
+departure ^ NN
+deposed ^ VB
+deprived ^ VB
+depth ^ NN
+depths ^ NN
+deputed ^ VB
+deputies ^ NN
+deputy ^ NN
+derbe ^ NN
+deride ^ VB
+derided ^ VB
+derision ^ NN
+descend ^ NN
+descended ^ VB
+descendeth ^ NN
+descending ^ NN
+descent ^ NN
+describe ^ VB
+described ^ VB
+describeth ^ VB IN
+description ^ NN
+descry ^ VB
+desert ^ NN
+deserts ^ NN
+deserve ^ VB
+deserveth ^ NN
+deserving ^ NN
+desirable ^ JJ
+desire ^ NN
+desired ^ VB NN
+desiredst ^ NN
+desires ^ NN
+desirest ^ NN
+desireth ^ NN
+desiring ^ VB NN
+desirous ^ JJ
+desolate ^ NN
+desolation ^ NN
+desolations ^ NN
+despair ^ VB NN
+despaired ^ VB
+desperate ^ JJ
+desperately ^ RB
+despise ^ NN
+despised ^ VB
+despisers ^ NN
+despisest ^ NN
+despiseth ^ VB IN NN JJ
+despising ^ VB
+despite ^ IN
+despiteful ^ JJ
+despitefully ^ RB
+destitute ^ NN
+destroy ^ NN
+destroyed ^ VB . JJ
+destroyer ^ NN
+destroyers ^ NN
+destroyest ^ NN VB
+destroyeth ^ NN VB
+destroying ^ VB NN
+destruction ^ NN
+destructions ^ NN
+detain ^ VB IN
+detained ^ VB
+determinate ^ JJ
+determination ^ NN
+determine ^ VB
+determined ^ VB
+detest ^ VB
+detestable ^ JJ
+deuel ^ NN
+deuteronomy ^ NN
+device ^ NN
+devices ^ NN
+devil ^ NN
+devilish ^ VB
+devils ^ NN
+devine ^ NN
+devise ^ VB NN
+devised ^ VB
+deviseth ^ VB NN
+devote ^ VB
+devoted ^ VB JJ
+devotions ^ NN
+devour ^ VB JJ NN IN
+devoured ^ VB JJ
+devourer ^ NN
+devourest ^ NN
+devoureth ^ VB NN IN
+devouring ^ JJ VB
+devout ^ NN
+dew ^ NN
+diadem ^ NN
+dial ^ NN
+diamond ^ NN
+diana ^ NN
+diblaim ^ NN
+diblath ^ NN
+dibon ^ NN
+dibongad ^ NN
+dibri ^ NN
+did ^ VB
+diddest ^ VB
+didst ^ NN VB JJ
+didymus ^ NN
+die ^ VB NN
+died ^ VB
+diest ^ VB
+diet ^ NN
+dieth ^ NN
+differ ^ VB
+difference ^ NN
+differences ^ NN
+differeth ^ NN
+differing ^ VB
+dig ^ VB NN
+digged ^ VB JJ
+diggedst ^ NN
+diggeth ^ VB NN
+dignities ^ NN
+dignity ^ NN
+diklah ^ NN
+dilean ^ NN
+diligence ^ NN
+diligent ^ JJ NN
+diligently ^ RB VB NN
+dim ^ RB VB JJ NN
+diminish ^ VB JJ
+diminished ^ VB
+diminishing ^ NN
+dimnah ^ NN
+dimness ^ NN
+dimon ^ NN
+dimonah ^ NN
+dinah ^ NN
+dinaites ^ NN
+dine ^ NN
+dined ^ VB
+dinhabah ^ NN
+dinner ^ NN
+dionysius ^ NN
+diotrephes ^ NN
+dip ^ VB NN
+dipped ^ VB
+dippeth ^ NN
+direct ^ VB JJ
+directed ^ VB
+directeth ^ VB
+direction ^ NN
+directly ^ RB
+dirt ^ NN
+disallow ^ VB
+disallowed ^ VB
+disannul ^ VB NN
+disannulled ^ VB
+disannulleth ^ NN
+disannulling ^ NN
+disappoint ^ NN
+disappointed ^ VB
+disappointeth ^ VB
+discern ^ NN
+discerned ^ VB
+discerner ^ NN
+discerneth ^ VB
+discerning ^ NN
+discharge ^ NN
+discharged ^ VB
+disciple ^ NN
+disciples ^ NN
+discipline ^ NN
+disclose ^ VB
+discomfited ^ VB
+discomfiture ^ NN
+discontented ^ VB
+discontinue ^ NN
+discord ^ NN
+discourage ^ NN
+discouraged ^ VB
+discover ^ NN
+discovered ^ VB
+discovereth ^ VB
+discovering ^ VB
+discreet ^ NN VB
+discreetly ^ RB
+discretion ^ NN
+disdained ^ VB
+disease ^ NN
+diseased ^ VB JJ
+diseases ^ NN
+disfigure ^ VB
+disgrace ^ VB
+disguise ^ NN
+disguised ^ VB
+disguiseth ^ VB
+dish ^ NN
+dishan ^ NN
+dishes ^ NN
+dishon ^ NN
+dishonest ^ NN
+dishonesty ^ NN
+dishonour ^ NN VB
+dishonourest ^ NN
+dishonoureth ^ VB IN
+disinherit ^ NN
+dismayed ^ VB JJ
+dismaying ^ NN
+dismissed ^ VB
+disobedience ^ NN
+disobedient ^ JJ NN
+disobeyed ^ VB
+disorderly ^ JJ RB
+dispatch ^ VB
+dispensation ^ NN
+disperse ^ JJ VB
+dispersed ^ VB JJ
+dispersions ^ NN
+displayed ^ VB
+displease ^ VB NN
+displeased ^ VB JJ
+displeasure ^ NN
+disposed ^ VB
+disposing ^ VB
+disposition ^ NN
+dispossess ^ VB NN
+dispossessed ^ VB
+disputation ^ NN
+disputations ^ NN
+dispute ^ NN
+disputed ^ VB
+disputer ^ NN
+disputing ^ VB NN
+disputings ^ NN
+disquiet ^ VB
+disquieted ^ VB
+disquietness ^ NN
+dissembled ^ VB JJ
+dissemblers ^ NN
+dissembleth ^ NN
+dissension ^ NN
+dissimulation ^ NN
+dissolve ^ JJ
+dissolved ^ VB JJ
+dissolvest ^ VB
+dissolving ^ NN
+distaff ^ NN
+distant ^ NN
+distil ^ VB NN
+distinction ^ NN
+distinctly ^ RB
+distracted ^ VB
+distraction ^ NN
+distress ^ NN
+distressed ^ JJ VB
+distresses ^ NN
+distribute ^ VB
+distributed ^ VB
+distributeth ^ NN
+distributing ^ VB
+distribution ^ NN
+ditch ^ NN
+ditches ^ NN
+divers ^ NN
+diverse ^ JJ
+diversities ^ NN
+divide ^ VB NN
+divided ^ VB
+divider ^ NN
+divideth ^ NN VB IN
+dividing ^ VB NN
+divination ^ NN
+divinations ^ NN
+divine ^ VB NN JJ
+diviners ^ NN
+divineth ^ .
+divining ^ NN
+division ^ NN
+divisions ^ NN
+divorce ^ NN
+divorced ^ VB
+divorcement ^ NN
+dizahab ^ NN
+do ^ VB
+doctor ^ NN
+doctors ^ NN
+doctrine ^ NN
+doctrines ^ NN
+dodai ^ NN
+dodanim ^ NN
+dodavah ^ NN
+dodo ^ NN
+doeg ^ NN
+doer ^ NN
+doers ^ NN
+doest ^ NN VB
+doeth ^ NN
+dog ^ NN
+dogs ^ NN
+doing ^ VB
+doings ^ NN
+doleful ^ JJ
+dominion ^ NN
+dominions ^ NN
+done ^ VB RB
+door ^ NN
+doorkeeper ^ NN
+doorkeepers ^ NN
+doors ^ NN
+dophkah ^ NN
+dor ^ NN
+dorcas ^ NN
+dost ^ NN VB JJ
+dote ^ VB
+doted ^ VB
+doth ^ NN
+dothan ^ NN
+doting ^ VB
+double ^ JJ VB RB
+doubled ^ VB
+doubletongued ^ VB
+doubt ^ NN
+doubted ^ JJ VB
+doubteth ^ NN
+doubtful ^ JJ
+doubting ^ VB
+doubtless ^ VB RB JJ
+doubts ^ NN
+dough ^ JJ NN
+dove ^ NN
+doves ^ NN
+down ^ RP RB IN
+downsitting ^ NN
+downward ^ RB
+dowry ^ NN
+drag ^ NN
+dragging ^ VB
+dragon ^ NN
+dragons ^ NN
+drams ^ NN
+drank ^ NN
+draught ^ NN
+drave ^ VB JJ
+draw ^ VB NN
+drawer ^ NN
+drawers ^ NN
+draweth ^ NN
+drawing ^ NN VB
+drawn ^ VB
+dread ^ NN JJ VB
+dreadful ^ JJ NN
+dream ^ NN
+dreamed ^ VB
+dreamer ^ NN
+dreamers ^ NN
+dreameth ^ VB
+dreams ^ NN
+dregs ^ NN
+dress ^ NN
+dressed ^ VB
+dresser ^ NN
+dressers ^ NN
+dresseth ^ VB
+drew ^ VB
+drewest ^ NN
+dried ^ VB
+driedst ^ NN
+drieth ^ VB NN
+drink ^ NN
+drinkers ^ NN
+drinketh ^ NN VB
+drinking ^ NN
+drinks ^ NN
+drive ^ NN
+driven ^ VB JJ
+driver ^ NN
+driveth ^ NN
+driving ^ VB NN
+dromedaries ^ NN
+dromedary ^ NN
+drop ^ VB NN
+dropped ^ VB
+droppeth ^ NN
+dropping ^ VB NN
+drops ^ NN
+dropsy ^ NN
+dross ^ NN JJ
+drought ^ NN
+drove ^ VB NN
+droves ^ NN
+drown ^ IN JJ
+drowned ^ VB JJ
+drowsiness ^ NN
+drunk ^ JJ VB
+drunkard ^ NN JJ
+drunkards ^ NN
+drunken ^ JJ VB
+drunkenness ^ NN
+drusilla ^ NN
+dry ^ JJ VB
+dryshod ^ NN
+due ^ JJ
+dues ^ NN
+duke ^ NN
+dukes ^ NN
+dulcimer ^ JJ NN
+dull ^ JJ
+dumah ^ NN
+dumb ^ JJ
+dung ^ NN
+dungeon ^ NN
+dunghill ^ NN
+dunghills ^ NN
+dura ^ NN
+durable ^ JJ
+dureth ^ IN
+durst ^ JJ IN RB
+dust ^ NN
+duties ^ NN
+duty ^ NN
+dwarf ^ NN
+dwell ^ NN RB VB
+dwelled ^ VB
+dwellers ^ NN
+dwellest ^ NN
+dwelleth ^ NN VB
+dwelling ^ NN
+dwellingplace ^ NN
+dwellingplaces ^ NN
+dwellings ^ NN
+dwelt ^ NN VB
+dyed ^ VB JJ
+dying ^ VB
+each ^ JJ
+eagle ^ NN
+eagles ^ NN
+ear ^ NN
+eared ^ VB
+earing ^ VB JJ
+early ^ RB JJ
+earnest ^ NN
+earnestly ^ RB JJ
+earneth ^ VB NN
+earring ^ NN
+earrings ^ NN
+ears ^ NN
+earth ^ NN
+earthen ^ NN RB
+earthly ^ RB JJ
+earthquake ^ NN
+earthquakes ^ NN
+earthy ^ NN JJ
+ease ^ VB
+eased ^ VB
+easier ^ JJR
+easily ^ RB
+east ^ JJ JJS
+easter ^ NN
+eastward ^ RB JJ
+easy ^ JJ
+eat ^ NN
+eaten ^ VB
+eater ^ NN
+eaters ^ NN
+eatest ^ NN VB
+eateth ^ NN
+eating ^ NN
+ebal ^ NN
+ebed ^ NN
+ebedmelech ^ NN
+ebenezer ^ NN
+eber ^ NN
+ebiasaph ^ NN
+ebony ^ NN
+ebronah ^ NN
+ecclesiastes ^ NN
+ed ^ VB
+edar ^ NN
+eden ^ NN
+eder ^ NN
+edge ^ NN
+edged ^ VB
+edges ^ NN
+edification ^ NN
+edified ^ VB
+edifieth ^ NN
+edify ^ VB
+edifying ^ VB NN
+edom ^ NN
+edomite ^ NN
+edomites ^ NN
+edrei ^ NN
+effect ^ NN
+effected ^ VB
+effectual ^ NN JJ
+effectually ^ RB
+effeminate ^ JJ
+egg ^ NN
+eggs ^ NN
+eglah ^ NN
+eglaim ^ NN
+eglon ^ NN
+egypt ^ NN
+egyptian ^ NN
+egyptians ^ NN
+ehi ^ NN
+ehud ^ NN
+eight ^ CD
+eighteen ^ CD
+eighteenth ^ JJ
+eighth ^ JJ
+eightieth ^ VB
+eighty ^ CD
+either ^ CC JJ RB
+eker ^ NN
+ekron ^ NN
+ekronites ^ NN
+eladah ^ NN
+elah ^ NN
+elam ^ NN
+elamites ^ NN
+elasah ^ NN
+elath ^ NN
+elbethel ^ NN
+eldaah ^ NN
+eldad ^ NN
+elder ^ NN
+elders ^ NN
+eldest ^ JJ JJS
+elead ^ NN
+elealeh ^ NN
+eleasah ^ NN
+eleazar ^ NN
+elect ^ NN
+elected ^ VB
+election ^ NN
+eleloheisrael ^ NN
+elements ^ NN
+eleph ^ NN
+eleven ^ NN
+eleventh ^ NN
+elhanan ^ NN
+eli ^ NN
+eliab ^ NN
+eliada ^ NN
+eliadah ^ NN
+eliah ^ NN
+eliahba ^ NN
+eliakim ^ NN
+eliam ^ NN
+elias ^ NN
+eliasaph ^ NN
+eliashib ^ NN
+eliathah ^ NN
+elidad ^ NN
+eliel ^ NN
+elienai ^ NN
+eliezer ^ NN
+elihoenai ^ NN
+elihoreph ^ NN
+elihu ^ NN
+elijah ^ NN
+elika ^ NN
+elim ^ NN
+elimelech ^ NN
+elioenai ^ NN
+eliphal ^ NN
+eliphalet ^ NN
+eliphaz ^ NN
+elipheleh ^ NN
+eliphelet ^ NN
+elisabeth ^ NN
+eliseus ^ NN
+elisha ^ NN
+elishah ^ NN
+elishama ^ NN
+elishaphat ^ NN
+elisheba ^ NN
+elishua ^ NN
+eliud ^ NN
+elizaphan ^ NN
+elizur ^ NN
+elkanah ^ NN
+elkoshite ^ NN
+ellasar ^ NN
+elmodam ^ NN
+elms ^ NN
+elnaam ^ NN
+elnathan ^ NN
+eloi ^ NN
+elon ^ NN
+elonbethhanan ^ NN
+elonites ^ NN
+eloquent ^ JJ
+eloth ^ NN
+elpaal ^ NN
+elpalet ^ NN
+elparan ^ NN
+else ^ JJ RB
+eltekeh ^ NN
+eltekon ^ NN
+eltolad ^ NN
+elul ^ NN
+eluzai ^ NN
+elymas ^ NN
+elzabad ^ NN
+elzaphan ^ NN
+embalm ^ VB
+embalmed ^ VB
+emboldened ^ VB
+emboldeneth ^ VB
+embrace ^ NN VB
+embraced ^ VB
+embracing ^ VB NN
+embroider ^ NN
+embroiderer ^ NN
+emerald ^ NN
+emeralds ^ NN
+emerods ^ NN
+emims ^ NN
+eminent ^ JJ NN
+emins ^ NN
+emmanuel ^ NN
+emmaus ^ NN
+emmor ^ NN
+empire ^ NN
+employ ^ VB
+employed ^ VB
+employment ^ NN
+emptied ^ VB JJ
+emptiers ^ NN
+emptiness ^ NN
+empty ^ JJ VB
+emulation ^ NN
+emulations ^ NN
+enabled ^ VB
+enam ^ NN
+enan ^ NN
+encamp ^ NN VB
+encamped ^ VB
+encampeth ^ VB NN
+encamping ^ VB
+enchanter ^ NN
+enchanters ^ NN
+enchantment ^ NN
+enchantments ^ NN
+encountered ^ VB
+encourage ^ VB
+encouraged ^ VB
+end ^ NN
+endamage ^ NN
+endanger ^ VB
+endangered ^ VB
+endeavour ^ VB
+endeavoured ^ VB
+endeavouring ^ VB
+endeavours ^ NN
+ended ^ VB
+endeth ^ NN
+ending ^ VB
+endless ^ JJ
+endor ^ NN
+endow ^ VB
+ends ^ NN
+endued ^ VB JJ
+endure ^ VB NN JJ
+endured ^ VB
+endureth ^ NN VB JJ
+enduring ^ VB NN
+eneglaim ^ NN
+enemies ^ NN
+enemy ^ NN
+enflaming ^ VB
+engaged ^ VB
+engannim ^ NN
+engedi ^ NN
+engines ^ NN
+engrafted ^ JJ
+engrave ^ VB
+engraven ^ NN
+engraver ^ NN
+engravings ^ NN
+enhaddah ^ NN
+enhakkore ^ NN
+enhazor ^ NN
+enjoin ^ VB
+enjoined ^ VB
+enjoy ^ VB JJ
+enjoyed ^ VB
+enlarge ^ VB NN
+enlarged ^ VB
+enlargement ^ NN
+enlargeth ^ JJ VB
+enlarging ^ JJ
+enlighten ^ VB
+enlightened ^ VB
+enlightening ^ VB
+enmishpat ^ NN
+enmity ^ NN
+enoch ^ NN
+enos ^ NN
+enosh ^ NN
+enough ^ RB JJ
+enquire ^ VB NN JJ
+enquired ^ VB JJ
+enquirest ^ NN
+enquiry ^ NN
+enrich ^ VB
+enriched ^ VB
+enrichest ^ VB
+enrimmon ^ NN
+enrogel ^ NN
+ensample ^ NN JJ
+ensamples ^ NN
+enshemesh ^ NN
+ensign ^ NN
+ensigns ^ NN
+ensnared ^ VB
+ensue ^ VB
+entangle ^ VB
+entangled ^ VB
+entangleth ^ NN
+entappuah ^ NN
+enter ^ VB
+entered ^ VB
+entereth ^ NN
+entering ^ NN VB
+enterprise ^ NN
+entertain ^ VB
+entertained ^ VB
+entice ^ NN VB
+enticed ^ VB
+enticeth ^ VB
+enticing ^ VB
+entire ^ JJ
+entrance ^ NN
+entrances ^ NN
+entreat ^ VB NN
+entreated ^ VB
+entreateth ^ VB
+entries ^ NN
+entry ^ NN
+envied ^ VB JJ
+envies ^ NN
+enviest ^ VB
+envieth ^ VB
+envious ^ JJ
+environ ^ VB
+envy ^ NN
+envying ^ NN
+envyings ^ NN
+epaenetus ^ NN
+epaphras ^ NN
+epaphroditus ^ NN
+ephah ^ NN
+ephai ^ NN
+epher ^ NN
+ephesdammim ^ NN
+ephesian ^ NN
+ephesians ^ NN
+ephesus ^ NN
+ephlal ^ NN
+ephod ^ NN JJ
+ephphatha ^ NN
+ephraim ^ NN
+ephraimite ^ NN
+ephraimites ^ NN
+ephratah ^ NN
+ephrath ^ NN
+ephrathite ^ NN
+ephrathites ^ NN
+ephron ^ NN
+epicureans ^ NN
+epistle ^ NN
+epistles ^ NN
+equal ^ JJ
+equality ^ NN
+equally ^ RB
+equals ^ NN
+equity ^ NN
+er ^ NN
+eran ^ NN
+eranites ^ NN
+erastus ^ NN
+ere ^ NN VB
+erech ^ NN
+erected ^ VB
+eri ^ NN
+erites ^ NN
+err ^ NN
+errand ^ NN
+erred ^ VB
+erreth ^ NN
+error ^ NN
+errors ^ NN
+esaias ^ NN
+esarhaddon ^ NN
+esau ^ NN
+escape ^ NN
+escaped ^ VB
+escapeth ^ VB NN
+escaping ^ VB
+eschew ^ VB
+eschewed ^ VB
+escheweth ^ NN
+esek ^ NN
+eshbaal ^ NN
+eshban ^ NN
+eshcol ^ NN
+eshean ^ NN
+eshek ^ NN
+eshkalonites ^ NN
+eshtaol ^ NN
+eshtaulites ^ NN
+eshtemoa ^ NN
+eshtemoh ^ NN
+eshton ^ NN
+esli ^ NN
+especially ^ RB
+espied ^ VB
+espousals ^ NN
+espoused ^ VB
+espy ^ VB NN
+esrom ^ NN
+establish ^ VB
+established ^ VB
+establisheth ^ VB NN
+establishment ^ NN
+estate ^ NN
+estates ^ NN
+esteem ^ VB
+esteemed ^ VB
+esteemeth ^ VB NN
+esteeming ^ VB
+esther ^ NN
+estimate ^ NN
+estimation ^ NN
+estimations ^ NN
+estranged ^ VB
+etam ^ NN
+eternal ^ JJ CC
+eternity ^ NN
+etham ^ NN
+ethan ^ NN
+ethanim ^ NN
+ethbaal ^ NN
+ether ^ NN
+ethiopia ^ NN
+ethiopian ^ NN
+ethiopians ^ NN
+ethnan ^ NN
+ethni ^ NN
+eubulus ^ NN
+eunice ^ NN
+eunuch ^ NN
+eunuchs ^ NN
+euodias ^ NN
+euphrates ^ NN
+euroclydon ^ NN
+eutychus ^ NN
+evangelist ^ NN
+evangelists ^ NN
+eve ^ NN
+even ^ RB JJ
+evening ^ NN
+evenings ^ NN
+eveningtide ^ NN JJ
+event ^ NN
+eventide ^ NN RB
+ever ^ RB
+everlasting ^ NN
+evermore ^ RB JJ RBR
+every ^ JJ
+everything ^ NN
+evi ^ NN
+evidence ^ NN
+evidences ^ NN
+evident ^ JJ
+evidently ^ RB
+evil ^ NN
+evildoer ^ NN
+evildoers ^ NN
+evilfavouredness ^ NN
+evilmerodach ^ NN
+evils ^ NN
+ewe ^ JJ NN
+ewes ^ VB NN
+exact ^ VB NN JJ
+exacted ^ VB
+exacteth ^ NN
+exaction ^ NN
+exactions ^ NN
+exactors ^ NN
+exalt ^ NN
+exalted ^ VB
+exaltest ^ NN
+exalteth ^ NN
+examination ^ NN
+examine ^ NN
+examined ^ VB
+examining ^ VB
+example ^ NN
+examples ^ NN
+exceed ^ VB
+exceeded ^ VB
+exceedest ^ NN
+exceedeth ^ IN
+exceeding ^ VB NN JJ
+exceedingly ^ RB
+excel ^ NN
+excelled ^ VB
+excellency ^ NN
+excellent ^ JJ
+excellest ^ IN
+excelleth ^ IN NN
+except ^ IN
+excepted ^ VB
+excess ^ NN JJ
+exchange ^ NN
+exchangers ^ NN
+exclude ^ VB
+excluded ^ VB
+excuse ^ NN
+excused ^ VB
+excusing ^ VB
+execration ^ NN
+execute ^ JJ VB
+executed ^ VB
+executedst ^ VB
+executest ^ NN
+executeth ^ NN JJ
+executing ^ NN VB
+execution ^ NN
+executioner ^ NN
+exempted ^ VB
+exercise ^ NN VB
+exercised ^ VB
+exerciseth ^ VB
+exhort ^ NN
+exhortation ^ NN
+exhorted ^ VB
+exhorteth ^ VB
+exhorting ^ VB NN
+exile ^ NN
+exodus ^ NN
+exorcists ^ NN
+expectation ^ NN
+expected ^ VB
+expecting ^ VB
+expedient ^ JJ
+expel ^ VB
+expelled ^ VB
+expenses ^ NN
+experience ^ NN
+experiment ^ NN
+expert ^ NN
+expired ^ VB
+exploits ^ NN
+expound ^ NN
+expounded ^ VB
+express ^ JJ
+expressed ^ VB
+expressly ^ RB
+extend ^ VB
+extended ^ VB
+extendeth ^ VB
+extinct ^ JJ
+extol ^ NN
+extolled ^ VB
+extortion ^ NN
+extortioner ^ NN
+extortioners ^ NN
+extreme ^ JJ
+extremity ^ NN
+eye ^ NN
+eyebrows ^ NN
+eyed ^ VB
+eyelids ^ NN
+eyes ^ NN
+eyesalve ^ NN
+eyeservice ^ NN
+eyesight ^ NN
+eyewitnesses ^ NN
+ezar ^ NN
+ezbai ^ NN
+ezbon ^ NN
+ezekias ^ NN
+ezekiel ^ NN
+ezel ^ NN
+ezem ^ NN
+ezer ^ NN
+eziongaber ^ NN
+eziongeber ^ NN
+eznite ^ NN
+ezra ^ NN
+ezrahite ^ NN
+ezri ^ NN
+fables ^ NN
+face ^ NN
+faces ^ VB
+fade ^ VB
+fadeth ^ NN VB
+fading ^ JJ
+fail ^ VB
+failed ^ VB
+faileth ^ NN VB
+failing ^ VB
+fain ^ VB RB
+faint ^ NN
+fainted ^ JJ VB
+faintest ^ NN
+fainteth ^ JJ VB NN
+fainthearted ^ JJ VB
+faintness ^ NN
+fair ^ JJ RB
+fairer ^ JJR
+fairest ^ NN
+fairs ^ . VB
+faith ^ NN
+faithful ^ NN
+faithfully ^ RB
+faithfulness ^ NN
+faithless ^ RB IN
+fall ^ NN
+fallen ^ VB
+fallest ^ IN
+falleth ^ NN
+falling ^ VB
+fallow ^ NN VB JJ
+fallowdeer ^ NN
+false ^ JJ
+falsehood ^ NN
+falsely ^ RB JJ
+falsifying ^ VB
+fame ^ NN
+familiar ^ JJ
+familiars ^ NN
+families ^ NN
+family ^ NN
+famine ^ NN
+famines ^ NN
+famish ^ JJ
+famished ^ JJ
+famous ^ JJ
+fan ^ NN VB
+fanners ^ NN
+far ^ RB JJ
+fare ^ NN
+fared ^ VB
+farewell ^ RB
+farm ^ NN
+farther ^ RBR JJ
+farthing ^ NN
+farthings ^ NN
+fashion ^ NN
+fashioned ^ VB
+fashioneth ^ VB NN
+fashioning ^ VB
+fashions ^ NN
+fast ^ RB JJ
+fasted ^ VB JJ
+fasten ^ RB VB
+fastened ^ VB .
+fastening ^ VB
+fastest ^ NN
+fasting ^ NN
+fastings ^ NN
+fat ^ NN
+fatfleshed ^ JJ VB
+father ^ NN
+fatherless ^ JJ . NN RB RBR IN
+fathers ^ NN
+fathoms ^ NN
+fatling ^ NN
+fatlings ^ NN
+fatness ^ NN
+fats ^ NN
+fatted ^ VB JJ
+fatter ^ NN
+fattest ^ NN
+fault ^ NN
+faultless ^ JJ
+faults ^ NN
+faulty ^ NN
+favour ^ NN JJ VB IN
+favourable ^ JJ
+favoured ^ VB JJ
+favourest ^ NN
+favoureth ^ VB
+fear ^ NN
+feared ^ VB
+fearest ^ NN
+feareth ^ NN
+fearful ^ JJ
+fearfully ^ RB
+fearfulness ^ NN
+fearing ^ VB
+fears ^ NN
+feast ^ NN
+feasted ^ VB
+feasting ^ NN
+feasts ^ NN
+feathered ^ VB
+feathers ^ NN
+fed ^ NN
+feeble ^ NN
+feebleminded ^ VB
+feebleness ^ NN
+feebler ^ NN
+feed ^ NN
+feedest ^ NN
+feedeth ^ NN
+feeding ^ VB
+feedingplace ^ NN
+feel ^ VB
+feeling ^ NN
+feet ^ NN
+feign ^ JJ VB
+feigned ^ VB JJ
+feignedly ^ RB
+feignest ^ JJ VB
+felix ^ NN
+fell ^ VB
+felled ^ VB
+feller ^ NN
+fellest ^ IN
+felling ^ VB
+felloes ^ NN
+fellow ^ NN
+fellowcitizens ^ NN
+fellowdisciples ^ NN
+fellowheirs ^ JJ
+fellowhelper ^ NN
+fellowhelpers ^ NN
+fellowlabourer ^ NN
+fellowlabourers ^ NN
+fellowprisoner ^ NN
+fellows ^ NN
+fellowservant ^ NN
+fellowservants ^ NN
+fellowship ^ NN
+fellowsoldier ^ NN
+fellowworkers ^ NN
+felt ^ VB
+female ^ NN
+fence ^ NN
+fenced ^ JJ VB
+fens ^ NN
+ferret ^ NN
+ferry ^ NN
+fervent ^ NN
+fervently ^ RB
+festus ^ NN
+fetch ^ VB
+fetched ^ VB
+fetcheth ^ VB
+fetcht ^ VB
+fetters ^ NN
+fever ^ NN
+few ^ JJ
+fewer ^ JJR
+fewest ^ JJS
+fewness ^ NN
+fidelity ^ NN
+field ^ NN
+fields ^ NN
+fierce ^ JJ NN
+fierceness ^ NN
+fiercer ^ RB
+fiery ^ NN
+fifteen ^ CD RB JJ
+fifteenth ^ JJ
+fifth ^ JJ
+fifties ^ NN
+fiftieth ^ JJ
+fifty ^ JJ RB CD
+fig ^ NN
+fight ^ NN
+fighteth ^ NN VB
+fighting ^ VB
+fightings ^ NN
+figs ^ NN
+figure ^ NN
+figures ^ NN
+file ^ NN
+fill ^ VB
+filled ^ VB JJ
+filledst ^ NN
+fillest ^ NN
+fillet ^ NN
+filleted ^ VB
+filleth ^ VB NN
+fillets ^ NN
+filling ^ VB
+filth ^ NN
+filthiness ^ NN VB
+filthy ^ JJ RB VB
+finally ^ RB
+find ^ VB
+findest ^ NN
+findeth ^ VB JJ NN
+finding ^ VB
+fine ^ NN
+finer ^ NN
+finest ^ JJS
+finger ^ NN
+fingers ^ NN
+fining ^ NN
+finish ^ VB
+finished ^ VB
+finisher ^ NN
+fins ^ NN
+fir ^ JJ NN
+fire ^ NN
+firebrand ^ NN
+firebrands ^ NN
+firepans ^ NN
+fires ^ NN
+firkins ^ NN
+firm ^ JJ NN
+firmament ^ NN
+first ^ JJ RB
+firstbegotten ^ JJ
+firstborn ^ NN JJ
+firstfruit ^ NN
+firstfruits ^ NN
+firstling ^ JJ NN
+firstlings ^ NN
+firstripe ^ NN JJ
+fish ^ NN
+fisher ^ NN
+fishermen ^ NN
+fishers ^ NN
+fishes ^ NN
+fishhooks ^ NN
+fishing ^ NN
+fishpools ^ NN
+fist ^ NN
+fists ^ NN
+fit ^ NN
+fitches ^ NN
+fitly ^ RB
+fitted ^ VB
+fitteth ^ VB
+five ^ CD
+fixed ^ VB
+flag ^ NN
+flagon ^ NN
+flagons ^ NN
+flags ^ NN
+flakes ^ NN
+flame ^ NN
+flames ^ NN
+flaming ^ NN JJ
+flanks ^ NN
+flash ^ NN
+flat ^ JJ
+flatter ^ RB
+flattereth ^ VB NN
+flatteries ^ NN
+flattering ^ VB JJ NN
+flattery ^ NN
+flax ^ NN JJ
+flay ^ VB
+flayed ^ VB
+flea ^ NN
+fled ^ VB
+fleddest ^ NN
+flee ^ NN VB JJ
+fleece ^ NN
+fleeing ^ NN VB
+fleeth ^ NN
+flesh ^ NN
+fleshhook ^ NN
+fleshhooks ^ NN
+fleshly ^ JJ RB
+fleshy ^ JJ
+flew ^ VB
+flies ^ NN
+flieth ^ NN
+flight ^ NN
+flint ^ NN
+flinty ^ NN
+floats ^ NN
+flock ^ NN
+flocks ^ NN
+flood ^ NN
+floods ^ NN
+floor ^ NN
+floors ^ NN
+flour ^ NN
+flourish ^ JJ VB NN
+flourished ^ VB
+flourisheth ^ VB
+flourishing ^ NN VB
+flow ^ NN
+flowed ^ VB
+flower ^ NN
+flowers ^ NN
+floweth ^ NN VB
+flowing ^ VB JJ
+flute ^ NN
+fluttereth ^ NN
+flux ^ NN
+fly ^ NN
+flying ^ VB
+foal ^ NN
+foals ^ NN
+foam ^ NN
+foameth ^ NN
+foaming ^ VB
+fodder ^ NN
+foes ^ NN
+fold ^ NN
+folden ^ JJ
+foldeth ^ IN
+folding ^ JJ VB NN
+folds ^ VB NN .
+folk ^ NN
+folks ^ NN
+follow ^ VB
+followed ^ VB
+followedst ^ NN
+followers ^ NN
+followeth ^ IN VB NN
+following ^ VB
+folly ^ NN
+food ^ NN
+fool ^ NN
+foolish ^ NN
+foolishly ^ RB
+foolishness ^ NN
+fools ^ NN
+foot ^ NN
+footmen ^ NN
+footsteps ^ NN
+footstool ^ NN
+for ^ IN
+forasmuch ^ JJ RB
+forbad ^ VB
+forbare ^ VB NN
+forbear ^ VB NN JJ
+forbearance ^ NN
+forbeareth ^ VB JJ
+forbearing ^ NN VB
+forbid ^ NN
+forbidden ^ VB
+forbiddeth ^ VB
+forbidding ^ VB
+forborn ^ VB
+force ^ NN
+forced ^ VB
+forces ^ NN
+forcible ^ JJ
+forcing ^ VB
+ford ^ NN
+fords ^ NN
+forecast ^ VB
+forefathers ^ NN
+forefront ^ NN
+forehead ^ NN
+foreheads ^ NN
+foreigner ^ NN
+foreigners ^ NN
+foreknew ^ VB
+foreknow ^ RB
+foreknowledge ^ NN
+foremost ^ NN
+foreordained ^ VB
+forepart ^ NN
+forerunner ^ NN
+foresaw ^ NN
+foreseeing ^ VB
+foreseeth ^ IN
+foreship ^ NN
+foreskin ^ NN JJ RB
+foreskins ^ NN
+forest ^ NN
+forests ^ NN
+foretell ^ NN
+foretold ^ VB
+forewarn ^ VB
+forewarned ^ VB
+forfeited ^ VB
+forgat ^ IN
+forgave ^ VB JJ NN
+forgavest ^ VB
+forged ^ VB
+forgers ^ NN
+forget ^ VB NN RB
+forgetful ^ JJ
+forgetfulness ^ NN
+forgettest ^ VB
+forgetteth ^ NN VB IN
+forgetting ^ VB
+forgive ^ JJ IN VB NN
+forgiven ^ VB
+forgiveness ^ NN
+forgivenesses ^ NN
+forgiveth ^ VB NN
+forgiving ^ VB
+forgot ^ IN
+forgotten ^ VB RB
+forks ^ NN
+form ^ NN
+formed ^ VB
+former ^ JJ
+formeth ^ VB IN
+forms ^ NN
+fornication ^ NN IN CD
+fornications ^ NN
+fornicator ^ NN
+fornicators ^ NN
+forsake ^ IN NN JJ VB
+forsaken ^ IN VB . JJ RB
+forsaketh ^ VB IN
+forsaking ^ NN VB
+forsomuch ^ RB
+forsook ^ NN
+forsookest ^ NN
+forswear ^ IN
+fort ^ NN
+forth ^ RB JJ RP IN NN
+forthwith ^ IN JJ RB
+fortieth ^ JJ
+fortified ^ VB JJ
+fortify ^ VB RB
+fortress ^ NN
+fortresses ^ NN VB
+forts ^ NN
+fortunatus ^ NN
+forty ^ NN
+forum ^ NN
+forward ^ RB RP IN
+forwardness ^ NN
+fought ^ VB
+foul ^ JJ VB
+fouled ^ VB
+fouledst ^ VB
+found ^ VB
+foundation ^ NN
+foundations ^ NN
+founded ^ VB
+founder ^ NN
+foundest ^ VB
+fountain ^ NN
+fountains ^ NN
+four ^ CD
+fourfold ^ VB
+fourfooted ^ JJ VB
+fourscore ^ JJ IN NN , .
+foursquare ^ JJ IN
+fourteen ^ CD JJ VB
+fourteenth ^ JJ
+fourth ^ JJ
+fowl ^ NN RB
+fowler ^ NN
+fowlers ^ NN
+fowls ^ NN
+fox ^ NN
+foxes ^ NN
+fragments ^ NN
+frail ^ JJ
+frame ^ VB NN
+framed ^ JJ VB
+frameth ^ NN
+frankincense ^ NN
+frankly ^ RB
+fraud ^ NN
+fray ^ VB NN
+freckled ^ JJ
+free ^ JJ RB VB
+freed ^ VB
+freedom ^ NN
+freely ^ JJ RB
+freeman ^ NN
+freewill ^ JJ NN RB
+freewoman ^ NN
+frequent ^ JJ
+fresh ^ JJ
+fresher ^ JJR
+fret ^ JJ NN VB
+fretted ^ VB
+fretteth ^ NN
+fretting ^ VB JJ
+fried ^ JJ
+friend ^ NN
+friendly ^ JJ
+friends ^ NN
+friendship ^ NN
+fringe ^ NN
+fringes ^ NN
+fro ^ CD IN NN
+frogs ^ NN
+from ^ IN
+front ^ NN
+frontiers ^ NN
+frontlets ^ NN
+frost ^ NN
+froward ^ JJ NN IN
+frowardly ^ RB
+frowardness ^ NN .
+frozen ^ JJ
+fruit ^ NN
+fruitful ^ JJ
+fruits ^ NN
+frustrate ^ VB
+frustrateth ^ IN
+fryingpan ^ NN
+fuel ^ NN
+fugitive ^ JJ
+fugitives ^ NN
+fulfil ^ VB IN NN
+fulfilled ^ VB JJ
+fulfilling ^ VB NN
+full ^ JJ
+fuller ^ NN
+fullers ^ NN
+fully ^ RB
+fulness ^ NN
+furbish ^ VB
+furbished ^ VB JJ
+furious ^ JJ
+furiously ^ RB
+furlongs ^ NN
+furnace ^ NN
+furnaces ^ NN
+furnish ^ JJ VB
+furnished ^ VB
+furniture ^ NN
+furrow ^ NN
+furrows ^ NN
+further ^ RBR RB JJ
+furtherance ^ NN
+furthered ^ VB
+furthermore ^ RBR IN VB RB JJR
+fury ^ JJ NN RB
+gaal ^ NN
+gaash ^ NN
+gaba ^ NN
+gabbai ^ NN
+gabbatha ^ NN
+gabriel ^ NN
+gad ^ NN
+gadarenes ^ NN
+gaddest ^ JJ
+gaddi ^ NN
+gaddiel ^ NN
+gadi ^ NN
+gadite ^ NN
+gadites ^ NN
+gaham ^ NN
+gahar ^ NN
+gain ^ NN
+gained ^ VB
+gains ^ NN
+gainsay ^ VB
+gainsayers ^ NN
+gainsaying ^ VB NN
+gaius ^ NN
+galal ^ NN
+galatia ^ NN
+galatians ^ NN
+galbanum ^ NN
+galeed ^ NN
+galilaean ^ NN
+galilaeans ^ NN
+galilee ^ NN
+gall ^ NN
+gallant ^ VB
+galleries ^ NN
+gallery ^ NN
+galley ^ NN
+gallim ^ NN
+gallio ^ NN
+gallows ^ NN
+gamaliel ^ NN
+gammadims ^ NN
+gamul ^ NN
+gap ^ NN
+gaped ^ VB
+gaps ^ NN
+garden ^ NN
+gardener ^ NN
+gardens ^ NN
+gareb ^ NN
+garlands ^ NN
+garlick ^ NN
+garment ^ NN
+garments ^ NN
+garmite ^ NN
+garner ^ NN
+garners ^ NN
+garnish ^ VB
+garnished ^ VB
+garrison ^ NN
+garrisons ^ NN VB
+gashmu ^ NN
+gat ^ NN VB
+gatam ^ NN
+gate ^ NN
+gates ^ NN
+gath ^ NN
+gather ^ NN
+gathered ^ VB
+gatherer ^ NN
+gatherest ^ NN
+gathereth ^ NN
+gathering ^ NN VB
+gatherings ^ NN
+gathhepher ^ NN
+gathrimmon ^ NN
+gave ^ VB
+gavest ^ NN
+gay ^ JJ
+gaza ^ NN
+gazathites ^ NN
+gaze ^ NN
+gazer ^ NN
+gazez ^ NN
+gazing ^ VB
+gazingstock ^ NN
+gazites ^ NN
+gazzam ^ NN
+geba ^ NN
+gebal ^ NN
+geber ^ NN
+gebim ^ NN
+gedaliah ^ NN
+gedeon ^ NN
+geder ^ NN
+gederah ^ NN
+gederathite ^ NN
+gederite ^ NN
+gederoth ^ NN
+gederothaim ^ NN
+gedor ^ NN
+gehazi ^ NN
+geliloth ^ NN
+gemalli ^ NN
+gemariah ^ NN
+gender ^ NN VB
+gendered ^ VB
+gendereth ^ NN VB
+genealogies ^ NN
+genealogy ^ NN
+general ^ JJ
+generally ^ RB
+generation ^ NN
+generations ^ NN
+genesis ^ NN
+gennesaret ^ NN
+gentile ^ NN
+gentiles ^ NN
+gentle ^ JJ
+gentleness ^ NN
+gently ^ RB
+genubath ^ NN
+gera ^ NN
+gerahs ^ NN
+gerar ^ NN
+gergesenes ^ NN
+gerizim ^ NN
+gershom ^ NN
+gershon ^ NN
+gershonite ^ NN
+gershonites ^ NN
+gesham ^ NN
+geshem ^ NN
+geshur ^ NN
+geshuri ^ NN
+geshurites ^ NN
+get ^ VB
+gether ^ NN
+gethsemane ^ NN
+getteth ^ VB NN IN
+getting ^ VB
+geuel ^ NN
+gezer ^ NN
+gezrites ^ NN
+ghost ^ NN
+giah ^ NN
+giant ^ NN
+giants ^ NN
+gibbar ^ NN
+gibbethon ^ NN
+gibea ^ NN
+gibeah ^ NN
+gibeath ^ NN
+gibeathite ^ NN
+gibeon ^ NN
+gibeonite ^ NN
+gibeonites ^ NN
+giblites ^ NN
+giddalti ^ NN
+giddel ^ NN
+gideon ^ NN
+gideoni ^ NN
+gidom ^ NN
+gier ^ NN
+gift ^ NN
+gifts ^ NN
+gihon ^ NN
+gilalai ^ NN
+gilboa ^ NN
+gilead ^ NN
+gileadite ^ NN
+gileadites ^ NN
+gilgal ^ NN
+giloh ^ NN
+gilonite ^ NN
+gimzo ^ NN
+gin ^ NN
+ginath ^ NN
+ginnetho ^ NN
+ginnethon ^ NN
+gins ^ NN
+gird ^ NN
+girded ^ VB
+girdest ^ NN
+girdeth ^ NN VB
+girding ^ NN VB
+girdle ^ NN
+girdles ^ NN
+girgashite ^ NN
+girgashites ^ NN
+girgasite ^ NN
+girl ^ NN
+girls ^ NN
+girt ^ NN VB
+gispa ^ NN
+gittahhepher ^ NN
+gittaim ^ NN
+gittite ^ NN
+gittites ^ NN
+give ^ VB
+given ^ VB
+giver ^ NN
+givest ^ VB
+giveth ^ VB IN NN
+giving ^ VB
+gizonite ^ NN
+glad ^ JJ VB NN
+gladly ^ RB NN JJ
+gladness ^ NN
+glass ^ NN
+glasses ^ NN
+glean ^ JJ VB
+gleaned ^ VB
+gleaning ^ NN VB
+gleanings ^ NN
+glede ^ NN
+glistering ^ NN VB
+glitter ^ VB
+glittering ^ NN
+gloominess ^ NN
+gloriest ^ JJS
+glorieth ^ NN
+glorified ^ VB JJ
+glorifieth ^ NN
+glorify ^ NN
+glorifying ^ NN
+glorious ^ JJ . VB
+gloriously ^ RB NN
+glory ^ NN
+glorying ^ NN
+glutton ^ NN
+gluttonous ^ JJ
+gnash ^ VB
+gnashed ^ VB
+gnasheth ^ VB
+gnashing ^ NN
+gnat ^ NN
+gnaw ^ VB
+gnawed ^ VB
+go ^ VB
+goad ^ NN
+goads ^ NN
+goat ^ NN
+goath ^ NN
+goats ^ NN
+goatskins ^ NN
+gob ^ NN
+goblet ^ NN
+god ^ NN
+goddess ^ NN
+godhead ^ NN
+godliness ^ NN
+godly ^ NN
+gods ^ NN
+goest ^ NN
+goeth ^ NN
+gog ^ NN
+going ^ VB
+goings ^ NN
+golan ^ NN
+gold ^ NN
+golden ^ JJ
+goldsmith ^ NN JJ
+goldsmiths ^ NN
+golgotha ^ NN
+goliath ^ NN
+gomer ^ NN
+gomorrah ^ NN
+gomorrha ^ NN
+gone ^ VB
+good ^ JJ NN
+goodlier ^ JJ
+goodliest ^ JJS
+goodliness ^ NN
+goodly ^ JJ RB
+goodman ^ NN
+goodness ^ NN
+goods ^ NN
+gopher ^ JJ
+gore ^ NN
+gored ^ VB
+gorgeous ^ JJ
+gorgeously ^ RB
+goshen ^ NN
+gospel ^ NN
+got ^ VB
+gotten ^ VB
+gourd ^ NN
+gourds ^ NN
+govern ^ VB NN
+government ^ NN
+governments ^ NN
+governor ^ NN
+governors ^ NN
+gozan ^ NN
+grace ^ NN
+gracious ^ JJ VB
+graciously ^ RB
+graff ^ VB
+graffed ^ VB
+grain ^ NN
+grandmother ^ JJ
+grant ^ NN
+granted ^ VB
+grape ^ NN
+grapegatherer ^ NN
+grapegatherers ^ NN
+grapegleanings ^ NN
+grapes ^ NN
+grass ^ NN
+grasshopper ^ NN
+grasshoppers ^ NN
+grate ^ NN
+grave ^ NN
+graveclothes ^ NN
+graved ^ VB
+gravel ^ NN
+graven ^ NN RB JJ VB
+graves ^ NN
+graveth ^ NN
+graving ^ VB NN
+gravings ^ NN
+gravity ^ NN
+gray ^ JJ
+grayheaded ^ JJ
+grease ^ NN
+great ^ JJ
+greater ^ JJR
+greatest ^ JJS
+greatly ^ RB JJ
+greatness ^ NN
+greaves ^ NN
+grecia ^ NN
+grecians ^ NN
+greece ^ NN
+greedily ^ RB
+greediness ^ NN
+greedy ^ JJ
+greek ^ NN
+greeks ^ NN
+green ^ JJ
+greenish ^ JJ
+greenness ^ NN
+greet ^ NN
+greeteth ^ NN
+greeting ^ NN
+greetings ^ NN
+grew ^ VB
+grey ^ JJ
+greyheaded ^ VB
+greyhound ^ NN
+grief ^ NN
+griefs ^ NN
+grievance ^ NN
+grieve ^ NN
+grieved ^ VB .
+grieveth ^ VB
+grieving ^ VB
+grievous ^ JJ NN VB
+grievously ^ RB
+grievousness ^ NN
+grind ^ NN VB
+grinders ^ NN
+grinding ^ VB
+grisled ^ JJ VB
+groan ^ NN
+groaned ^ VB
+groaneth ^ NN
+groaning ^ NN VB
+groanings ^ NN
+grope ^ NN VB
+gropeth ^ NN
+gross ^ JJ
+ground ^ NN
+grounded ^ JJ VB
+grove ^ NN
+groves ^ NN VB
+grow ^ VB
+groweth ^ NN
+grown ^ VB
+growth ^ NN
+grudge ^ NN VB
+grudging ^ VB
+grudgingly ^ RB
+guard ^ NN
+gudgodah ^ NN
+guest ^ NN
+guestchamber ^ NN
+guests ^ NN
+guide ^ NN
+guided ^ VB
+guides ^ NN
+guiding ^ VB
+guile ^ NN
+guilt ^ NN
+guiltiness ^ NN
+guiltless ^ JJ
+guilty ^ JJ
+gulf ^ NN
+guni ^ NN
+gunites ^ NN
+gur ^ NN
+gurbaal ^ NN
+gush ^ VB
+gushed ^ VB
+gutter ^ NN
+gutters ^ NN
+ha ^ NN
+haahashtari ^ NN
+habaiah ^ NN
+habakkuk ^ NN
+habaziniah ^ NN
+habergeon ^ NN
+habergeons ^ NN
+habitable ^ JJ
+habitation ^ NN
+habitations ^ NN
+habor ^ NN
+hachaliah ^ NN
+hachilah ^ NN
+hachmoni ^ NN
+hachmonite ^ NN
+had ^ VB
+hadad ^ NN
+hadadezer ^ NN
+hadadrimmon ^ NN
+hadar ^ NN
+hadarezer ^ NN
+hadashah ^ NN
+hadassah ^ NN
+hadattah ^ NN
+hadid ^ NN
+hadlai ^ NN
+hadoram ^ NN
+hadrach ^ NN
+hadst ^ NN
+haft ^ NN
+hagab ^ NN
+hagaba ^ NN
+hagabah ^ NN
+hagar ^ NN
+hagarenes ^ NN
+hagarites ^ NN
+hagerite ^ NN
+haggai ^ NN
+haggeri ^ NN
+haggi ^ NN
+haggiah ^ NN
+haggites ^ NN
+haggith ^ NN
+hai ^ NN
+hail ^ NN JJ VB
+hailstones ^ NN
+hair ^ NN
+hairs ^ NN
+hairy ^ NN JJ
+hakkatan ^ NN
+hakkoz ^ NN
+hakupha ^ NN
+halah ^ NN
+halak ^ NN
+hale ^ NN
+half ^ NN
+halhul ^ NN
+hali ^ NN
+haling ^ JJ
+hall ^ NN
+hallohesh ^ NN
+hallow ^ NN
+hallowed ^ VB JJ
+halohesh ^ NN
+halt ^ NN VB
+halted ^ VB
+halteth ^ NN
+halting ^ NN
+ham ^ NN
+haman ^ NN
+hamath ^ NN
+hamathite ^ NN
+hamathzobah ^ NN
+hammath ^ NN
+hammedatha ^ NN
+hammelech ^ NN
+hammer ^ NN
+hammers ^ NN
+hammoleketh ^ NN
+hammon ^ NN
+hammothdor ^ NN
+hamonah ^ NN
+hamongog ^ NN
+hamor ^ NN
+hamuel ^ NN
+hamul ^ NN
+hamulites ^ NN
+hamutal ^ NN
+hanameel ^ NN
+hanan ^ NN
+hananeel ^ NN
+hanani ^ NN
+hananiah ^ NN
+hand ^ NN
+handbreadth ^ NN
+handed ^ VB
+handful ^ NN
+handfuls ^ NN
+handkerchiefs ^ NN
+handle ^ VB
+handled ^ VB
+handles ^ VB
+handleth ^ VB
+handling ^ VB
+handmaid ^ NN
+handmaiden ^ NN
+handmaidens ^ NN
+handmaids ^ NN
+hands ^ NN
+handstaves ^ NN
+handwriting ^ NN
+handywork ^ NN
+hanes ^ NN
+hang ^ VB NN
+hanged ^ VB
+hangeth ^ VB
+hanging ^ NN VB
+hangings ^ NN
+haniel ^ NN
+hannah ^ NN
+hannathon ^ NN
+hanniel ^ NN
+hanoch ^ NN
+hanochites ^ NN
+hanun ^ NN
+hap ^ NN
+haphraim ^ NN
+haply ^ RB VB
+happen ^ VB
+happened ^ VB
+happeneth ^ VB
+happier ^ JJR
+happy ^ JJ VB
+hara ^ NN
+haradah ^ NN
+haran ^ NN
+hararite ^ NN
+harbona ^ NN
+harbonah ^ NN
+hard ^ JJ RB
+harden ^ NN
+hardened ^ VB JJ .
+hardeneth ^ VB IN .
+harder ^ JJR
+hardhearted ^ JJ
+hardly ^ RB
+hardness ^ NN
+hare ^ NN
+hareph ^ NN
+hareth ^ NN
+harhaiah ^ NN
+harhas ^ NN
+harhur ^ NN
+harim ^ NN
+hariph ^ NN
+harlot ^ NN
+harlots ^ NN
+harm ^ NN
+harmless ^ JJ
+harnepher ^ NN
+harness ^ NN
+harnessed ^ VB
+harod ^ NN
+harodite ^ NN
+haroeh ^ NN
+harorite ^ NN
+harosheth ^ NN
+harp ^ JJ
+harped ^ VB
+harpers ^ NN
+harping ^ NN
+harps ^ NN
+harrow ^ VB
+harrows ^ NN
+harsha ^ NN
+hart ^ NN
+harts ^ NN
+harum ^ NN
+harumaph ^ NN
+haruphite ^ NN
+haruz ^ NN
+harvest ^ NN
+harvestman ^ NN
+has ^ VB
+hasadiah ^ NN
+hasenuah ^ NN
+hashabiah ^ NN
+hashabnah ^ NN
+hashabniah ^ NN
+hashbadana ^ NN
+hashem ^ NN
+hashmonah ^ NN
+hashub ^ NN
+hashubah ^ NN
+hashum ^ NN
+hashupha ^ NN
+hasrah ^ NN
+hassenaah ^ NN
+hasshub ^ NN
+hast ^ JJ VB NN RB . , CC
+haste ^ NN
+hasted ^ VB
+hasten ^ VB
+hastened ^ VB
+hasteneth ^ VB
+hasteth ^ VB
+hastily ^ RB
+hasting ^ VB
+hasty ^ JJ
+hasupha ^ NN
+hatach ^ NN
+hatch ^ NN VB
+hatcheth ^ VB
+hate ^ NN
+hated ^ VB
+hateful ^ JJ
+hatefully ^ RB
+haters ^ NN
+hatest ^ NN
+hateth ^ NN
+hath ^ NN VB IN SYM JJ
+hathath ^ NN
+hating ^ NN
+hatipha ^ NN
+hatita ^ NN
+hatred ^ VB JJ CC NN .
+hats ^ NN
+hattil ^ NN
+hattush ^ NN
+haughtily ^ RB
+haughtiness ^ NN
+haughty ^ JJ
+haunt ^ NN VB
+hauran ^ NN
+have ^ VB
+haven ^ NN
+havens ^ NN
+havilah ^ NN
+having ^ VB
+havock ^ NN
+havothjair ^ NN
+hawk ^ NN
+hay ^ NN
+hazael ^ NN
+hazaiah ^ NN
+hazaraddar ^ NN
+hazarded ^ NN
+hazarenan ^ NN
+hazargaddah ^ NN
+hazarhatticon ^ NN
+hazarmaveth ^ NN
+hazarshual ^ NN
+hazarsusah ^ NN
+hazarsusim ^ NN
+hazazontamar ^ NN
+hazel ^ NN
+hazelelponi ^ NN
+hazerim ^ NN
+hazeroth ^ NN
+hazezontamar ^ NN
+haziel ^ NN
+hazo ^ NN
+hazor ^ NN
+he ^ NN
+head ^ NN
+headbands ^ NN
+headlong ^ JJ VB
+heads ^ NN
+headstone ^ NN
+heady ^ JJ
+heal ^ NN
+healed ^ VB .
+healer ^ NN
+healeth ^ NN VB
+healing ^ NN
+healings ^ NN
+health ^ NN
+heap ^ NN
+heaped ^ VB
+heapeth ^ VB NN
+heaps ^ NN RB
+hear ^ VB
+heard ^ VB
+heardest ^ VB NN
+hearer ^ NN
+hearers ^ NN
+hearest ^ NN
+heareth ^ VB NN IN .
+hearing ^ NN
+hearken ^ VB JJ NN LS
+hearkened ^ VB
+hearkenedst ^ NN
+hearkeneth ^ NN
+hearkening ^ VB
+heart ^ NN
+hearted ^ VB
+hearth ^ NN
+heartily ^ RB
+hearts ^ NN
+hearty ^ NN
+heat ^ NN
+heated ^ VB
+heath ^ NN
+heathen ^ NN
+heave ^ JJ VB
+heaved ^ VB
+heaven ^ NN
+heavenly ^ JJ RB NN
+heavens ^ NN
+heavier ^ JJR
+heavily ^ RB
+heaviness ^ NN
+heavy ^ JJ NN
+heber ^ NN
+heberites ^ NN
+hebrew ^ NN
+hebrewess ^ NN
+hebrews ^ NN
+hebron ^ NN
+hebronites ^ NN
+hedge ^ NN
+hedged ^ VB
+hedges ^ NN
+heed ^ VB NN JJ
+heel ^ NN
+heels ^ NN
+hegai ^ NN
+hege ^ NN
+heifer ^ NN
+height ^ NN
+heights ^ NN
+heinous ^ JJ
+heir ^ NN
+heirs ^ NN
+helah ^ NN
+helam ^ NN
+helbah ^ NN
+helbon ^ NN
+held ^ VB
+heldai ^ NN
+heleb ^ NN
+heled ^ NN
+helek ^ NN
+helekites ^ NN
+helem ^ NN
+heleph ^ NN
+helez ^ NN
+heli ^ NN
+helkai ^ NN
+helkath ^ NN
+helkathhazzurim ^ NN
+hell ^ NN
+helm ^ NN
+helmet ^ NN
+helmets ^ NN
+helon ^ NN
+help ^ NN
+helped ^ VB
+helper ^ NN
+helpers ^ NN
+helpeth ^ VB JJ
+helping ^ VB
+helps ^ VB
+helve ^ NN
+hem ^ NN
+hemam ^ NN
+heman ^ NN
+hemath ^ NN
+hemdan ^ NN
+hemlock ^ NN
+hems ^ NN
+hen ^ RB
+hena ^ NN
+henadad ^ NN
+hence ^ RB NN
+henceforth ^ NN
+henceforward ^ RB NN
+henoch ^ NN
+hepher ^ NN
+hepherites ^ NN
+hephzibah ^ NN
+her ^ NN
+herald ^ NN
+herb ^ NN
+herbs ^ NN
+herd ^ NN
+herdman ^ NN
+herdmen ^ NN
+herds ^ NN
+here ^ RB
+hereafter ^ RB NN IN
+hereby ^ RB
+herein ^ RB NN
+hereof ^ IN
+heres ^ NN
+heresh ^ NN
+heresies ^ NN
+heresy ^ RB
+heretick ^ NN
+heretofore ^ RB NN
+hereunto ^ RB NN
+herewith ^ RB
+heritage ^ NN IN
+heritages ^ NN
+hermas ^ NN
+hermes ^ NN
+hermogenes ^ NN
+hermon ^ NN
+hermonites ^ NN
+herod ^ NN
+herodians ^ NN
+herodias ^ NN
+herodion ^ NN
+heron ^ NN
+hers ^ NN
+herself ^ NN
+hesed ^ NN
+heshbon ^ NN
+heshmon ^ NN
+heth ^ NN
+hethlon ^ NN
+hew ^ NN VB
+hewed ^ VB JJ
+hewer ^ NN
+hewers ^ NN
+heweth ^ NN VB
+hewn ^ JJ NN VB
+hezeki ^ NN
+hezekiah ^ NN
+hezion ^ NN
+hezir ^ NN
+hezrai ^ NN
+hezro ^ NN
+hezron ^ NN
+hezronites ^ NN
+hid ^ NN
+hiddai ^ NN
+hiddekel ^ NN
+hidden ^ VB JJ
+hide ^ VB NN JJ
+hidest ^ JJ NN
+hideth ^ VB JJ NN IN
+hiding ^ VB JJ NN
+hiel ^ NN
+hierapolis ^ NN
+higgaion ^ NN
+high ^ JJ RB
+higher ^ JJR
+highest ^ JJS
+highly ^ RB
+highminded ^ JJ
+highness ^ NN
+highway ^ NN
+highways ^ NN
+hilen ^ NN
+hilkiah ^ NN
+hill ^ NN
+hillel ^ NN
+hills ^ NN
+him ^ NN
+himself ^ NN
+hin ^ NN IN JJ
+hind ^ NN
+hinder ^ NN
+hindered ^ VB
+hindereth ^ NN
+hindermost ^ NN
+hindmost ^ RB NN JJS
+hinds ^ NN
+hinges ^ NN
+hinnom ^ NN
+hip ^ NN
+hirah ^ NN
+hiram ^ NN
+hire ^ NN
+hired ^ VB
+hireling ^ NN
+hires ^ NN
+hirest ^ NN
+his ^ NN
+hiss ^ VB JJ SYM LS
+hissing ^ NN
+hit ^ VB
+hither ^ RB NN VB JJ CC IN RBR .
+hitherto ^ NN
+hittite ^ NN
+hittites ^ NN
+hivite ^ NN
+hivites ^ NN
+hizkiah ^ NN
+hizkijah ^ NN
+ho ^ RB NN
+hoar ^ NN VB
+hoarfrost ^ NN
+hoary ^ NN
+hobab ^ NN
+hobah ^ NN
+hod ^ NN
+hodaiah ^ NN
+hodaviah ^ NN
+hodesh ^ NN
+hodevah ^ NN
+hodiah ^ NN
+hodijah ^ NN
+hoglah ^ NN
+hoham ^ NN
+hoised ^ VB
+hold ^ NN VB
+holden ^ VB JJ NN RB
+holdest ^ NN
+holdeth ^ VB NN
+holding ^ NN VB
+holds ^ VB
+hole ^ NN
+holes ^ NN
+holier ^ JJ
+holiest ^ JJS
+holily ^ JJ
+holiness ^ NN
+hollow ^ NN VB JJ
+holon ^ NN
+holpen ^ IN NN JJ VB
+holy ^ NN
+holyday ^ NN
+homam ^ NN
+home ^ NN
+homeborn ^ JJ
+homer ^ NN
+homers ^ NN
+honest ^ JJ NN
+honestly ^ RB
+honesty ^ NN
+honey ^ NN
+honeycomb ^ NN
+honor ^ NN
+honour ^ NN RB VB IN CC
+honourable ^ JJ NN VB
+honoured ^ VB
+honourest ^ NN
+honoureth ^ VB NN
+honours ^ NN
+hoods ^ NN
+hoof ^ NN
+hoofs ^ NN VB
+hook ^ NN
+hooks ^ NN
+hope ^ NN
+hoped ^ VB
+hopeth ^ VB
+hophni ^ NN
+hoping ^ VB
+hor ^ NN
+horam ^ NN
+horeb ^ NN
+horem ^ NN
+horhagidgad ^ NN
+hori ^ NN
+horims ^ NN
+horite ^ NN
+horites ^ NN
+hormah ^ NN
+horn ^ NN
+hornet ^ NN
+hornets ^ NN
+horns ^ NN
+horonaim ^ NN
+horonite ^ NN
+horrible ^ JJ
+horribly ^ RB
+horror ^ NN
+horse ^ NN
+horseback ^ NN
+horsehoofs ^ NN
+horseleach ^ NN
+horseman ^ NN
+horsemen ^ NN
+horses ^ NN
+hosah ^ NN
+hosanna ^ NN
+hosea ^ NN
+hosen ^ NN
+hoshaiah ^ NN
+hoshama ^ NN
+hoshaphat ^ NN
+hoshea ^ NN
+hospitality ^ NN
+host ^ NN
+hostages ^ NN
+hosts ^ NN
+hot ^ JJ
+hotham ^ NN
+hothan ^ NN
+hothir ^ NN
+hotly ^ RB
+hottest ^ JJS
+hough ^ IN
+houghed ^ VB
+hour ^ NN
+hours ^ NN
+house ^ NN
+household ^ NN
+householder ^ NN
+households ^ NN
+houses ^ NN
+housetop ^ NN
+housetops ^ NN
+how ^ NN
+howbeit ^ VB IN NN
+howl ^ RB
+howled ^ VB
+howling ^ NN JJ
+howlings ^ NN
+howsoever ^ RB
+huge ^ JJ
+hukkok ^ NN
+hukok ^ NN
+hul ^ NN
+huldah ^ NN
+humble ^ NN
+humbled ^ JJ VB
+humbledst ^ NN
+humbleness ^ NN
+humbleth ^ VB JJ NN
+humbly ^ NN RB
+humiliation ^ NN
+humility ^ NN
+humtah ^ NN
+hundred ^ CD
+hundredfold ^ NN
+hundreds ^ NN
+hundredth ^ JJ
+hunger ^ NN
+hungerbitten ^ VB
+hungered ^ VB
+hungred ^ JJ
+hungry ^ NN
+hunt ^ NN VB
+hunted ^ VB
+hunter ^ NN
+hunters ^ NN
+huntest ^ NN
+hunteth ^ NN
+hunting ^ NN
+hupham ^ NN
+huphamites ^ NN
+huppah ^ NN
+huppim ^ NN
+hur ^ NN
+hurai ^ NN
+huram ^ NN
+huri ^ NN
+hurl ^ NN
+hurleth ^ NN
+hurling ^ JJ
+hurt ^ VB
+hurtful ^ JJ
+hurting ^ VB
+husband ^ NN
+husbandman ^ NN
+husbandmen ^ NN
+husbandry ^ NN JJ
+husbands ^ NN
+hushah ^ NN
+hushai ^ NN
+husham ^ NN
+hushathite ^ NN
+hushim ^ NN
+husk ^ NN
+husks ^ NN
+huz ^ NN
+huzzab ^ NN
+hymenaeus ^ NN
+hymn ^ NN
+hymns ^ NN
+hypocrisies ^ NN
+hypocrisy ^ NN
+hypocrite ^ NN
+hypocrites ^ NN
+hypocritical ^ JJ
+hyssop ^ NN
+i ^ NN
+ibhar ^ NN
+ibleam ^ NN
+ibneiah ^ NN
+ibnijah ^ NN
+ibri ^ NN
+ibzan ^ NN
+ice ^ NN
+ichabod ^ NN
+iconium ^ NN
+idalah ^ NN
+idbash ^ NN
+iddo ^ NN
+idle ^ JJ VB
+idleness ^ NN
+idol ^ NN
+idolater ^ NN
+idolaters ^ NN
+idolatries ^ NN
+idolatrous ^ JJ
+idolatry ^ NN
+idols ^ NN
+idumaea ^ NN
+idumea ^ NN
+if ^ IN
+igal ^ NN
+igdaliah ^ NN
+igeal ^ NN
+ignominy ^ NN
+ignorance ^ NN
+ignorant ^ NN
+ignorantly ^ RB
+iim ^ NN
+ijeabarim ^ NN
+ijon ^ NN
+ikkesh ^ NN
+ilai ^ NN
+ill ^ JJ RB NN
+illuminated ^ VB
+illyricum ^ NN
+image ^ NN
+imagery ^ NN
+images ^ NN
+imagination ^ NN
+imaginations ^ NN
+imagine ^ NN VB
+imagined ^ VB
+imagineth ^ NN
+imla ^ NN
+imlah ^ NN
+immanuel ^ NN
+immediately ^ RB
+immer ^ NN
+immortal ^ JJ
+immortality ^ NN
+immutability ^ NN
+immutable ^ JJ
+imna ^ NN
+imnah ^ NN
+impart ^ VB
+imparted ^ VB
+impediment ^ NN
+impenitent ^ JJ
+imperious ^ JJ
+implacable ^ JJ
+implead ^ VB
+importunity ^ NN
+impose ^ VB
+imposed ^ VB
+impossible ^ JJ
+impotent ^ NN
+impoverish ^ VB
+impoverished ^ JJ VB
+imprisoned ^ VB
+imprisonment ^ NN
+imprisonments ^ NN
+impudent ^ JJ
+impute ^ NN VB
+imputed ^ VB
+imputeth ^ NN
+imputing ^ VB
+imrah ^ NN
+imri ^ NN
+in ^ IN RP RB
+inasmuch ^ RB JJ
+incense ^ NN
+incensed ^ VB
+incline ^ NN
+inclined ^ VB JJ
+inclineth ^ VB
+inclose ^ VB
+inclosed ^ VB
+inclosings ^ NN
+incontinency ^ NN
+incontinent ^ NN
+incorruptible ^ JJ
+incorruption ^ NN
+increase ^ NN
+increased ^ VB
+increasest ^ NN
+increaseth ^ NN
+increasing ^ VB
+incredible ^ JJ
+incurable ^ JJ NN
+indebted ^ JJ
+indeed ^ NN
+india ^ NN
+indignation ^ NN
+inditing ^ VB
+industrious ^ JJ
+inexcusable ^ JJ
+infallible ^ JJ
+infamous ^ JJ
+infamy ^ NN
+infant ^ NN
+infants ^ NN
+inferior ^ JJ
+infidel ^ NN
+infinite ^ NN JJ
+infirmities ^ NN
+infirmity ^ NN
+inflame ^ NN
+inflammation ^ NN
+inflicted ^ VB
+influences ^ VB
+infolding ^ VB
+inform ^ VB
+informed ^ VB
+ingathering ^ NN
+inhabit ^ VB NN JJ
+inhabitant ^ JJ NN
+inhabitants ^ NN
+inhabited ^ VB JJ
+inhabiters ^ NN
+inhabitest ^ VB
+inhabiteth ^ NN VB
+inhabiting ^ VB
+inherit ^ NN
+inheritance ^ NN
+inheritances ^ NN
+inherited ^ VB
+inheriteth ^ VB
+inheritor ^ NN
+iniquities ^ NN .
+iniquity ^ NN
+injured ^ VB
+injurious ^ JJ
+injustice ^ NN
+ink ^ NN
+inkhorn ^ VB NN
+inn ^ NN
+inner ^ JJ
+innermost ^ JJ
+innocency ^ NN VB
+innocent ^ JJ NN
+innocents ^ NN
+innumerable ^ JJ
+inordinate ^ JJ
+inquisition ^ NN
+inscription ^ NN
+inside ^ NN
+insomuch ^ RB
+inspiration ^ NN
+instant ^ NN
+instantly ^ RB
+instead ^ RB
+instruct ^ NN
+instructed ^ VB
+instructer ^ NN
+instructers ^ NN
+instructing ^ VB
+instruction ^ NN
+instructor ^ NN
+instrument ^ NN
+instruments ^ NN
+insurrection ^ NN
+integrity ^ NN
+intelligence ^ NN
+intend ^ VB
+intended ^ VB
+intendest ^ NN
+intending ^ VB
+intent ^ NN
+intents ^ NN
+intercession ^ NN
+intercessions ^ NN
+intercessor ^ NN
+intermeddle ^ VB
+intermeddleth ^ NN
+intermission ^ NN
+interpret ^ NN
+interpretation ^ NN
+interpretations ^ NN
+interpreted ^ VB
+interpreter ^ NN
+interpreting ^ NN
+into ^ IN
+intreat ^ NN IN VB JJ
+intreated ^ VB
+intreaties ^ NN
+intreaty ^ NN
+intruding ^ VB
+invade ^ VB
+invaded ^ VB
+invasion ^ NN
+invent ^ NN
+invented ^ VB
+inventions ^ NN
+inventors ^ NN
+invisible ^ JJ
+invited ^ VB
+inward ^ NN RB JJ
+inwardly ^ RB
+inwards ^ NN
+iphedeiah ^ NN
+ir ^ NN
+ira ^ NN
+irad ^ NN
+iram ^ NN
+iri ^ NN
+irijah ^ NN
+irnahash ^ NN
+iron ^ NN
+irons ^ NN
+irpeel ^ NN
+irshemesh ^ NN
+iru ^ NN
+is ^ VB NN
+isaac ^ NN
+isaiah ^ NN
+iscah ^ NN
+iscariot ^ NN
+ishbah ^ NN
+ishbak ^ NN
+ishbibenob ^ NN
+ishbosheth ^ NN
+ishi ^ NN
+ishiah ^ NN
+ishijah ^ NN
+ishma ^ NN
+ishmael ^ NN
+ishmaelite ^ NN
+ishmaelites ^ NN
+ishmaiah ^ NN
+ishmeelite ^ NN
+ishmeelites ^ NN
+ishmerai ^ NN
+ishod ^ NN
+ishpan ^ NN
+ishtob ^ NN
+ishuah ^ NN
+ishuai ^ NN
+ishui ^ NN
+island ^ NN
+islands ^ NN
+isle ^ NN
+isles ^ NN
+ismachiah ^ NN
+ismaiah ^ NN
+ispah ^ NN
+israel ^ NN
+israelite ^ NN
+israelites ^ NN
+israelitish ^ NN
+issachar ^ NN
+isshiah ^ NN
+issue ^ NN
+issued ^ VB
+issues ^ NN
+isuah ^ NN
+isui ^ NN
+it ^ NN
+italian ^ NN
+italy ^ NN
+itch ^ NN
+itching ^ NN
+items ^ NN
+ithai ^ NN
+ithamar ^ NN
+ithiel ^ NN
+ithmah ^ NN
+ithnan ^ NN
+ithra ^ NN
+ithran ^ NN
+ithream ^ NN
+ithrite ^ NN
+ithrites ^ NN
+its ^ NN
+itself ^ NN
+ittahkazin ^ NN
+ittai ^ NN
+ituraea ^ NN
+ivah ^ NN
+ivory ^ NN
+izehar ^ NN
+izeharites ^ NN
+izhar ^ NN
+izharites ^ NN
+izrahiah ^ NN
+izrahite ^ NN
+izri ^ NN
+jaakan ^ NN
+jaakobah ^ NN
+jaala ^ NN
+jaalah ^ NN
+jaalam ^ NN
+jaanai ^ NN
+jaareoregim ^ NN
+jaasau ^ NN
+jaasiel ^ NN
+jaazaniah ^ NN
+jaazer ^ NN
+jaaziah ^ NN
+jaaziel ^ NN
+jabal ^ NN
+jabbok ^ NN
+jabesh ^ NN
+jabeshgilead ^ NN
+jabez ^ NN
+jabin ^ NN
+jabneel ^ NN
+jabneh ^ NN
+jachan ^ NN
+jachin ^ NN
+jachinites ^ NN
+jacinth ^ NN
+jacob ^ NN
+jada ^ NN
+jadau ^ NN
+jaddua ^ NN
+jadon ^ NN
+jael ^ NN
+jagur ^ NN
+jah ^ NN
+jahath ^ NN
+jahaz ^ NN
+jahaza ^ NN
+jahazah ^ NN
+jahaziah ^ NN
+jahaziel ^ NN
+jahdai ^ NN
+jahdiel ^ NN
+jahdo ^ NN
+jahleel ^ NN
+jahleelites ^ NN
+jahmai ^ NN
+jahzah ^ NN
+jahzeel ^ NN
+jahzeelites ^ NN
+jahzerah ^ NN
+jahziel ^ NN
+jailor ^ NN
+jair ^ NN
+jairite ^ NN
+jairus ^ NN
+jakan ^ NN
+jakeh ^ NN
+jakim ^ NN
+jalon ^ NN
+jambres ^ NN
+james ^ NN
+jamin ^ NN
+jaminites ^ NN
+jamlech ^ NN
+jangling ^ NN
+janna ^ NN
+jannes ^ NN
+janoah ^ NN
+janohah ^ NN
+janum ^ NN
+japheth ^ NN
+japhia ^ NN
+japhlet ^ NN
+japhleti ^ NN
+japho ^ NN
+jarah ^ NN
+jareb ^ NN
+jared ^ NN
+jaresiah ^ NN
+jarha ^ NN
+jarib ^ NN
+jarmuth ^ NN
+jaroah ^ NN
+jashen ^ NN
+jasher ^ NN
+jashobeam ^ NN
+jashub ^ NN
+jashubilehem ^ NN
+jashubites ^ NN
+jasiel ^ NN
+jason ^ NN
+jasper ^ NN
+jathniel ^ NN
+jattir ^ NN
+javan ^ NN
+javelin ^ NN
+jaw ^ NN
+jawbone ^ NN
+jaws ^ NN
+jazer ^ NN
+jaziz ^ NN
+je ^ NN
+jealous ^ JJ
+jealousies ^ NN
+jealousy ^ NN
+jearim ^ NN
+jeaterai ^ NN
+jeberechiah ^ NN
+jebus ^ NN
+jebusi ^ NN
+jebusite ^ NN
+jebusites ^ NN
+jecamiah ^ NN
+jecholiah ^ NN
+jechonias ^ NN
+jecoliah ^ NN
+jeconiah ^ NN
+jedaiah ^ NN
+jediael ^ NN
+jedidah ^ NN
+jedidiah ^ NN
+jeduthun ^ NN
+jeezer ^ NN
+jeezerites ^ NN
+jegarsahadutha ^ NN
+jehaleleel ^ NN
+jehalelel ^ NN
+jehdeiah ^ NN
+jehezekel ^ NN
+jehiah ^ NN
+jehiel ^ NN
+jehieli ^ NN
+jehizkiah ^ NN
+jehoadah ^ NN
+jehoaddan ^ NN
+jehoahaz ^ NN
+jehoash ^ NN
+jehohanan ^ NN
+jehoiachin ^ NN
+jehoiada ^ NN
+jehoiakim ^ NN
+jehoiarib ^ NN
+jehonadab ^ NN
+jehonathan ^ NN
+jehoram ^ NN
+jehoshabeath ^ NN
+jehoshaphat ^ NN
+jehosheba ^ NN
+jehoshua ^ NN
+jehoshuah ^ NN
+jehovah ^ NN
+jehovahjireh ^ NN
+jehovahnissi ^ NN
+jehovahshalom ^ NN
+jehozabad ^ NN
+jehozadak ^ NN
+jehu ^ NN
+jehubbah ^ NN
+jehucal ^ NN
+jehud ^ NN
+jehudi ^ NN
+jehudijah ^ NN
+jehush ^ NN
+jeiel ^ NN
+jekabzeel ^ NN
+jekameam ^ NN
+jekamiah ^ NN
+jekuthiel ^ NN
+jemima ^ NN
+jemuel ^ NN
+jeoparded ^ VB
+jeopardy ^ NN
+jephthae ^ NN
+jephthah ^ NN
+jephunneh ^ NN
+jerah ^ NN
+jerahmeel ^ NN
+jerahmeelites ^ NN
+jered ^ NN
+jeremai ^ NN
+jeremiah ^ NN
+jeremias ^ NN
+jeremoth ^ NN
+jeremy ^ NN
+jeriah ^ NN
+jeribai ^ NN
+jericho ^ NN
+jeriel ^ NN
+jerijah ^ NN
+jerimoth ^ NN
+jerioth ^ NN
+jeroboam ^ NN
+jeroham ^ NN
+jerubbaal ^ NN
+jerubbesheth ^ NN
+jeruel ^ NN
+jerusalem ^ NN
+jerusha ^ NN
+jerushah ^ NN
+jesaiah ^ NN
+jeshaiah ^ NN
+jeshanah ^ NN
+jesharelah ^ NN
+jeshebeab ^ NN
+jesher ^ NN
+jeshimon ^ NN
+jeshishai ^ NN
+jeshohaiah ^ NN
+jeshua ^ NN
+jeshuah ^ NN
+jeshurun ^ NN
+jesiah ^ NN
+jesimiel ^ NN
+jesse ^ NN
+jesting ^ NN
+jesui ^ NN
+jesuites ^ NN
+jesurun ^ NN
+jesus ^ NN
+jether ^ NN
+jetheth ^ NN
+jethlah ^ NN
+jethro ^ NN
+jetur ^ NN
+jeuel ^ NN
+jeush ^ NN
+jeuz ^ NN
+jew ^ NN
+jewel ^ NN
+jewels ^ NN
+jewess ^ NN
+jewish ^ NN
+jewry ^ NN
+jews ^ NN
+jezaniah ^ NN
+jezebel ^ NN
+jezer ^ NN
+jezerites ^ NN
+jeziah ^ NN
+jeziel ^ NN
+jezliah ^ NN
+jezoar ^ NN
+jezrahiah ^ NN
+jezreel ^ NN
+jezreelite ^ NN
+jezreelitess ^ NN
+jibsam ^ NN
+jidlaph ^ NN
+jimna ^ NN
+jimnah ^ NN
+jimnites ^ NN
+jiphtah ^ NN
+jiphthahel ^ NN
+joab ^ NN
+joah ^ NN
+joahaz ^ NN
+joanna ^ NN
+joash ^ NN
+joatham ^ NN
+job ^ NN
+jobab ^ NN
+jochebed ^ NN
+joed ^ NN
+joel ^ NN
+joelah ^ NN
+joezer ^ NN
+jogbehah ^ NN
+jogli ^ NN
+joha ^ NN
+johanan ^ NN
+john ^ NN
+joiada ^ NN
+joiakim ^ NN
+joiarib ^ NN
+join ^ VB
+joined ^ VB
+joining ^ VB
+joinings ^ NN
+joint ^ JJ NN
+joints ^ NN
+jokdeam ^ NN
+jokim ^ NN
+jokmeam ^ NN
+jokneam ^ NN
+jokshan ^ NN
+joktan ^ NN
+joktheel ^ NN
+jona ^ NN
+jonadab ^ NN
+jonah ^ NN
+jonan ^ NN
+jonas ^ NN
+jonathan ^ NN
+joppa ^ NN
+jorah ^ NN
+jorai ^ NN
+joram ^ NN
+jordan ^ NN
+jorim ^ NN
+jorkoam ^ NN
+josabad ^ NN
+josaphat ^ NN
+jose ^ NN
+josedech ^ NN
+joseph ^ NN
+joses ^ NN
+joshah ^ NN
+joshaphat ^ NN
+joshaviah ^ NN
+joshbekashah ^ NN
+joshua ^ NN
+josiah ^ NN
+josias ^ NN
+josibiah ^ NN
+josiphiah ^ NN
+jot ^ NN
+jotbah ^ NN
+jotbath ^ NN
+jotbathah ^ NN
+jotham ^ NN
+journey ^ NN
+journeyed ^ VB .
+journeying ^ NN VB
+journeyings ^ NN
+journeys ^ NN
+joy ^ NN
+joyed ^ JJ
+joyful ^ NN
+joyfully ^ RB
+joyfulness ^ NN
+joying ^ VB
+joyous ^ JJ
+jozabad ^ NN
+jozachar ^ NN
+jozadak ^ NN
+jubal ^ NN
+jubile ^ NN
+jucal ^ NN
+juda ^ NN
+judaea ^ NN
+judah ^ NN
+judas ^ NN
+jude ^ NN
+judea ^ NN
+judge ^ NN
+judged ^ VB
+judges ^ NN
+judgest ^ NN
+judgeth ^ VB IN NN
+judging ^ VB NN
+judgment ^ NN
+judgments ^ NN
+judith ^ NN
+juice ^ NN
+julia ^ NN
+julius ^ NN
+jumping ^ NN
+junia ^ NN
+juniper ^ NN
+jupiter ^ NN
+jurisdiction ^ NN
+jushabhesed ^ NN
+just ^ RB JJ
+justice ^ NN
+justification ^ NN
+justified ^ JJ VB
+justifier ^ NN
+justifieth ^ VB RB
+justify ^ VB
+justifying ^ VB
+justle ^ VB
+justly ^ RB
+justus ^ NN
+juttah ^ NN
+kabzeel ^ NN
+kadesh ^ NN
+kadeshbarnea ^ NN
+kadmiel ^ NN
+kadmonites ^ NN
+kallai ^ NN
+kanah ^ NN
+kareah ^ NN
+karkaa ^ NN
+karkor ^ NN
+karnaim ^ NN
+kartah ^ NN
+kartan ^ NN
+kattath ^ NN
+kedar ^ NN
+kedemah ^ NN
+kedemoth ^ NN
+kedesh ^ NN
+kedeshnaphtali ^ NN
+keep ^ VB
+keeper ^ NN
+keepers ^ NN
+keepest ^ VB
+keepeth ^ VB JJ
+keeping ^ VB
+kehelathah ^ NN
+keilah ^ NN
+kelaiah ^ NN
+kelita ^ NN
+kemuel ^ NN
+kenan ^ NN
+kenath ^ NN
+kenaz ^ NN
+kenezite ^ NN
+kenite ^ NN
+kenites ^ NN
+kenizzites ^ NN
+kept ^ VB
+kerchiefs ^ NN
+kerenhappuch ^ NN
+kerioth ^ NN
+kernels ^ NN
+keros ^ NN
+kettle ^ NN
+keturah ^ NN
+key ^ NN
+keys ^ NN
+kezia ^ NN
+keziz ^ NN
+kibrothhattaavah ^ NN
+kibzaim ^ NN
+kick ^ NN
+kicked ^ VB
+kid ^ NN
+kidneys ^ NN
+kidron ^ NN
+kids ^ NN VB
+kill ^ VB
+killed ^ VB
+killedst ^ VB NN
+killest ^ IN VB
+killeth ^ NN
+killing ^ VB
+kiln ^ NN
+kin ^ VB NN
+kinah ^ NN
+kind ^ NN
+kindle ^ VB NN
+kindled ^ VB . CC
+kindleth ^ NN VB
+kindly ^ RB
+kindness ^ NN
+kindred ^ NN
+kindreds ^ NN
+kinds ^ NN
+kine ^ NN
+king ^ NN
+kingdom ^ NN
+kingdoms ^ NN
+kingly ^ NN
+kings ^ NN
+kinsfolk ^ NN
+kinsfolks ^ NN
+kinsman ^ NN
+kinsmen ^ NN
+kinswoman ^ NN
+kinswomen ^ NN
+kir ^ NN
+kirharaseth ^ NN
+kirhareseth ^ NN
+kirharesh ^ NN
+kirheres ^ NN
+kiriathaim ^ NN
+kirioth ^ NN
+kirjath ^ NN
+kirjathaim ^ NN
+kirjatharba ^ NN
+kirjatharim ^ NN
+kirjathbaal ^ NN
+kirjathhuzoth ^ NN
+kirjathjearim ^ NN
+kirjathsannah ^ NN
+kirjathsepher ^ NN
+kish ^ NN
+kishi ^ NN
+kishion ^ NN
+kishon ^ NN
+kison ^ NN
+kiss ^ NN
+kissed ^ VB
+kisses ^ NN
+kite ^ NN
+kithlish ^ NN
+kitron ^ NN
+kittim ^ NN
+knead ^ VB
+kneaded ^ VB
+kneadingtroughs ^ VB NN
+knee ^ NN
+kneel ^ VB
+kneeled ^ VB
+kneeling ^ VB
+knees ^ NN
+knew ^ VB
+knewest ^ VB NN
+knife ^ NN
+knit ^ VB NN
+knives ^ NN
+knock ^ NN
+knocked ^ VB
+knocketh ^ NN IN VB
+knocking ^ VB
+knop ^ NN
+knops ^ NN
+know ^ VB
+knowest ^ VB NN JJS JJ
+knoweth ^ NN
+knowing ^ VB
+knowledge ^ NN
+known ^ VB
+koa ^ NN
+kohath ^ NN
+kohathites ^ NN
+kolaiah ^ NN
+korah ^ NN
+korahite ^ NN
+korahites ^ NN
+korathites ^ NN
+kore ^ NN
+korhites ^ NN
+koz ^ NN
+kushaiah ^ NN
+laadah ^ NN
+laadan ^ NN
+laban ^ NN
+labour ^ NN RB JJ , VB
+laboured ^ VB JJ
+labourer ^ NN
+labourers ^ NN
+laboureth ^ NN .
+labouring ^ NN JJ VB
+labours ^ NN VB
+lace ^ NN
+lachish ^ NN
+lack ^ NN
+lacked ^ VB
+lackest ^ NN JJS
+lacketh ^ VB NN
+lacking ^ NN
+lad ^ NN
+ladder ^ NN
+lade ^ NN
+laded ^ VB JJ
+laden ^ JJ NN
+ladeth ^ NN
+ladies ^ NN
+lading ^ NN
+lads ^ NN
+lady ^ NN
+lael ^ NN
+lahad ^ NN
+lahairoi ^ NN
+lahmam ^ NN
+lahmi ^ NN
+laid ^ NN
+laidst ^ NN
+lain ^ VB
+laish ^ NN
+lake ^ NN
+lakum ^ NN
+lama ^ NN
+lamb ^ NN
+lambs ^ NN
+lame ^ NN JJ
+lamech ^ NN
+lament ^ NN
+lamentable ^ JJ
+lamentation ^ NN
+lamentations ^ NN
+lamented ^ VB JJ
+lamp ^ NN
+lamps ^ NN
+lance ^ NN
+lancets ^ NN
+land ^ NN
+landed ^ VB
+landing ^ NN
+landmark ^ NN
+landmarks ^ NN
+lands ^ NN
+lanes ^ NN
+language ^ NN
+languages ^ NN
+languish ^ NN VB
+languished ^ VB
+languisheth ^ NN
+languishing ^ NN
+lanterns ^ NN
+laodicea ^ NN
+laodiceans ^ NN
+lap ^ NN
+lapidoth ^ NN
+lapped ^ VB
+lappeth ^ NN
+lapwing ^ NN
+large ^ JJ
+largeness ^ NN
+lasciviousness ^ NN
+lasea ^ NN
+lasha ^ NN
+lasharon ^ NN
+last ^ JJ VB
+lasted ^ VB
+lasting ^ JJ
+latchet ^ NN JJ
+late ^ RB JJ
+lately ^ RB
+latin ^ NN
+latter ^ JJ NN
+lattice ^ NN
+laud ^ VB
+laugh ^ NN
+laughed ^ VB
+laugheth ^ VB
+laughing ^ NN
+laughter ^ NN
+launch ^ NN
+launched ^ VB
+laver ^ NN
+lavers ^ NN
+lavish ^ JJ
+law ^ NN
+lawful ^ JJ NN
+lawfully ^ RB
+lawgiver ^ NN
+lawless ^ JJ
+laws ^ NN
+lawyer ^ NN
+lawyers ^ NN
+lay ^ NN
+layedst ^ NN
+layest ^ VB
+layeth ^ VB NN
+laying ^ VB JJ
+lazarus ^ NN
+lead ^ NN
+leader ^ NN
+leaders ^ NN
+leadest ^ JJS
+leadeth ^ NN
+leaf ^ NN
+league ^ NN
+leah ^ NN
+lean ^ JJ VB
+leaned ^ VB
+leaneth ^ NN VB
+leanfleshed ^ JJ VB
+leaning ^ VB
+leanness ^ NN
+leap ^ NN VB
+leaped ^ VB
+leaping ^ VB
+learn ^ VB
+learned ^ VB
+learning ^ NN VB JJ
+leasing ^ VB NN
+least ^ JJS RBS
+leather ^ NN
+leathern ^ NN
+leave ^ NN
+leaved ^ VB
+leaven ^ NN
+leavened ^ VB JJ
+leaveneth ^ VB
+leaves ^ NN
+leaveth ^ NN
+leaving ^ VB
+lebana ^ NN
+lebanah ^ NN
+lebanon ^ NN
+lebaoth ^ NN
+lebbaeus ^ NN
+lebonah ^ NN
+lecah ^ NN
+led ^ VB
+leddest ^ VB NN
+ledges ^ NN
+leeks ^ NN
+lees ^ NN
+left ^ NN
+leftest ^ VB
+lefthanded ^ VB
+leg ^ NN
+legion ^ NN
+legions ^ NN
+legs ^ NN
+lehabim ^ NN
+lehi ^ NN
+leisure ^ NN
+lemuel ^ NN
+lend ^ VB
+lender ^ NN
+lendeth ^ NN
+length ^ NN
+lengthen ^ RB
+lengthened ^ VB
+lengthening ^ NN
+lent ^ VB
+lentiles ^ NN
+leopard ^ NN
+leopards ^ NN
+leper ^ NN
+lepers ^ NN
+leprosy ^ NN
+leprous ^ JJ
+leshem ^ NN
+less ^ RBR JJR
+lesser ^ JJR
+lest ^ NN
+let ^ VB
+leth ^ NN
+letter ^ NN
+letters ^ NN
+lettest ^ NN VB
+letteth ^ VB
+letting ^ VB
+letushim ^ NN
+leummim ^ NN
+levi ^ NN
+leviathan ^ NN VB
+levite ^ NN
+levites ^ NN
+levitical ^ JJ
+leviticus ^ NN
+levy ^ VB NN
+lewd ^ JJ
+lewdly ^ RB
+lewdness ^ NN
+liar ^ NN
+liars ^ NN
+liberal ^ JJ
+liberality ^ NN
+liberally ^ RB
+libertines ^ NN
+liberty ^ NN
+libnah ^ NN
+libni ^ NN
+libnites ^ NN
+libya ^ NN
+libyans ^ NN
+lice ^ NN
+licence ^ NN
+lick ^ NN VB
+licked ^ VB
+licketh ^ VB
+lid ^ NN
+lie ^ NN
+lied ^ VB
+lien ^ NN
+liers ^ NN
+lies ^ VB NN .
+liest ^ VB JJS
+lieth ^ NN
+lieutenants ^ NN
+life ^ NN
+lifetime ^ NN
+lift ^ NN VB
+lifted ^ VB
+lifter ^ NN
+liftest ^ NN VB
+lifteth ^ VB
+lifting ^ VB NN
+light ^ NN
+lighted ^ VB
+lighten ^ VB NN
+lightened ^ VB
+lighteneth ^ NN VB
+lighter ^ JJR
+lightest ^ NN
+lighteth ^ VB NN
+lighting ^ VB NN
+lightly ^ RB
+lightness ^ NN
+lightning ^ NN
+lightnings ^ NN
+lights ^ NN
+lign ^ NN
+ligure ^ NN
+like ^ IN JJ VB
+liked ^ VB
+likeminded ^ JJ VB
+liken ^ JJ IN VB
+likened ^ VB JJ
+likeness ^ NN
+liketh ^ VB IN NN
+likewise ^ NN
+likhi ^ NN
+liking ^ NN
+lilies ^ NN
+lily ^ JJ NN
+lime ^ NN
+limit ^ NN
+limited ^ VB
+limiteth ^ VB
+line ^ NN
+lineage ^ NN
+linen ^ NN
+lines ^ NN
+lingered ^ VB
+lingereth ^ VB
+lintel ^ NN
+lintels ^ NN
+linus ^ NN
+lion ^ NN
+lioness ^ NN
+lionesses ^ NN
+lionlike ^ JJ
+lions ^ NN
+lip ^ NN
+lips ^ NN
+liquor ^ NN
+liquors ^ NN
+listed ^ VB
+listen ^ VB
+listeth ^ VB NN
+litters ^ NN
+little ^ JJ RB
+live ^ VB JJ RB
+lived ^ VB
+lively ^ RB JJ
+liver ^ NN
+lives ^ NN
+livest ^ NN
+liveth ^ VB NN JJ .
+living ^ VB NN
+lizard ^ NN
+lo ^ NN VB UH
+loaden ^ NN
+loadeth ^ VB
+loaf ^ NN
+loammi ^ NN
+loan ^ NN
+loathe ^ VB
+loatheth ^ NN VB
+loathsome ^ JJ
+loaves ^ NN
+lock ^ NN
+locked ^ VB
+locks ^ NN VB
+locust ^ NN JJ
+locusts ^ NN
+lod ^ NN
+lodebar ^ NN
+lodge ^ VB NN
+lodged ^ VB
+lodgest ^ NN
+lodgeth ^ NN
+lodging ^ JJ VB NN
+lodgings ^ NN
+loft ^ NN
+loftily ^ RB
+loftiness ^ NN
+lofty ^ NN
+log ^ NN
+loins ^ NN
+lois ^ NN
+long ^ JJ RB
+longed ^ VB JJ
+longedst ^ RB
+longer ^ RB RBR JJR
+longeth ^ RB VB
+longing ^ VB JJ NN
+longsuffering ^ VB JJ NN
+longwinged ^ VB
+look ^ NN
+looked ^ VB
+lookest ^ VB
+looketh ^ NN
+looking ^ VB
+lookingglasses ^ NN
+looks ^ NN VB
+loops ^ NN
+loose ^ JJ RB VB
+loosed ^ VB . JJ
+looseth ^ VB
+loosing ^ VB
+lop ^ NN
+lord ^ NN
+lordly ^ JJ
+lords ^ NN
+lordship ^ NN
+loruhamah ^ NN
+lose ^ VB
+loseth ^ VB
+loss ^ NN
+lost ^ VB
+lot ^ NN
+lotan ^ NN
+lothe ^ RB
+lothed ^ VB
+lotheth ^ VB
+lothing ^ NN
+lots ^ NN
+loud ^ JJ
+louder ^ JJR
+love ^ NN
+loved ^ VB JJ
+lovedst ^ NN
+lovely ^ JJ RB
+lover ^ NN
+lovers ^ NN
+loves ^ NN
+lovest ^ NN
+loveth ^ VB NN JJ
+loving ^ JJ VB
+lovingkindness ^ NN VB
+lovingkindnesses ^ VB NN
+low ^ JJ
+lower ^ JJR
+lowering ^ VB
+lowest ^ JJS
+loweth ^ VB
+lowing ^ VB NN
+lowliness ^ NN
+lowly ^ NN
+lubim ^ NN
+lubims ^ NN
+lucas ^ NN
+lucifer ^ NN
+lucius ^ NN
+lucre ^ NN
+lud ^ NN
+ludim ^ NN
+luhith ^ NN
+luke ^ NN
+lukewarm ^ NN
+lump ^ NN
+lunatick ^ NN JJ
+lurk ^ VB
+lurking ^ NN VB
+lust ^ NN
+lusted ^ NN VB
+lusteth ^ NN
+lusting ^ NN
+lusts ^ NN
+lusty ^ JJ
+luz ^ NN
+lycaonia ^ NN
+lycia ^ NN
+lydda ^ NN
+lydia ^ NN
+lydians ^ NN
+lying ^ VB NN
+lysanias ^ NN
+lysias ^ NN
+lystra ^ NN
+maacah ^ NN
+maachah ^ NN
+maachathi ^ NN
+maachathite ^ NN
+maachathites ^ NN
+maadai ^ NN
+maadiah ^ NN
+maai ^ NN
+maalehacrabbim ^ NN
+maarath ^ NN
+maaseiah ^ NN
+maasiai ^ NN
+maath ^ NN
+maaz ^ NN
+maaziah ^ NN
+macedonia ^ NN
+macedonian ^ NN
+machbanai ^ NN
+machbenah ^ NN
+machi ^ NN
+machir ^ NN
+machirites ^ NN
+machnadebai ^ NN
+machpelah ^ NN
+mad ^ JJ
+madai ^ NN
+made ^ VB
+madest ^ VB JJS
+madian ^ NN
+madmannah ^ NN
+madmen ^ VB
+madmenah ^ NN
+madness ^ NN
+madon ^ NN
+magbish ^ NN
+magdala ^ NN
+magdalene ^ NN
+magdiel ^ NN
+magician ^ NN
+magicians ^ NN
+magistrate ^ NN
+magistrates ^ NN
+magnifical ^ JJ
+magnificence ^ NN
+magnified ^ VB
+magnify ^ NN
+magog ^ NN
+magormissabib ^ NN
+magpiash ^ NN
+mahalah ^ NN
+mahalaleel ^ NN
+mahalath ^ NN
+mahali ^ NN
+mahanaim ^ NN
+mahanehdan ^ NN
+maharai ^ NN
+mahath ^ NN
+mahavite ^ NN
+mahazioth ^ NN
+mahershalalhashbaz ^ NN
+mahlah ^ NN
+mahli ^ NN
+mahlites ^ NN
+mahlon ^ NN
+mahol ^ NN
+maid ^ NN
+maiden ^ NN
+maidens ^ NN
+maids ^ NN
+maidservant ^ NN JJ
+maidservants ^ NN
+mail ^ NN
+maimed ^ VB JJ
+mainsail ^ NN
+maintain ^ VB
+maintained ^ VB
+maintainest ^ VB
+maintenance ^ NN
+majesty ^ NN
+makaz ^ NN
+make ^ VB
+maker ^ NN
+makers ^ NN
+makest ^ NN
+maketh ^ NN
+makheloth ^ NN
+making ^ NN
+makkedah ^ NN
+maktesh ^ NN
+malachi ^ NN
+malcham ^ NN
+malchiah ^ NN
+malchiel ^ NN
+malchielites ^ NN
+malchijah ^ NN
+malchiram ^ NN
+malchishua ^ NN
+malchus ^ NN
+male ^ NN
+malefactor ^ NN
+malefactors ^ NN
+maleleel ^ NN
+males ^ NN
+malice ^ NN
+malicious ^ JJ
+maliciousness ^ NN
+malignity ^ NN
+mallothi ^ NN
+mallows ^ NN
+malluch ^ NN
+mammon ^ NN
+mamre ^ NN
+man ^ NN
+manaen ^ NN
+manahath ^ NN
+manahethites ^ NN
+manasseh ^ NN
+manasses ^ NN
+manassites ^ NN
+mandrakes ^ NN
+maneh ^ NN
+manger ^ NN
+manifest ^ NN
+manifestation ^ NN
+manifested ^ VB
+manifestly ^ RB
+manifold ^ NN
+mankind ^ NN
+manna ^ NN
+manner ^ NN
+manners ^ NN
+manoah ^ NN
+manservant ^ JJ NN
+manservants ^ NN
+mansions ^ NN
+manslayer ^ NN
+manslayers ^ NN
+mantle ^ JJ NN
+mantles ^ NN
+many ^ JJ RB
+maoch ^ NN
+maon ^ NN
+maonites ^ NN
+mar ^ NN VB
+mara ^ NN
+marah ^ NN
+maralah ^ NN
+maranatha ^ NN
+marble ^ NN
+march ^ NN VB
+marched ^ VB
+marchedst ^ NN
+marcus ^ NN
+mareshah ^ NN
+mariners ^ NN
+marishes ^ NN
+mark ^ NN
+marked ^ VB
+markest ^ NN
+market ^ NN
+marketh ^ VB
+marketplace ^ NN
+marketplaces ^ NN
+markets ^ NN
+marks ^ NN
+maroth ^ NN
+marred ^ VB
+marriage ^ NN
+marriages ^ NN
+married ^ VB JJ
+marrieth ^ VB JJ
+marrow ^ NN
+marry ^ VB NN
+marrying ^ NN
+mars ^ NN
+marsena ^ NN
+mart ^ NN
+martha ^ NN
+martyr ^ NN
+martyrs ^ NN
+marvel ^ NN VB
+marvelled ^ VB . JJ
+marvellous ^ JJ
+marvellously ^ RB
+marvelously ^ RB
+marvels ^ NN
+mary ^ NN
+mash ^ NN
+mashal ^ NN
+masons ^ NN
+masrekah ^ NN
+massa ^ NN
+massah ^ NN
+mast ^ NN
+master ^ NN
+masterbuilder ^ NN
+masteries ^ NN
+masters ^ NN
+mastery ^ NN
+masts ^ NN
+mate ^ NN
+mathusala ^ NN
+matred ^ NN
+matri ^ NN
+matrix ^ NN
+mattan ^ NN
+mattanah ^ NN
+mattaniah ^ NN
+mattatha ^ NN
+mattathah ^ NN
+mattathias ^ NN
+mattenai ^ NN
+matter ^ NN
+matters ^ NN
+matthan ^ NN
+matthat ^ NN
+matthew ^ NN
+matthias ^ NN
+mattithiah ^ NN
+mattock ^ NN
+mattocks ^ NN
+maul ^ NN
+maw ^ NN
+may ^ VB
+mayest ^ NN VB JJ
+mazzaroth ^ NN
+me ^ NN
+meadow ^ NN
+meadows ^ NN
+meah ^ NN
+meal ^ NN
+mealtime ^ NN
+mean ^ NN
+meanest ^ NN JJS
+meaneth ^ VB NN
+meaning ^ NN VB
+means ^ NN
+meant ^ VB
+mearah ^ NN
+measure ^ NN
+measured ^ VB
+measures ^ NN
+measuring ^ NN VB
+meat ^ NN JJ VB
+meats ^ NN
+mebunnai ^ NN
+mecherathite ^ NN
+medad ^ NN
+medan ^ NN
+meddle ^ NN JJ
+meddled ^ VB
+meddleth ^ NN
+meddling ^ VB
+mede ^ NN
+medeba ^ NN
+medes ^ NN
+media ^ NN
+median ^ NN
+mediator ^ NN
+medicine ^ NN
+medicines ^ NN
+meditate ^ VB NN
+meditation ^ NN
+meek ^ NN
+meekness ^ NN
+meet ^ VB
+meetest ^ NN
+meeteth ^ NN VB
+meeting ^ NN
+megiddo ^ NN
+megiddon ^ NN
+mehetabeel ^ NN
+mehetabel ^ NN
+mehida ^ NN
+mehir ^ NN
+meholathite ^ NN
+mehujael ^ NN
+mehuman ^ NN
+mehunim ^ NN
+mehunims ^ NN
+mejarkon ^ NN
+mekonah ^ NN
+melatiah ^ NN
+melchi ^ NN
+melchiah ^ NN
+melchisedec ^ NN
+melchishua ^ NN
+melchizedek ^ NN
+melea ^ NN
+melech ^ NN
+melicu ^ NN
+melita ^ NN
+melody ^ NN
+melons ^ NN
+melt ^ VB NN
+melted ^ . VB
+melteth ^ VB NN
+melting ^ NN
+melzar ^ NN
+member ^ NN
+members ^ NN
+memorial ^ NN
+memory ^ NN
+memphis ^ NN
+memucan ^ NN
+men ^ NN
+menahem ^ NN
+menan ^ NN
+menchildren ^ NN
+mend ^ VB
+mending ^ VB
+mene ^ NN
+menpleasers ^ NN
+menservants ^ NN
+menstealers ^ NN
+menstruous ^ JJ
+mention ^ NN
+mentioned ^ VB
+meonenim ^ NN
+meonothai ^ NN
+mephaath ^ NN
+mephibosheth ^ NN
+merab ^ NN
+meraiah ^ NN
+meraioth ^ NN
+merari ^ NN
+merarites ^ NN
+merathaim ^ NN
+merchandise ^ NN
+merchant ^ NN
+merchantmen ^ NN
+merchants ^ NN
+mercies ^ NN
+merciful ^ NN
+mercurius ^ NN
+mercy ^ NN
+mercyseat ^ NN
+mered ^ NN
+meremoth ^ NN
+meres ^ NN
+meribah ^ NN
+meribahkadesh ^ NN
+meribbaal ^ NN
+merodach ^ NN
+merodachbaladan ^ NN
+merom ^ NN
+meronothite ^ NN
+meroz ^ NN
+merrily ^ RB
+merry ^ NN
+merryhearted ^ VB
+mesech ^ NN
+mesha ^ NN
+meshach ^ NN
+meshech ^ NN
+meshelemiah ^ NN
+meshezabeel ^ NN
+meshillemith ^ NN
+meshillemoth ^ NN
+meshobab ^ NN
+meshullam ^ NN
+meshullemeth ^ NN
+mesobaite ^ NN
+mesopotamia ^ NN
+mess ^ NN
+message ^ NN
+messenger ^ NN
+messengers ^ NN
+messes ^ NN
+messiah ^ NN
+messias ^ NN
+met ^ VB
+mete ^ VB NN
+meted ^ VB
+meteyard ^ NN
+methegammah ^ NN
+methusael ^ NN
+methuselah ^ NN
+meunim ^ NN
+mezahab ^ NN
+miamin ^ NN
+mibhar ^ NN
+mibsam ^ NN
+mibzar ^ NN
+micah ^ NN
+micaiah ^ NN
+mice ^ NN
+micha ^ NN
+michael ^ NN
+michah ^ NN
+michaiah ^ NN
+michal ^ NN
+michmas ^ NN
+michmash ^ NN
+michmethah ^ NN
+michri ^ NN
+midday ^ NN
+middin ^ NN
+middle ^ NN
+middlemost ^ NN
+midian ^ NN
+midianite ^ NN
+midianites ^ NN
+midianitish ^ NN
+midnight ^ NN
+midst ^ NN
+midwife ^ NN
+midwives ^ NN
+migdalel ^ NN
+migdalgad ^ NN
+migdol ^ NN
+might ^ NN
+mightest ^ VB NN ,
+mightier ^ JJR NN RBR
+mighties ^ NN
+mightiest ^ JJS
+mightily ^ RB VB
+mighty ^ NN
+migron ^ NN
+mijamin ^ NN
+mikloth ^ NN
+mikneiah ^ NN
+milalai ^ NN
+milcah ^ NN
+milch ^ NN
+milcom ^ NN
+mildew ^ NN
+mile ^ NN
+miletum ^ NN
+miletus ^ NN
+milk ^ NN
+mill ^ NN
+millet ^ NN
+millions ^ NN
+millo ^ NN
+mills ^ NN
+millstone ^ NN
+millstones ^ NN
+mincing ^ NN
+mind ^ NN
+minded ^ JJ VB .
+mindful ^ NN
+minding ^ VB
+minds ^ NN
+mine ^ NN
+mingle ^ VB
+mingled ^ VB JJ
+miniamin ^ NN
+minish ^ VB
+minished ^ VB
+minister ^ NN
+ministered ^ VB JJ
+ministereth ^ JJ
+ministering ^ NN
+ministers ^ NN
+ministration ^ NN
+ministry ^ NN
+minni ^ NN
+minnith ^ NN
+minstrel ^ NN
+minstrels ^ NN
+mint ^ NN
+miphkad ^ NN
+miracle ^ NN
+miracles ^ NN
+mire ^ NN
+miriam ^ NN
+mirma ^ NN
+mirth ^ NN
+miry ^ NN
+miscarrying ^ VB
+mischief ^ NN JJ VB
+mischiefs ^ NN
+mischievous ^ JJ
+miserable ^ JJ
+miserably ^ JJ
+miseries ^ NN
+misery ^ NN RB JJ
+misgab ^ NN
+mishael ^ NN
+mishal ^ NN
+misham ^ NN
+misheal ^ NN
+mishma ^ NN
+mishmannah ^ NN
+mishraites ^ NN
+mispereth ^ NN
+misrephothmaim ^ NN
+miss ^ VB
+missed ^ VB
+missing ^ VB
+mist ^ NN
+mistress ^ NN
+misused ^ VB
+mite ^ NN
+mites ^ NN
+mithcah ^ NN
+mithnite ^ NN
+mithredath ^ NN
+mitre ^ NN
+mitylene ^ NN
+mixed ^ JJ VB
+mixt ^ NN
+mixture ^ NN
+mizar ^ NN
+mizpah ^ NN
+mizpar ^ NN
+mizpeh ^ NN
+mizraim ^ NN
+mizzah ^ NN
+mnason ^ NN
+moab ^ NN
+moabite ^ NN
+moabites ^ NN
+moabitess ^ NN
+moabitish ^ NN
+moadiah ^ NN
+mock ^ VB JJ NN
+mocked ^ JJ VB
+mocker ^ NN
+mockers ^ NN
+mockest ^ NN
+mocketh ^ JJ VB NN
+mocking ^ VB JJ NN
+mockings ^ NN
+moderately ^ RB
+moderation ^ NN
+modest ^ JJ
+moist ^ NN
+moistened ^ VB
+moisture ^ NN
+moladah ^ NN
+mole ^ NN
+molech ^ NN
+moles ^ NN
+molid ^ NN
+mollified ^ VB
+moloch ^ NN
+molten ^ JJ NN RB VB
+moment ^ NN
+money ^ NN
+moneychangers ^ NN
+monsters ^ NN
+month ^ NN
+monthly ^ JJ
+months ^ NN
+monuments ^ NN
+moon ^ NN
+moons ^ NN
+morasthite ^ NN
+mordecai ^ NN
+more ^ RBR JJR
+moreh ^ NN
+moreover ^ NN
+moreshethgath ^ NN
+morever ^ RBR
+moriah ^ NN
+morning ^ NN
+morrow ^ NN
+morsel ^ NN
+morsels ^ NN
+mortal ^ NN
+mortality ^ NN
+mortally ^ RB
+mortar ^ NN
+morter ^ NN
+mortgaged ^ VB
+mortify ^ NN
+mosera ^ NN
+moseroth ^ NN
+moses ^ NN
+most ^ RBS JJS
+mote ^ NN
+moth ^ NN
+motheaten ^ VB
+mother ^ NN
+mothers ^ NN
+motions ^ NN
+mouldy ^ NN
+mount ^ NN VB
+mountain ^ NN
+mountains ^ NN
+mounted ^ VB
+mounting ^ VB
+mounts ^ NN
+mourn ^ NN
+mourned ^ VB
+mourner ^ NN
+mourners ^ NN
+mourneth ^ NN VB
+mournfully ^ RB
+mourning ^ NN
+mouse ^ NN
+mouth ^ NN
+mouths ^ NN
+move ^ NN
+moveable ^ JJ
+moved ^ VB
+movedst ^ NN
+mover ^ NN
+moveth ^ NN VB
+moving ^ NN
+mower ^ NN
+mowings ^ NN
+mown ^ JJ
+moza ^ NN
+mozah ^ NN
+much ^ JJ RB
+mufflers ^ NN
+mulberry ^ NN
+mule ^ JJ NN
+mules ^ NN
+multiplied ^ VB JJ
+multipliedst ^ JJ
+multiplieth ^ JJ VB
+multiply ^ RB VB JJ
+multiplying ^ JJ
+multitude ^ NN
+multitudes ^ NN
+munition ^ NN
+munitions ^ NN
+muppim ^ NN
+murder ^ NN
+murderer ^ NN
+murderers ^ NN
+murders ^ NN
+murmur ^ NN
+murmured ^ VB
+murmurers ^ NN
+murmuring ^ NN
+murmurings ^ NN
+murrain ^ NN
+muse ^ NN
+mused ^ VB
+mushi ^ NN
+mushites ^ NN
+musical ^ JJ
+musicians ^ NN
+musick ^ NN
+musing ^ VB
+must ^ VB
+mustard ^ NN
+mustered ^ VB
+mustereth ^ ,
+mutter ^ NN
+muttered ^ VB
+mutual ^ JJ
+muzzle ^ VB
+my ^ NN
+myra ^ NN
+myrrh ^ NN
+myrtle ^ JJ NN
+myself ^ NN
+mysia ^ NN
+mysteries ^ NN
+mystery ^ NN
+naam ^ NN
+naamah ^ NN
+naaman ^ NN
+naamathite ^ NN
+naamites ^ NN
+naarah ^ NN
+naarai ^ NN
+naaran ^ NN
+naarath ^ NN
+naashon ^ NN
+naasson ^ NN
+nabal ^ NN
+naboth ^ NN
+nachon ^ NN
+nachor ^ NN
+nadab ^ NN
+nagge ^ NN
+nahalal ^ NN
+nahaliel ^ NN
+nahallal ^ NN
+nahalol ^ NN
+naham ^ NN
+nahamani ^ NN
+naharai ^ NN
+nahari ^ NN
+nahash ^ NN
+nahath ^ NN
+nahbi ^ NN
+nahor ^ NN
+nahshon ^ NN
+nahum ^ NN
+nail ^ NN
+nailing ^ VB
+nails ^ NN
+nain ^ NN
+naioth ^ NN
+naked ^ JJ
+nakedness ^ NN
+name ^ NN
+named ^ VB
+namely ^ NN
+names ^ NN
+nameth ^ VB
+naomi ^ NN
+naphish ^ NN
+naphtali ^ NN
+naphtuhim ^ NN
+napkin ^ NN
+narcissus ^ NN
+narrow ^ JJ
+narrowed ^ VB
+narrower ^ JJR
+narrowly ^ RB
+nathan ^ NN
+nathanael ^ NN
+nathanmelech ^ NN
+nation ^ NN
+nations ^ NN
+native ^ NN
+nativity ^ NN
+natural ^ JJ
+naturally ^ RB
+nature ^ NN
+naught ^ NN
+naughtiness ^ NN
+naughty ^ JJ
+naum ^ NN
+navel ^ NN
+naves ^ NN
+navy ^ NN
+nay ^ NN
+nazarene ^ NN
+nazarenes ^ NN
+nazareth ^ NN
+nazarite ^ NN
+nazarites ^ NN
+neah ^ NN
+neapolis ^ NN
+near ^ IN RB JJ
+nearer ^ IN
+neariah ^ NN
+nebai ^ NN
+nebaioth ^ NN
+nebajoth ^ NN
+neballat ^ NN
+nebat ^ NN
+nebo ^ NN
+nebuchadnezzar ^ NN
+nebuchadrezzar ^ NN
+nebushasban ^ NN
+nebuzaradan ^ NN
+necessary ^ JJ
+necessities ^ NN
+necessity ^ NN
+necho ^ NN
+neck ^ NN
+necks ^ NN
+necromancer ^ NN
+nedabiah ^ NN
+need ^ NN
+needed ^ VB
+needest ^ NN
+needeth ^ NN
+needful ^ NN
+needle ^ NN
+needlework ^ NN
+needs ^ NN VB
+needy ^ NN
+neesings ^ NN
+neglect ^ NN
+neglected ^ VB
+neglecting ^ NN
+negligent ^ JJ
+nehelamite ^ NN
+nehemiah ^ NN
+nehum ^ NN
+nehushta ^ NN
+nehushtan ^ NN
+neiel ^ NN
+neighbour ^ NN . RB CC , VB
+neighbours ^ NN VB
+neighed ^ VB
+neighing ^ NN
+neighings ^ NN
+neither ^ JJ CC RB
+nekeb ^ NN
+nekoda ^ NN
+nemuel ^ NN
+nemuelites ^ NN
+nepheg ^ NN
+nephew ^ JJ NN
+nephews ^ NN
+nephish ^ NN
+nephishesim ^ NN
+nephthalim ^ NN
+nephtoah ^ NN
+nephusim ^ NN
+ner ^ NN
+nereus ^ NN
+nergal ^ NN
+nergalsharezer ^ NN
+neri ^ NN
+neriah ^ NN
+nest ^ NN
+nests ^ NN
+net ^ NN
+nethaneel ^ NN
+nethaniah ^ NN
+nether ^ JJ
+nethermost ^ JJ
+nethinims ^ NN
+netophah ^ NN
+netophathi ^ NN
+netophathite ^ NN
+netophathites ^ NN
+nets ^ NN
+nettles ^ NN
+network ^ NN
+networks ^ NN
+never ^ RB
+nevertheless ^ RB IN LS JJ
+neverthless ^ JJ
+new ^ JJ
+newborn ^ JJ
+newly ^ RB
+newness ^ NN
+news ^ NN
+next ^ JJ IN
+neziah ^ NN
+nezib ^ NN
+nibhaz ^ NN
+nibshan ^ NN
+nicanor ^ NN
+nicodemus ^ NN
+nicolaitanes ^ NN
+nicolas ^ NN
+nicopolis ^ NN
+niger ^ NN
+nigh ^ NN
+night ^ NN
+nights ^ NN
+nimrah ^ NN
+nimrim ^ NN
+nimrod ^ NN
+nimshi ^ NN
+nine ^ CD
+nineteen ^ CD
+nineteenth ^ JJ
+ninety ^ NN
+nineve ^ NN
+nineveh ^ NN
+ninevites ^ NN
+ninth ^ JJ
+nisan ^ NN
+nisroch ^ NN
+nitre ^ JJ NN
+no ^ JJ RB
+noadiah ^ NN
+noah ^ NN
+nob ^ NN
+nobah ^ NN
+noble ^ JJ
+nobleman ^ NN
+nobles ^ NN
+nod ^ NN
+nodab ^ NN
+noe ^ NN
+nogah ^ NN
+nohah ^ NN
+noise ^ NN
+noised ^ VB
+noisome ^ JJ
+non ^ NN
+none ^ NN
+noon ^ NN
+noonday ^ NN
+noontide ^ RB
+noph ^ NN
+nophah ^ NN
+nor ^ CC
+north ^ NN
+northern ^ JJ
+northward ^ RB NN JJ
+nose ^ NN
+noses ^ NN
+nostrils ^ NN VB .
+not ^ RB
+notable ^ JJ
+note ^ NN
+noted ^ VB
+nothing ^ NN
+notice ^ NN
+notwithstanding ^ IN NN RB
+nought ^ NN RB VB JJ
+nourish ^ JJ VB , NN
+nourished ^ VB
+nourisher ^ NN
+nourisheth ^ NN
+nourishing ^ JJ
+nourishment ^ NN
+novice ^ NN
+now ^ RB
+number ^ NN
+numbered ^ VB
+numberest ^ NN
+numbering ^ NN
+numbers ^ NN
+nun ^ NN
+nurse ^ NN
+nursed ^ VB
+nursing ^ NN
+nurture ^ NN
+nuts ^ NN
+nymphas ^ NN
+o ^ NN
+oak ^ NN
+oaks ^ NN
+oar ^ NN
+oars ^ NN
+oath ^ NN
+oaths ^ NN
+obadiah ^ NN
+obal ^ NN
+obed ^ NN
+obededom ^ NN
+obedience ^ NN
+obedient ^ JJ NN
+obeisance ^ NN
+obey ^ NN
+obeyed ^ VB JJ
+obeyedst ^ NN
+obeyeth ^ VB NN
+obeying ^ VB
+obil ^ NN
+object ^ NN
+oblation ^ NN
+oblations ^ NN
+oboth ^ NN
+obscure ^ JJ
+obscurity ^ NN
+observation ^ NN
+observe ^ NN
+observed ^ VB JJ
+observer ^ NN
+observers ^ NN
+observest ^ NN
+observeth ^ VB
+obstinate ^ NN
+obtain ^ VB
+obtained ^ VB
+obtaineth ^ IN NN
+obtaining ^ NN
+occasion ^ NN
+occasioned ^ VB
+occasions ^ NN
+occupation ^ NN
+occupied ^ VB
+occupiers ^ NN
+occupieth ^ VB
+occupy ^ VB JJ
+occurrent ^ NN
+ocran ^ NN
+odd ^ JJ
+oded ^ NN
+odious ^ JJ
+odour ^ NN
+odours ^ NN
+of ^ IN RP
+off ^ IN RB RP
+offence ^ NN
+offences ^ NN
+offend ^ VB NN
+offended ^ VB
+offender ^ NN
+offenders ^ NN
+offer ^ NN
+offered ^ VB
+offereth ^ NN IN VB
+offering ^ NN
+offerings ^ NN
+office ^ NN
+officer ^ NN
+officers ^ NN
+offices ^ NN
+offscouring ^ NN
+offspring ^ NN
+oft ^ RB .
+often ^ RB
+oftener ^ NN
+oftentimes ^ NN RB
+ofttimes ^ NN
+og ^ NN
+oh ^ UH
+ohad ^ NN
+ohel ^ NN
+oil ^ NN
+oiled ^ JJ
+ointment ^ NN
+ointments ^ NN
+old ^ JJ
+oldness ^ NN
+olive ^ JJ VB
+olives ^ NN
+olivet ^ NN
+oliveyard ^ .
+oliveyards ^ NN
+olympas ^ NN
+omar ^ NN
+omega ^ JJ
+omer ^ NN
+omers ^ NN
+omitted ^ VB
+omnipotent ^ NN
+omri ^ NN
+on ^ IN RP
+onam ^ NN
+onan ^ NN
+once ^ RB
+one ^ NN
+ones ^ NN
+onesimus ^ NN
+onesiphorus ^ NN
+onions ^ NN
+only ^ RB JJ
+ono ^ NN
+onward ^ RB
+onycha ^ NN
+onyx ^ NN
+open ^ JJ VB
+opened ^ VB
+openest ^ NN
+openeth ^ NN
+opening ^ NN
+openings ^ NN
+openly ^ RB
+operation ^ NN
+operations ^ NN
+ophel ^ NN
+ophir ^ NN
+ophni ^ NN
+ophrah ^ NN
+opinion ^ NN
+opinions ^ NN
+opportunity ^ NN
+oppose ^ VB
+opposed ^ VB
+opposest ^ NN
+opposeth ^ VB
+oppositions ^ NN
+oppress ^ NN
+oppressed ^ JJ VB NN
+oppresseth ^ NN VB
+oppressing ^ NN JJ
+oppression ^ NN
+oppressions ^ NN
+oppressor ^ NN
+oppressors ^ NN
+or ^ CC
+oracle ^ NN
+oracles ^ NN
+oration ^ NN
+orator ^ NN
+orchard ^ NN
+orchards ^ NN
+ordain ^ VB IN JJ NN
+ordained ^ VB
+ordaineth ^ VB
+order ^ NN
+ordered ^ VB
+ordereth ^ IN
+orderings ^ NN
+orderly ^ JJ
+ordinance ^ NN
+ordinances ^ NN
+ordinary ^ JJ
+oreb ^ NN
+oren ^ NN
+organ ^ NN
+organs ^ NN
+orion ^ NN
+ornament ^ NN
+ornaments ^ NN
+ornan ^ NN
+orpah ^ NN
+orphans ^ NN
+osee ^ NN
+oshea ^ NN
+ospray ^ NN
+ossifrage ^ NN
+ostrich ^ NN
+ostriches ^ NN
+other ^ JJ
+others ^ NN
+otherwise ^ RB JJ VB
+othni ^ NN
+othniel ^ NN
+ouches ^ NN
+ought ^ VB
+oughtest ^ NN
+our ^ NN
+ours ^ NN
+ourselves ^ NN
+out ^ IN RP RB
+outcast ^ NN
+outcasts ^ NN
+outer ^ JJ
+outgoings ^ NN
+outlandish ^ JJ
+outlived ^ JJ
+outmost ^ RB NN
+outrageous ^ JJ
+outrun ^ JJ
+outside ^ JJ
+outstretched ^ JJ
+outward ^ IN JJ NN RB
+outwardly ^ RB
+outwent ^ JJ
+oven ^ NN
+ovens ^ NN
+over ^ IN RP RB
+overcame ^ JJ VB
+overcharge ^ VB
+overcharged ^ VB
+overcome ^ VB
+overcometh ^ IN NN VB JJ
+overdrive ^ VB
+overflow ^ VB NN IN JJ
+overflowed ^ VB
+overfloweth ^ IN
+overflowing ^ VB NN JJ
+overflown ^ VB
+overlaid ^ NN VB JJ
+overlay ^ IN NN VB
+overlaying ^ NN
+overlived ^ JJ
+overmuch ^ JJ
+overpass ^ IN
+overpast ^ JJ
+overplus ^ JJ
+overran ^ JJ
+overrunning ^ NN
+oversee ^ VB
+overseer ^ IN VB NN
+overseers ^ NN
+overshadow ^ VB IN
+overshadowed ^ VB
+oversight ^ NN
+overspread ^ VB
+overspreading ^ NN
+overtake ^ NN
+overtaken ^ IN VB
+overtaketh ^ IN
+overthrew ^ VB NN JJ
+overthrow ^ NN
+overthroweth ^ IN VB
+overthrown ^ JJ VB IN
+overtook ^ VB NN IN
+overturn ^ IN NN
+overturned ^ VB
+overturneth ^ VB
+overwhelm ^ IN
+overwhelmed ^ VB JJ
+owe ^ VB
+owed ^ VB
+owest ^ NN
+oweth ^ JJ
+owl ^ NN RB
+owls ^ VB NN
+own ^ JJ VB
+owner ^ NN
+owners ^ NN
+owneth ^ VB
+ox ^ NN
+oxen ^ NN
+ozem ^ NN
+ozias ^ NN
+ozni ^ NN
+oznites ^ NN
+paarai ^ NN
+paces ^ NN
+pacified ^ CC VB
+pacifieth ^ NN
+pacify ^ VB
+padan ^ NN
+padanaram ^ NN
+paddle ^ NN
+padon ^ NN
+pagiel ^ NN
+pahathmoab ^ NN
+pai ^ NN
+paid ^ VB
+pain ^ NN
+pained ^ VB
+painful ^ JJ
+painfulness ^ NN
+pains ^ NN
+painted ^ VB
+paintedst ^ NN
+painting ^ NN
+pair ^ NN
+palace ^ NN
+palaces ^ NN
+palal ^ NN
+pale ^ NN JJ
+paleness ^ NN
+palestina ^ NN
+palestine ^ NN
+pallu ^ NN
+palluites ^ NN
+palm ^ NN
+palmerworm ^ NN
+palms ^ NN
+palsies ^ NN
+palsy ^ NN
+palti ^ NN
+paltiel ^ NN
+paltite ^ NN
+pamphylia ^ NN
+pan ^ NN
+pangs ^ NN
+pannag ^ NN
+pans ^ NN
+pant ^ NN
+panted ^ VB
+panteth ^ NN VB
+paper ^ NN
+paphos ^ NN
+paps ^ NN
+parable ^ JJ NN
+parables ^ NN
+paradise ^ NN
+paramours ^ NN
+paran ^ NN
+parbar ^ NN
+parcel ^ NN
+parched ^ JJ VB
+parchments ^ NN
+pardon ^ VB NN
+pardoned ^ VB
+pardoneth ^ NN
+pare ^ VB
+parents ^ NN
+parlour ^ NN JJ
+parlours ^ NN
+parmashta ^ NN
+parmenas ^ NN
+parnach ^ NN
+parosh ^ NN
+parshandatha ^ NN
+part ^ NN
+partaker ^ NN
+partakers ^ NN
+partakest ^ NN
+parted ^ JJ VB ,
+parteth ^ VB NN
+parthians ^ NN
+partial ^ JJ
+partiality ^ NN
+particular ^ JJ
+particularly ^ RB
+parties ^ NN
+parting ^ NN
+partition ^ NN
+partly ^ RB
+partner ^ NN
+partners ^ NN
+partridge ^ NN
+parts ^ NN
+paruah ^ NN
+parvaim ^ NN
+pasach ^ NN
+pasdammim ^ NN
+paseah ^ NN
+pashur ^ NN
+pass ^ VB
+passage ^ NN
+passages ^ NN
+passed ^ VB
+passedst ^ NN
+passengers ^ NN
+passest ^ NN
+passeth ^ NN
+passing ^ VB NN
+passion ^ NN
+passions ^ NN
+passover ^ NN
+passovers ^ NN
+past ^ JJ NN IN RB
+pastor ^ NN
+pastors ^ NN
+pasture ^ NN
+pastures ^ NN
+patara ^ NN
+pate ^ NN
+path ^ NN
+pathros ^ NN
+pathrusim ^ NN
+paths ^ NN
+pathway ^ NN
+patience ^ NN
+patient ^ NN
+patiently ^ RB
+patmos ^ NN
+patriarch ^ NN
+patriarchs ^ NN
+patrimony ^ NN
+patrobas ^ NN
+pattern ^ NN
+patterns ^ NN
+pau ^ NN
+paul ^ NN
+paulus ^ NN
+paved ^ JJ
+pavement ^ NN
+pavilion ^ NN
+pavilions ^ NN
+paw ^ NN
+paweth ^ VB
+paws ^ NN
+pay ^ NN
+payed ^ VB
+payeth ^ VB
+payment ^ NN
+peace ^ NN
+peaceable ^ JJ
+peaceably ^ RB
+peacemakers ^ NN
+peacocks ^ NN
+pearl ^ NN
+pearls ^ NN
+peculiar ^ JJ
+pedahel ^ NN
+pedahzur ^ NN
+pedaiah ^ NN
+pedigrees ^ NN
+peeled ^ VB
+peep ^ NN
+peeped ^ VB
+pekah ^ NN
+pekahiah ^ NN
+pekod ^ NN
+pelaiah ^ NN
+pelaliah ^ NN
+pelatiah ^ NN
+peleg ^ NN
+pelet ^ NN
+peleth ^ NN
+pelethites ^ NN
+pelican ^ JJ NN
+pelonite ^ NN
+pen ^ NN
+pence ^ NN
+peniel ^ NN
+peninnah ^ NN
+penknife ^ NN
+penny ^ NN
+pennyworth ^ NN
+pentecost ^ NN
+penuel ^ NN
+penury ^ NN
+people ^ NN
+peoples ^ NN
+peor ^ NN
+peradventure ^ NN VB
+perazim ^ NN
+perceive ^ NN
+perceived ^ VB
+perceivest ^ NN
+perceiveth ^ VB NN
+perceiving ^ VB
+perdition ^ NN
+peres ^ NN
+peresh ^ NN
+perez ^ NN
+perezuzza ^ NN
+perezuzzah ^ NN
+perfect ^ NN
+perfected ^ VB
+perfecting ^ VB NN
+perfection ^ NN
+perfectly ^ RB
+perfectness ^ NN
+perform ^ VB
+performance ^ NN
+performed ^ VB
+performeth ^ VB
+performing ^ VB
+perfume ^ NN
+perfumed ^ VB
+perfumes ^ NN
+perga ^ NN
+pergamos ^ NN
+perhaps ^ RB
+perida ^ NN
+peril ^ NN
+perilous ^ IN
+perils ^ NN
+perish ^ NN
+perished ^ VB .
+perisheth ^ NN
+perishing ^ NN
+perizzite ^ NN
+perizzites ^ NN
+perjured ^ JJ
+permission ^ NN
+permit ^ NN
+permitted ^ VB
+pernicious ^ JJ
+perpetual ^ JJ
+perpetually ^ RB
+perplexed ^ VB JJ
+perplexity ^ NN
+persecute ^ NN
+persecuted ^ VB .
+persecutest ^ NN
+persecuting ^ VB
+persecution ^ NN
+persecutions ^ NN
+persecutor ^ NN
+persecutors ^ NN
+perseverance ^ NN
+persia ^ NN
+persian ^ NN
+persians ^ NN
+persis ^ NN
+person ^ NN
+persons ^ NN
+persuade ^ VB NN
+persuaded ^ VB
+persuadest ^ NN
+persuadeth ^ VB NN
+persuading ^ VB
+persuasion ^ NN
+persude ^ NN
+pertain ^ JJ VB
+pertained ^ VB JJ
+pertaineth ^ NN
+pertaining ^ VB NN
+peruda ^ NN
+perverse ^ NN
+perversely ^ RB
+perverseness ^ NN
+pervert ^ NN
+perverted ^ JJ VB
+perverteth ^ VB IN
+perverting ^ NN VB
+pestilence ^ NN
+pestilences ^ NN
+pestilent ^ JJ
+pestle ^ NN
+peter ^ NN
+pethahiah ^ NN
+pethor ^ NN
+pethuel ^ NN
+petition ^ NN
+petitions ^ NN
+peulthai ^ NN
+phalec ^ NN
+phallu ^ NN
+phalti ^ NN
+phaltiel ^ NN
+phanuel ^ NN
+pharah ^ NN
+pharaoh ^ NN
+pharaohhophra ^ NN
+pharaohnecho ^ NN
+pharaohnechoh ^ NN
+phares ^ NN
+pharez ^ NN
+pharisee ^ NN
+pharisees ^ NN
+pharosh ^ NN
+pharpar ^ NN
+pharzites ^ NN
+phaseah ^ NN
+phebe ^ NN
+phenice ^ NN
+phenicia ^ NN
+phichol ^ NN
+philadelphia ^ NN
+philemon ^ NN
+philetus ^ NN
+philip ^ NN
+philippi ^ NN
+philippians ^ NN
+philistia ^ NN
+philistim ^ NN
+philistine ^ NN
+philistines ^ NN
+philologus ^ NN
+philosophers ^ NN
+philosophy ^ NN
+phinehas ^ NN
+phlegon ^ NN
+phrygia ^ NN
+phurah ^ NN
+phut ^ NN
+phuvah ^ NN
+phygellus ^ NN
+phylacteries ^ NN
+physician ^ NN
+physicians ^ NN
+pibeseth ^ NN
+pick ^ VB
+pictures ^ NN
+piece ^ NN
+pieces ^ NN
+pierce ^ NN VB
+pierced ^ VB
+pierceth ^ NN
+piercing ^ NN VB
+piercings ^ NN
+piety ^ NN
+pigeon ^ NN
+pigeons ^ NN
+pihahiroth ^ NN
+pilate ^ NN
+pildash ^ NN
+pile ^ NN
+pileha ^ NN
+pilgrimage ^ NN
+pilgrims ^ NN
+pillar ^ NN
+pillars ^ NN
+pilled ^ VB
+pillow ^ NN
+pillows ^ NN
+pilots ^ NN
+piltai ^ NN
+pin ^ NN
+pine ^ VB JJ NN
+pineth ^ NN
+pining ^ VB
+pinnacle ^ NN
+pinon ^ NN
+pins ^ NN
+pipe ^ NN
+piped ^ VB
+pipers ^ NN
+pipes ^ NN
+piram ^ NN
+pirathon ^ NN
+pirathonite ^ NN
+pisgah ^ NN
+pisidia ^ NN
+pison ^ NN
+pispah ^ NN
+piss ^ NN
+pisseth ^ NN
+pit ^ NN
+pitch ^ NN VB
+pitched ^ VB
+pitcher ^ NN
+pitchers ^ NN
+pithom ^ NN
+pithon ^ NN
+pitied ^ VB
+pitieth ^ IN NN
+pitiful ^ JJ
+pits ^ NN
+pity ^ NN
+place ^ NN
+placed ^ VB
+places ^ NN
+plague ^ NN
+plagued ^ VB
+plagues ^ NN
+plain ^ NN
+plainly ^ RB
+plainness ^ NN
+plains ^ NN
+plaister ^ VB NN
+plaistered ^ VB
+plaiting ^ VB
+planes ^ NN
+planets ^ NN
+planks ^ NN
+plant ^ NN
+plantation ^ NN
+planted ^ VB
+plantedst ^ NN
+planters ^ NN
+planteth ^ VB NN
+planting ^ NN
+plantings ^ NN
+plants ^ NN
+plat ^ NN
+plate ^ NN
+plates ^ NN
+platted ^ VB
+platter ^ NN
+play ^ VB
+played ^ VB
+playedst ^ VB
+player ^ NN
+players ^ NN
+playeth ^ VB
+playing ^ VB
+plea ^ NN
+plead ^ NN VB
+pleaded ^ VB
+pleadeth ^ NN VB
+pleadings ^ NN
+pleasant ^ NN
+pleasantness ^ NN
+please ^ NN
+pleased ^ VB JJ
+pleaseth ^ NN
+pleasing ^ NN
+pleasure ^ NN
+pleasures ^ NN
+pledge ^ NN VB
+pledges ^ NN
+pleiades ^ NN
+plenteous ^ JJ .
+plenteousness ^ NN
+plentiful ^ JJ
+plentifully ^ RB
+plenty ^ NN
+plotteth ^ NN
+plough ^ NN
+plow ^ VB NN
+plowed ^ VB
+plowers ^ NN
+ploweth ^ NN
+plowing ^ VB NN
+plowman ^ NN
+plowmen ^ NN
+plowshares ^ NN
+pluck ^ VB NN
+plucked ^ VB
+plucketh ^ NN
+pluckt ^ NN
+plumbline ^ NN
+plummet ^ NN
+plunge ^ NN
+pochereth ^ NN
+poets ^ NN
+point ^ NN VB
+pointed ^ JJ
+points ^ NN
+poison ^ NN
+pole ^ NN
+policy ^ NN
+polished ^ VB JJ
+polishing ^ NN
+poll ^ NN
+polled ^ VB
+polls ^ NN
+pollute ^ VB NN
+polluted ^ VB JJ
+polluting ^ VB
+pollution ^ NN
+pollutions ^ NN
+pollux ^ NN
+pomegranate ^ NN JJ
+pomegranates ^ NN VB
+pommels ^ NN
+pomp ^ NN
+ponder ^ NN VB
+pondered ^ VB
+pondereth ^ VB
+ponds ^ NN
+pontius ^ NN
+pontus ^ NN
+pool ^ NN
+pools ^ NN
+poor ^ JJ
+poorer ^ JJR
+poorest ^ JJS
+poplar ^ NN
+poplars ^ NN
+populous ^ JJ
+poratha ^ NN
+porch ^ NN
+porches ^ NN
+porcius ^ NN
+port ^ NN
+porter ^ NN
+porters ^ NN
+portion ^ NN
+portions ^ NN
+possess ^ NN
+possessed ^ VB JJ
+possessest ^ NN
+possesseth ^ VB
+possessing ^ VB
+possession ^ NN
+possessions ^ NN
+possessor ^ NN
+possessors ^ NN
+possible ^ JJ
+post ^ NN
+posterity ^ NN
+posts ^ NN
+pot ^ NN
+potentate ^ NN
+potiphar ^ NN
+potipherah ^ NN
+pots ^ NN
+potsherd ^ NN
+potsherds ^ NN
+pottage ^ NN
+potter ^ NN JJ
+potters ^ NN
+pound ^ NN
+pounds ^ NN
+pour ^ VB NN
+poured ^ VB
+pouredst ^ NN
+poureth ^ VB
+pouring ^ VB
+pourtray ^ VB
+pourtrayed ^ VB
+poverty ^ NN
+powder ^ VB NN
+powders ^ NN
+power ^ NN
+powerful ^ JJ
+powers ^ NN
+practices ^ NN
+practise ^ NN
+practised ^ VB
+praetorium ^ NN
+praise ^ NN
+praised ^ VB
+praises ^ NN
+praiseth ^ NN
+praising ^ NN
+pransing ^ NN
+pransings ^ NN
+prating ^ NN VB
+pray ^ NN VB JJ
+prayed ^ VB JJ .
+prayer ^ NN
+prayers ^ NN
+prayest ^ NN
+prayeth ^ NN
+praying ^ VB
+preach ^ NN
+preached ^ VB
+preacher ^ NN
+preachest ^ NN
+preacheth ^ NN VB
+preaching ^ NN
+precept ^ NN
+precepts ^ NN
+precious ^ JJ
+predestinate ^ VB
+predestinated ^ VB
+preeminence ^ NN
+prefer ^ VB
+preferred ^ VB
+preferring ^ VB
+premeditate ^ NN
+preparation ^ NN
+preparations ^ NN
+prepare ^ VB JJ
+prepared ^ VB JJ
+preparedst ^ NN
+preparest ^ NN
+prepareth ^ VB NN
+preparing ^ VB NN
+presbytery ^ NN
+prescribed ^ VB
+prescribing ^ VB
+presence ^ NN
+present ^ JJ VB
+presented ^ VB
+presenting ^ VB
+presently ^ RB
+presents ^ NN
+preserve ^ VB NN
+preserved ^ VB NN .
+preserver ^ NN
+preservest ^ NN
+preserveth ^ VB NN
+presidents ^ NN
+press ^ NN
+pressed ^ VB
+presses ^ NN VB
+presseth ^ NN
+pressfat ^ NN
+presume ^ VB NN
+presumed ^ VB
+presumptuous ^ JJ LS
+presumptuously ^ RB
+pretence ^ NN
+prevail ^ VB NN
+prevailed ^ VB .
+prevailest ^ NN
+prevaileth ^ VB
+prevent ^ VB
+prevented ^ VB
+preventest ^ NN
+prey ^ NN
+price ^ NN
+prices ^ NN
+pricked ^ VB
+pricking ^ NN
+pricks ^ NN
+pride ^ NN
+priest ^ NN
+priesthood ^ NN
+priests ^ NN
+prince ^ NN
+princes ^ NN
+princess ^ NN
+princesses ^ NN
+principal ^ NN
+principalities ^ NN
+principality ^ NN
+principles ^ NN
+print ^ NN
+printed ^ VB
+prisca ^ NN
+priscilla ^ NN
+prised ^ VB
+prison ^ NN
+prisoner ^ NN
+prisoners ^ NN
+prisons ^ NN
+private ^ JJ
+privately ^ RB
+privily ^ RB
+privy ^ JJ
+prize ^ NN
+proceed ^ VB
+proceeded ^ VB
+proceedeth ^ NN
+proceeding ^ NN
+process ^ NN
+prochorus ^ NN
+proclaim ^ NN
+proclaimed ^ VB
+proclaimeth ^ NN
+proclaiming ^ VB NN
+proclamation ^ NN
+procure ^ VB NN
+procured ^ VB
+procureth ^ NN
+produce ^ VB
+profane ^ NN
+profaned ^ VB
+profaneness ^ NN
+profaneth ^ VB
+profaning ^ VB
+profess ^ NN VB
+professed ^ JJ VB
+professing ^ NN
+profession ^ NN
+profit ^ NN
+profitable ^ JJ
+profited ^ VB
+profiteth ^ NN
+profiting ^ VB
+profound ^ JJ
+progenitors ^ NN
+prognosticators ^ NN
+prolong ^ VB
+prolonged ^ VB JJ
+prolongeth ^ NN VB
+promise ^ NN
+promised ^ VB
+promisedst ^ NN
+promises ^ VB
+promising ^ NN
+promote ^ VB
+promoted ^ VB
+promotion ^ NN
+pronounce ^ VB
+pronounced ^ VB
+pronouncing ^ VB
+proof ^ NN
+proofs ^ NN
+proper ^ JJ
+prophecies ^ NN
+prophecy ^ NN
+prophesied ^ VB JJ
+prophesieth ^ NN
+prophesy ^ NN
+prophesying ^ NN
+prophesyings ^ NN
+prophet ^ NN
+prophetess ^ NN
+prophets ^ NN
+propitiation ^ NN
+proportion ^ NN
+proselyte ^ NN
+proselytes ^ NN
+prospect ^ NN
+prosper ^ NN
+prospered ^ VB . JJ
+prospereth ^ NN VB
+prosperity ^ NN
+prosperous ^ JJ .
+prosperously ^ RB
+prostitute ^ VB
+protection ^ NN
+protest ^ NN
+protested ^ VB
+protesting ^ NN
+proud ^ JJ NN
+proudly ^ RB
+prove ^ VB
+proved ^ VB
+provender ^ NN
+proverb ^ NN
+proverbs ^ NN
+proveth ^ NN
+provide ^ VB
+provided ^ VB
+providence ^ NN
+provideth ^ NN
+providing ^ VB
+province ^ NN
+provinces ^ NN
+proving ^ VB
+provision ^ NN
+provocation ^ NN
+provocations ^ NN
+provoke ^ VB NN
+provoked ^ VB
+provokedst ^ NN
+provoketh ^ VB
+provoking ^ NN VB
+prudence ^ NN
+prudent ^ JJ NN
+prudently ^ RB
+prune ^ NN JJ
+pruned ^ JJ
+pruning ^ VB
+pruninghooks ^ NN
+psalm ^ NN
+psalmist ^ NN
+psalms ^ NN
+psalteries ^ NN
+psaltery ^ NN
+ptolemais ^ NN
+pua ^ NN
+puah ^ NN
+publican ^ NN
+publicans ^ NN
+publick ^ NN
+publickly ^ RB
+publish ^ VB JJ
+published ^ VB
+publisheth ^ VB NN
+publius ^ NN
+pudens ^ NN
+puffed ^ VB
+puffeth ^ VB NN
+puhites ^ NN
+pul ^ NN
+pull ^ VB
+pulled ^ VB
+pulling ^ VB
+pulpit ^ NN
+pulse ^ NN VB
+punish ^ VB JJ
+punished ^ VB
+punishment ^ NN
+punishments ^ NN
+punites ^ NN
+punon ^ NN
+pur ^ NN
+purchase ^ NN VB
+purchased ^ VB
+pure ^ NN
+purely ^ RB
+pureness ^ NN
+purer ^ RB NN
+purge ^ NN
+purged ^ VB
+purgeth ^ VB
+purging ^ VB
+purification ^ NN
+purifications ^ NN
+purified ^ VB
+purifier ^ NN
+purifieth ^ VB
+purify ^ VB
+purifying ^ NN VB
+purim ^ NN
+purity ^ NN
+purloining ^ VB
+purple ^ NN
+purpose ^ NN
+purposed ^ VB JJ
+purposes ^ NN
+purposeth ^ NN
+purposing ^ NN
+purse ^ NN
+purses ^ NN
+pursue ^ VB
+pursued ^ VB JJ
+pursuer ^ NN
+pursuers ^ NN
+pursueth ^ VB NN
+pursuing ^ VB
+purtenance ^ NN
+push ^ VB NN
+pushed ^ VB
+pushing ^ VB
+put ^ NN
+puteoli ^ NN
+putiel ^ NN
+putrifying ^ VB
+puttest ^ NN VB
+putteth ^ VB NN
+putting ^ VB
+pygarg ^ NN
+quails ^ NN
+quake ^ NN
+quaked ^ VB
+quaking ^ NN
+quantity ^ NN
+quarrel ^ NN
+quarries ^ NN
+quarter ^ NN
+quarters ^ NN
+quartus ^ NN
+quaternions ^ NN
+queen ^ NN
+queens ^ NN
+quench ^ NN
+quenched ^ VB
+question ^ NN
+questioned ^ VB
+questioning ^ VB
+questions ^ NN
+quick ^ JJ
+quicken ^ RB JJ
+quickened ^ VB
+quickeneth ^ VB RB
+quickening ^ JJ
+quickly ^ RB
+quicksands ^ NN
+quiet ^ JJ
+quieted ^ VB
+quieteth ^ VB
+quietly ^ RB
+quietness ^ NN
+quit ^ VB
+quite ^ RB
+quiver ^ RB NN
+quivered ^ VB
+raamah ^ NN
+raamiah ^ NN
+raamses ^ NN
+rabbah ^ NN
+rabbath ^ NN
+rabbi ^ NN
+rabbith ^ NN
+rabboni ^ NN
+rabmag ^ NN
+rabsaris ^ NN
+rabshakeh ^ NN
+raca ^ NN
+race ^ NN
+rachab ^ NN
+rachal ^ NN
+rachel ^ NN
+raddai ^ NN
+rafters ^ NN
+ragau ^ NN
+rage ^ NN
+raged ^ VB
+rageth ^ NN
+ragged ^ JJ
+raging ^ NN VB
+rags ^ NN
+raguel ^ NN
+rahab ^ NN
+raham ^ NN
+rahel ^ NN
+rail ^ NN
+railed ^ VB
+railer ^ NN
+railing ^ NN
+railings ^ NN
+raiment ^ NN
+rain ^ NN
+rainbow ^ NN
+rained ^ VB
+rainy ^ JJ
+raise ^ NN
+raised ^ VB
+raiser ^ NN
+raiseth ^ VB
+raising ^ VB
+raisins ^ NN
+rakem ^ NN
+rakkath ^ NN
+rakkon ^ NN
+ram ^ NN
+rama ^ NN
+ramah ^ NN
+ramath ^ NN
+ramathaimzophim ^ NN
+ramathite ^ NN
+ramathlehi ^ NN
+ramathmizpeh ^ NN
+rameses ^ NN
+ramiah ^ NN
+ramoth ^ NN
+ramothgilead ^ NN
+rampart ^ NN
+rams ^ NN
+ran ^ NN
+rang ^ NN
+range ^ NN
+ranges ^ NN
+ranging ^ VB
+rank ^ NN
+ranks ^ NN
+ransom ^ NN
+ransomed ^ NN JJ VB
+rapha ^ NN
+raphu ^ NN
+rare ^ JJ
+rase ^ NN
+rash ^ NN
+rashly ^ RB
+rate ^ NN
+rather ^ RB
+rattleth ^ NN
+rattling ^ NN
+raven ^ NN
+ravening ^ NN VB
+ravenous ^ VB JJ
+ravens ^ NN
+ravin ^ VB NN
+ravished ^ VB .
+raw ^ JJ
+razor ^ NN
+reach ^ NN
+reached ^ VB
+reacheth ^ VB NN
+reaching ^ VB
+read ^ VB
+readest ^ JJ NN
+readeth ^ NN
+readiness ^ NN
+reading ^ NN
+ready ^ JJ
+reaia ^ NN
+reaiah ^ NN
+realm ^ NN
+reap ^ VB NN JJ
+reaped ^ VB
+reaper ^ NN
+reapers ^ NN
+reapest ^ NN
+reapeth ^ NN
+reaping ^ VB
+rear ^ NN
+reared ^ VB
+reason ^ NN
+reasonable ^ JJ
+reasoned ^ VB
+reasoning ^ NN VB
+reasons ^ NN
+reba ^ NN
+rebecca ^ NN
+rebekah ^ NN
+rebel ^ NN VB
+rebelled ^ VB
+rebellest ^ NN
+rebellion ^ NN
+rebellious ^ JJ
+rebels ^ NN
+rebuke ^ NN
+rebuked ^ VB
+rebuker ^ NN
+rebukes ^ NN
+rebuketh ^ VB NN
+rebuking ^ NN
+recall ^ NN
+receipt ^ NN
+receive ^ VB
+received ^ VB
+receivedst ^ NN
+receiver ^ NN
+receiveth ^ VB JJ NN
+receiving ^ VB NN
+rechab ^ NN
+rechabites ^ NN
+rechah ^ NN
+reckon ^ NN
+reckoned ^ VB
+reckoneth ^ NN
+reckoning ^ NN
+recommended ^ VB
+recompence ^ NN
+recompences ^ NN
+recompense ^ NN
+recompensed ^ VB
+recompensest ^ VB
+recompensing ^ VB
+reconcile ^ VB
+reconciled ^ VB
+reconciliation ^ NN
+reconciling ^ VB NN
+record ^ NN VB
+recorded ^ VB
+recorder ^ NN
+records ^ NN
+recount ^ VB
+recover ^ VB
+recovered ^ VB
+recovering ^ NN
+red ^ JJ NN
+reddish ^ JJ NN
+redeem ^ VB NN
+redeemed ^ VB JJ
+redeemedst ^ NN
+redeemer ^ NN
+redeemeth ^ VB
+redeeming ^ NN VB
+redemption ^ NN
+redness ^ NN
+redound ^ NN
+reed ^ NN
+reeds ^ NN
+reel ^ VB
+reelaiah ^ NN
+refine ^ VB
+refined ^ VB JJ
+refiner ^ NN
+reformation ^ NN
+reformed ^ VB
+refrain ^ NN
+refrained ^ VB
+refraineth ^ VB
+refresh ^ NN
+refreshed ^ VB
+refresheth ^ VB
+refreshing ^ NN
+refuge ^ NN
+refuse ^ VB
+refused ^ VB
+refusedst ^ NN
+refuseth ^ VB NN
+regard ^ NN
+regarded ^ VB JJ
+regardest ^ NN
+regardeth ^ VB NN
+regarding ^ VB
+regem ^ NN
+regemmelech ^ NN
+regeneration ^ NN
+region ^ NN
+regions ^ NN
+register ^ NN
+rehabiah ^ NN
+rehearse ^ VB
+rehearsed ^ VB
+rehob ^ NN
+rehoboam ^ NN
+rehoboth ^ NN
+rehum ^ NN
+rei ^ NN
+reign ^ NN
+reigned ^ NN
+reignest ^ NN
+reigneth ^ NN
+reigning ^ VB
+reins ^ NN
+reject ^ VB
+rejected ^ VB
+rejecteth ^ VB
+rejoice ^ VB NN JJ
+rejoiced ^ VB
+rejoicest ^ NN
+rejoiceth ^ NN
+rejoicing ^ NN
+rekem ^ NN
+release ^ NN
+released ^ VB
+relied ^ VB
+relief ^ NN
+relieve ^ VB
+relieved ^ VB
+relieveth ^ VB
+religion ^ NN
+religious ^ JJ
+rely ^ RB
+remain ^ VB
+remainder ^ NN
+remained ^ VB
+remainest ^ VB NN
+remaineth ^ NN
+remaining ^ VB
+remaliah ^ NN
+remedy ^ NN
+remember ^ VB NN
+remembered ^ VB
+rememberest ^ VB
+remembereth ^ VB
+remembering ^ VB
+remembrance ^ NN
+remembrances ^ NN
+remeth ^ NN
+remission ^ NN
+remit ^ NN
+remitted ^ VB
+remmon ^ NN
+remmonmethoar ^ NN
+remnant ^ NN
+remove ^ NN
+removed ^ VB
+removeth ^ VB
+removing ^ VB
+remphan ^ NN
+rend ^ VB NN
+render ^ NN
+rendered ^ VB
+renderest ^ NN
+rendereth ^ NN
+rendering ^ VB
+rending ^ VB
+renew ^ VB
+renewed ^ VB
+renewest ^ VB
+renewing ^ NN VB
+renounced ^ VB
+renown ^ NN RB JJ
+renowned ^ JJ VB
+rent ^ NN
+rentest ^ NN
+repair ^ VB NN
+repaired ^ VB
+repairer ^ NN
+repairing ^ NN
+repay ^ VB
+repayed ^ VB
+repayeth ^ VB
+repeateth ^ VB
+repent ^ NN
+repentance ^ NN
+repented ^ VB
+repentest ^ NN
+repenteth ^ NN
+repenting ^ VB
+repentings ^ NN
+repetitions ^ NN
+rephael ^ NN
+rephah ^ NN
+rephaiah ^ NN
+rephaim ^ NN
+rephaims ^ NN
+rephidim ^ NN
+replenish ^ VB
+replenished ^ VB
+repliest ^ VB
+report ^ NN
+reported ^ VB
+reproach ^ NN
+reproached ^ VB JJ
+reproaches ^ NN
+reproachest ^ VB
+reproacheth ^ NN VB
+reproachfully ^ RB
+reprobate ^ NN
+reprobates ^ NN
+reproof ^ NN JJ
+reproofs ^ NN
+reprove ^ VB
+reproved ^ VB
+reprover ^ NN
+reproveth ^ VB NN
+reputation ^ NN
+reputed ^ VB
+request ^ NN
+requested ^ VB
+requests ^ NN
+require ^ VB
+required ^ VB
+requirest ^ NN
+requireth ^ NN
+requiring ^ VB
+requite ^ VB NN
+requited ^ VB
+requiting ^ VB
+rereward ^ NN RB
+rescue ^ NN
+rescued ^ VB
+rescueth ^ NN
+resemblance ^ NN
+resemble ^ VB
+resembled ^ VB
+resen ^ NN
+reserve ^ VB NN
+reserved ^ VB
+reserveth ^ VB
+resheph ^ NN
+residue ^ NN
+resist ^ VB
+resisted ^ VB
+resisteth ^ VB
+resolved ^ VB
+resort ^ NN VB
+resorted ^ VB JJ
+respect ^ NN
+respected ^ VB
+respecter ^ NN
+respecteth ^ VB
+respite ^ JJ
+rest ^ NN
+rested ^ VB
+restest ^ NN
+resteth ^ NN
+resting ^ VB NN
+restingplace ^ VB
+restitution ^ NN
+restore ^ NN
+restored ^ VB
+restorer ^ NN
+restoreth ^ VB
+restrain ^ NN
+restrained ^ VB .
+restrainest ^ NN
+restraint ^ NN
+rests ^ NN
+resurrection ^ NN
+retain ^ VB
+retained ^ VB
+retaineth ^ VB
+retire ^ VB NN
+retired ^ VB
+return ^ NN
+returned ^ VB
+returneth ^ NN
+returning ^ VB
+reu ^ NN
+reuben ^ NN
+reubenite ^ NN
+reubenites ^ NN
+reuel ^ NN
+reumah ^ NN
+reveal ^ VB NN
+revealed ^ VB
+revealer ^ NN
+revealeth ^ NN VB
+revelation ^ NN
+revelations ^ NN
+revellings ^ NN
+revenge ^ NN
+revenged ^ VB
+revenger ^ NN
+revengers ^ NN
+revenges ^ NN
+revengeth ^ NN
+revenging ^ NN
+revenue ^ NN
+revenues ^ NN
+reverence ^ NN
+reverenced ^ VB
+reverend ^ NN
+reverse ^ VB
+revile ^ NN
+reviled ^ JJ VB
+revilers ^ NN
+revilest ^ IN
+revilings ^ NN
+revive ^ VB
+revived ^ VB
+reviving ^ NN
+revolt ^ NN VB
+revolted ^ VB
+revolters ^ NN
+revolting ^ NN
+reward ^ NN
+rewarded ^ VB
+rewarder ^ NN
+rewardeth ^ VB NN
+rewards ^ NN VB
+rezeph ^ NN
+rezia ^ NN
+rezin ^ NN
+rezon ^ NN
+rhegium ^ NN
+rhesa ^ NN
+rhoda ^ NN
+rhodes ^ NN
+rib ^ NN
+ribai ^ NN
+ribband ^ NN
+riblah ^ NN
+ribs ^ NN
+rich ^ JJ
+richer ^ JJR
+riches ^ NN
+richly ^ RB
+rid ^ VB JJ
+riddance ^ NN
+ridden ^ JJ
+riddle ^ JJ NN
+ride ^ VB NN
+rider ^ NN
+riders ^ NN
+rideth ^ VB NN
+ridges ^ NN
+riding ^ VB
+rie ^ NN
+rifled ^ JJ
+right ^ NN
+righteous ^ JJ LS
+righteously ^ RB
+righteousness ^ NN
+righteousnesses ^ NN
+rightly ^ RB
+rigour ^ NN RB
+rimmon ^ NN
+rimmonparez ^ NN
+ring ^ NN
+ringleader ^ NN
+rings ^ NN
+ringstraked ^ JJ VB
+rinnah ^ NN
+rinsed ^ JJ VB
+riot ^ NN
+rioting ^ NN
+riotous ^ JJ
+rip ^ VB
+ripe ^ JJ NN
+ripening ^ VB
+riphath ^ NN
+ripped ^ VB
+rise ^ VB NN
+risen ^ VB
+risest ^ NN
+riseth ^ NN VB
+rising ^ VB
+rissah ^ NN
+rites ^ NN
+rithmah ^ NN
+river ^ NN
+rivers ^ NN
+rizpah ^ NN
+road ^ NN
+roar ^ NN VB RB
+roared ^ VB
+roareth ^ NN
+roaring ^ NN VB
+roarings ^ NN
+roast ^ NN
+roasted ^ VB
+roasteth ^ NN VB
+rob ^ NN VB JJ
+robbed ^ VB NN
+robber ^ NN
+robbers ^ NN
+robbery ^ NN
+robbeth ^ VB
+robe ^ NN
+robes ^ NN
+roboam ^ NN
+rock ^ NN
+rocks ^ NN
+rod ^ NN
+rode ^ VB
+rods ^ NN
+roe ^ NN
+roebuck ^ NN
+roebucks ^ NN
+roes ^ NN
+rogelim ^ NN
+rohgah ^ NN
+roll ^ NN
+rolled ^ VB
+roller ^ NN
+rolleth ^ VB
+rolling ^ JJ
+rolls ^ NN
+romamtiezer ^ NN
+roman ^ NN
+romans ^ NN
+rome ^ NN
+roof ^ NN
+roofs ^ NN
+room ^ NN
+rooms ^ NN
+root ^ NN
+rooted ^ VB
+roots ^ NN
+rope ^ NN
+ropes ^ NN
+rose ^ VB
+rosh ^ NN
+rot ^ NN VB
+rotten ^ JJ VB
+rottenness ^ NN
+rough ^ JJ
+roughly ^ RB
+round ^ NN JJ VB
+rouse ^ VB
+rovers ^ NN
+row ^ NN
+rowed ^ VB
+rowers ^ NN
+rowing ^ NN
+rows ^ NN
+royal ^ NN JJ
+rubbing ^ VB
+rubbish ^ NN
+rubies ^ NN
+rudder ^ NN
+ruddy ^ JJ NN
+rude ^ VB
+rudiments ^ NN
+rue ^ NN
+rufus ^ NN
+ruhamah ^ NN
+ruin ^ NN
+ruined ^ VB
+ruinous ^ JJ
+ruins ^ NN
+rule ^ VB NN
+ruled ^ VB
+ruler ^ NN
+rulers ^ NN
+rulest ^ NN IN
+ruleth ^ VB NN
+ruling ^ NN VB
+rumah ^ NN
+rumbling ^ NN
+rumour ^ NN
+rumours ^ NN
+rump ^ NN
+run ^ NN
+runnest ^ NN
+runneth ^ VB NN
+running ^ NN VB
+rush ^ NN VB
+rushed ^ VB
+rushes ^ NN
+rusheth ^ VB
+rushing ^ NN VB
+rust ^ NN
+ruth ^ NN
+s ^ NN VB JJ
+sabachthani ^ NN
+sabaoth ^ NN VB
+sabbath ^ NN
+sabbaths ^ NN
+sabeans ^ NN
+sabta ^ NN
+sabtah ^ NN
+sabtecha ^ NN
+sabtechah ^ NN
+sacar ^ NN
+sack ^ NN
+sackbut ^ NN
+sackcloth ^ NN
+sackclothes ^ NN
+sacks ^ NN
+sacrifice ^ NN
+sacrificed ^ JJ VB
+sacrificedst ^ VB
+sacrifices ^ NN
+sacrificeth ^ VB NN
+sacrificing ^ VB
+sacrilege ^ NN
+sad ^ JJ
+saddle ^ NN
+saddled ^ VB
+sadducees ^ NN
+sadly ^ RB
+sadness ^ NN
+sadoc ^ NN
+safe ^ JJ
+safeguard ^ NN
+safely ^ RB JJ
+safety ^ NN
+saffron ^ NN
+said ^ VB
+saidst ^ VB JJ
+sail ^ NN
+sailed ^ VB
+sailing ^ NN
+sailors ^ NN
+saint ^ NN SYM VB
+saints ^ NN
+saith ^ VB . JJR SYM JJ NN
+sake ^ NN
+sakes ^ NN
+sala ^ NN
+salah ^ NN
+salamis ^ NN
+salathiel ^ NN
+salcah ^ NN
+salchah ^ NN
+sale ^ NN
+salem ^ NN
+salim ^ NN
+sallai ^ NN
+sallu ^ NN
+salma ^ NN
+salmon ^ NN
+salmone ^ NN
+salome ^ NN
+salt ^ NN
+salted ^ VB
+saltness ^ NN
+saltpits ^ NN
+salu ^ NN
+salutation ^ NN
+salutations ^ NN
+salute ^ NN
+saluted ^ VB
+saluteth ^ NN
+salvation ^ NN
+samaria ^ NN
+samaritan ^ NN
+samaritans ^ NN
+same ^ JJ
+samgarnebo ^ NN
+samlah ^ NN
+samos ^ NN
+samothracia ^ NN
+samson ^ NN
+samuel ^ NN
+sanballat ^ NN
+sanctification ^ NN
+sanctified ^ VB
+sanctifieth ^ NN
+sanctify ^ NN
+sanctuaries ^ NN
+sanctuary ^ NN
+sand ^ NN
+sandals ^ NN
+sang ^ VB
+sank ^ VB
+sansannah ^ NN
+sap ^ JJ
+saph ^ NN
+saphir ^ NN
+sapphira ^ NN
+sapphire ^ NN
+sapphires ^ NN
+sara ^ NN
+sarah ^ NN
+sarai ^ NN
+saraph ^ NN
+sardine ^ NN
+sardis ^ NN
+sardites ^ NN
+sardius ^ NN
+sardonyx ^ NN
+sarepta ^ NN
+sargon ^ NN
+sarid ^ NN
+saron ^ NN
+sarsechim ^ NN
+saruch ^ NN
+sat ^ VB
+satan ^ NN
+satest ^ NN
+satiate ^ VB JJ
+satiated ^ VB
+satisfaction ^ NN
+satisfied ^ VB JJ
+satisfiest ^ VB
+satisfieth ^ VB
+satisfy ^ NN
+satisfying ^ NN
+satyr ^ JJ
+satyrs ^ NN
+saul ^ NN
+save ^ VB NN IN
+saved ^ VB
+savest ^ NN
+saveth ^ VB
+saving ^ VB JJ NN
+saviour ^ NN VB JJ
+saviours ^ NN
+savour ^ NN
+savourest ^ NN
+savours ^ NN
+savoury ^ JJ NN
+saw ^ VB
+sawed ^ VB
+sawest ^ NN VB
+sawn ^ JJ
+saws ^ NN
+say ^ VB
+sayest ^ NN
+saying ^ VB NN
+sayings ^ NN
+scab ^ NN
+scabbard ^ NN
+scabbed ^ VB
+scaffold ^ NN
+scales ^ NN .
+scaleth ^ VB
+scall ^ NN JJ
+scalp ^ NN
+scant ^ JJ
+scapegoat ^ NN
+scarce ^ JJ NN
+scarcely ^ RB
+scarceness ^ NN
+scarest ^ NN
+scarlet ^ NN
+scatter ^ NN JJ VB
+scattered ^ VB JJ
+scattereth ^ VB JJ NN
+scattering ^ NN
+scent ^ NN
+sceptre ^ NN
+sceptres ^ NN
+sceva ^ NN
+schism ^ NN
+scholar ^ NN
+school ^ NN
+schoolmaster ^ NN
+science ^ NN
+scoff ^ RP
+scoffers ^ NN
+scorch ^ VB
+scorched ^ VB
+scorn ^ VB NN
+scorner ^ NN JJ
+scorners ^ NN
+scornest ^ NN
+scorneth ^ VB
+scornful ^ JJ
+scorning ^ VB NN
+scorpion ^ NN
+scorpions ^ NN
+scoured ^ JJ
+scourge ^ NN VB
+scourged ^ VB
+scourges ^ NN
+scourgeth ^ NN
+scourging ^ VB
+scourgings ^ NN
+scrabbled ^ VB
+scrape ^ VB
+scraped ^ VB
+screech ^ NN
+scribe ^ NN
+scribes ^ NN
+scrip ^ NN
+scripture ^ NN
+scriptures ^ NN
+scroll ^ NN
+scum ^ NN
+scurvy ^ JJ NN
+scythian ^ NN
+sea ^ NN
+seafaring ^ VB
+seal ^ NN
+sealed ^ VB JJ .
+sealest ^ NN
+sealeth ^ NN VB
+sealing ^ VB
+seals ^ NN
+seam ^ NN
+search ^ VB NN
+searched ^ VB
+searchest ^ NN
+searcheth ^ VB NN
+searching ^ NN VB
+searchings ^ NN
+seared ^ VB
+seas ^ NN
+season ^ NN
+seasoned ^ VB
+seasons ^ NN
+seat ^ NN
+seated ^ VB
+seats ^ NN
+seatward ^ NN
+seba ^ NN
+sebat ^ NN
+secacah ^ NN
+sechu ^ NN
+second ^ NN
+secondarily ^ RB
+secret ^ NN
+secretly ^ NN
+secrets ^ NN
+sect ^ NN
+secundus ^ NN
+secure ^ JJ VB
+securely ^ RB
+security ^ NN
+sedition ^ NN
+seditions ^ NN
+seduce ^ VB
+seduced ^ VB
+seducers ^ NN
+seduceth ^ NN
+seducing ^ VB
+see ^ VB
+seed ^ NN
+seeds ^ NN
+seedtime ^ NN
+seeing ^ VB
+seek ^ VB
+seekest ^ NN
+seeketh ^ NN
+seeking ^ VB
+seem ^ VB
+seemed ^ VB
+seemeth ^ VB JJ NN
+seemly ^ RB
+seen ^ VB
+seer ^ NN
+seers ^ NN
+seest ^ NN
+seeth ^ VB NN .
+seethe ^ VB JJ
+seething ^ NN
+segub ^ NN
+seir ^ NN
+seirath ^ NN
+seize ^ VB
+seized ^ VB
+sela ^ NN
+selah ^ VB NN
+selahammahlekoth ^ NN
+seled ^ NN
+seleucia ^ NN
+self ^ NN
+selfsame ^ JJ
+selfwill ^ NN
+selfwilled ^ VB
+sell ^ NN
+seller ^ NN
+sellers ^ NN
+sellest ^ IN
+selleth ^ VB NN
+selvedge ^ NN
+selves ^ NN
+sem ^ NN
+semachiah ^ NN
+semei ^ NN
+senaah ^ NN
+senate ^ NN
+senators ^ NN
+send ^ VB
+sendest ^ NN VB
+sendeth ^ VB NN JJ
+sending ^ VB
+seneh ^ NN
+senir ^ NN
+sennacherib ^ NN
+sense ^ NN
+senses ^ NN
+sensual ^ JJ
+sent ^ VB
+sentence ^ NN
+sentences ^ NN
+sentest ^ NN
+senuah ^ NN
+seorim ^ NN
+separate ^ JJ VB
+separated ^ VB JJ
+separateth ^ VB JJ
+separating ^ VB
+separation ^ NN
+sephar ^ NN
+sepharad ^ NN
+sepharvaim ^ NN
+sepharvites ^ NN
+sepulchre ^ NN
+sepulchres ^ NN
+serah ^ NN
+seraiah ^ NN
+seraphims ^ NN
+sered ^ NN
+sergius ^ NN
+serjeants ^ NN
+serpent ^ NN
+serpents ^ NN
+serug ^ NN
+servant ^ NN
+servants ^ NN
+serve ^ VB
+served ^ VB
+servedst ^ NN
+servest ^ NN
+serveth ^ NN
+service ^ NN
+servile ^ NN
+serving ^ VB
+servitor ^ NN
+servitude ^ NN
+set ^ NN
+seth ^ NN
+sethur ^ NN
+setter ^ NN
+settest ^ NN VB
+setteth ^ NN
+setting ^ NN
+settings ^ .
+settle ^ VB
+settled ^ VB
+settlest ^ IN
+seven ^ CD
+sevenfold ^ . JJ VB NN RB
+sevens ^ NN
+seventeen ^ CD JJ
+seventeenth ^ JJ
+seventh ^ JJ
+seventy ^ JJ CD NN
+sever ^ RB VB IN
+several ^ JJ
+severally ^ RB
+severed ^ VB JJ
+severity ^ NN
+sew ^ VB NN
+sewed ^ VB
+sewest ^ NN
+seweth ^ NN
+shaalabbin ^ NN
+shaalbim ^ NN
+shaalbonite ^ NN
+shaaph ^ NN
+shaaraim ^ NN
+shaashgaz ^ NN
+shabbethai ^ NN
+shachia ^ NN
+shade ^ VB
+shadow ^ NN
+shadowing ^ VB
+shadows ^ NN
+shadrach ^ NN
+shady ^ JJ
+shaft ^ NN
+shage ^ NN
+shaharaim ^ NN
+shahazimah ^ NN
+shake ^ NN
+shaked ^ VB
+shaken ^ VB
+shaketh ^ VB . NN
+shaking ^ NN
+shalem ^ NN
+shalim ^ NN
+shalisha ^ NN
+shall ^ VB
+shallecheth ^ NN
+shallum ^ NN
+shallun ^ NN
+shalmai ^ NN
+shalman ^ NN
+shalmaneser ^ NN
+shalt ^ NN VB RB JJ
+shama ^ NN
+shamariah ^ NN
+shambles ^ NN
+shame ^ NN
+shamed ^ VB
+shamefacedness ^ NN
+shameful ^ JJ
+shamefully ^ RB
+shamelessly ^ RB
+shamer ^ NN
+shameth ^ NN
+shamgar ^ NN
+shamhuth ^ NN
+shamir ^ NN
+shamma ^ NN
+shammah ^ NN
+shammai ^ NN
+shammoth ^ NN
+shammua ^ NN
+shammuah ^ NN
+shamsherai ^ NN
+shape ^ NN
+shapen ^ VB
+shapes ^ NN
+shapham ^ NN
+shaphan ^ NN
+shaphat ^ NN
+shapher ^ NN
+sharai ^ NN
+sharaim ^ NN
+sharar ^ NN
+share ^ NN
+sharezer ^ NN
+sharon ^ NN
+sharonite ^ NN
+sharp ^ JJ
+sharpen ^ VB
+sharpened ^ VB
+sharpeneth ^ VB NN
+sharper ^ JJR
+sharply ^ RB
+sharpness ^ NN
+sharuhen ^ NN
+shashai ^ NN
+shashak ^ NN
+shaul ^ NN
+shaulites ^ NN
+shave ^ VB NN
+shaved ^ VB
+shaveh ^ NN
+shaven ^ NN
+shavsha ^ NN
+she ^ NN
+sheaf ^ NN
+sheal ^ NN
+shealtiel ^ NN
+shear ^ VB
+shearer ^ NN
+shearers ^ NN
+sheariah ^ NN
+shearing ^ VB NN
+shearjashub ^ NN
+sheath ^ NN
+sheaves ^ NN
+sheba ^ NN
+shebah ^ NN
+shebam ^ NN
+shebaniah ^ NN
+shebarim ^ NN
+sheber ^ NN
+shebna ^ NN
+shebuel ^ NN
+shecaniah ^ NN
+shechaniah ^ NN
+shechem ^ NN
+shechemites ^ NN
+shed ^ VB JJ
+shedder ^ NN
+sheddeth ^ VB
+shedding ^ VB
+shedeur ^ NN
+sheep ^ NN
+sheepcote ^ NN
+sheepcotes ^ NN
+sheepfold ^ NN
+sheepfolds ^ NN
+sheepmaster ^ NN
+sheepshearers ^ NN
+sheepskins ^ NN
+sheet ^ NN
+sheets ^ NN
+shehariah ^ NN
+shekel ^ NN
+shekels ^ NN
+shelah ^ NN
+shelanites ^ NN
+shelemiah ^ NN
+sheleph ^ NN
+shelesh ^ NN
+shelomi ^ NN
+shelomith ^ NN
+shelomoth ^ NN
+shelter ^ NN
+shelumiel ^ NN
+shem ^ NN
+shema ^ NN
+shemaah ^ NN
+shemaiah ^ NN
+shemariah ^ NN
+shemeber ^ NN
+shemer ^ NN
+shemida ^ NN
+shemidah ^ NN
+shemidaites ^ NN
+sheminith ^ NN
+shemiramoth ^ NN
+shemuel ^ NN
+shen ^ NN
+shenazar ^ NN
+shenir ^ NN
+shepham ^ NN
+shephathiah ^ NN
+shephatiah ^ NN
+shepherd ^ NN
+shepherds ^ NN
+shephi ^ NN
+shepho ^ NN
+shephuphan ^ NN
+sherah ^ NN
+sherd ^ NN
+sherds ^ NN
+sherebiah ^ NN
+sheresh ^ NN
+sherezer ^ NN
+sheriffs ^ NN
+sheshach ^ NN
+sheshai ^ NN
+sheshan ^ NN
+sheshbazzar ^ NN
+sheth ^ NN
+shethar ^ NN
+shetharboznai ^ NN
+sheva ^ NN
+shew ^ JJ NN VB
+shewbread ^ NN
+shewed ^ VB
+shewedst ^ NN
+shewest ^ NN
+sheweth ^ VB NN
+shewing ^ VB NN
+shibboleth ^ VB
+shibmah ^ NN
+shicron ^ NN
+shield ^ NN VB
+shields ^ NN
+shigionoth ^ NN
+shihon ^ NN
+shihor ^ NN
+shihorlibnath ^ NN
+shilhi ^ NN
+shilhim ^ NN
+shillem ^ NN
+shillemites ^ NN
+shiloah ^ NN
+shiloh ^ NN
+shiloni ^ NN
+shilonite ^ NN
+shilonites ^ NN
+shilshah ^ NN
+shimea ^ NN
+shimeah ^ NN
+shimeam ^ NN
+shimeath ^ NN
+shimeathites ^ NN
+shimei ^ NN
+shimeon ^ NN
+shimhi ^ NN
+shimi ^ NN
+shimites ^ NN
+shimma ^ NN
+shimon ^ NN
+shimrath ^ NN
+shimri ^ NN
+shimrith ^ NN
+shimrom ^ NN
+shimron ^ NN
+shimronites ^ NN
+shimronmeron ^ NN
+shimshai ^ NN
+shinab ^ NN
+shinar ^ NN
+shine ^ NN
+shined ^ VB .
+shineth ^ NN
+shining ^ NN VB
+ship ^ NN
+shiphi ^ NN
+shiphmite ^ NN
+shiphrah ^ NN
+shiphtan ^ NN
+shipmaster ^ NN
+shipmen ^ NN
+shipping ^ NN
+ships ^ NN
+shipwreck ^ NN
+shisha ^ NN
+shishak ^ NN
+shitrai ^ NN
+shittah ^ NN
+shittim ^ NN
+shivers ^ NN
+shiza ^ NN
+shoa ^ NN
+shobab ^ NN
+shobach ^ NN
+shobai ^ NN
+shobal ^ NN
+shobek ^ NN
+shobi ^ NN
+shocho ^ NN
+shochoh ^ NN
+shock ^ NN
+shocks ^ NN
+shoco ^ NN
+shod ^ JJ
+shoe ^ NN
+shoelatchet ^ NN
+shoes ^ NN
+shoham ^ NN
+shomer ^ NN
+shone ^ NN
+shook ^ VB
+shoot ^ NN
+shooters ^ NN
+shooteth ^ VB
+shooting ^ VB NN
+shophach ^ NN
+shophan ^ NN
+shore ^ NN
+shorn ^ VB
+short ^ RB JJ
+shortened ^ VB
+shorter ^ JJR
+shortly ^ RB
+shot ^ NN VB
+should ^ VB
+shoulder ^ NN VB
+shoulderpieces ^ NN
+shoulders ^ NN
+shouldest ^ VB JJ NN
+shout ^ RB NN RP VB
+shouted ^ VB JJ
+shouteth ^ JJ
+shouting ^ VB JJ
+shoutings ^ NN
+shovel ^ NN
+shovels ^ NN
+shower ^ NN
+showers ^ NN
+shrank ^ VB NN
+shred ^ VB
+shrines ^ NN
+shroud ^ JJ
+shrubs ^ NN
+shua ^ NN
+shuah ^ NN
+shual ^ NN
+shubael ^ NN
+shuham ^ NN
+shuhamites ^ NN
+shuhite ^ NN
+shulamite ^ NN
+shumathites ^ NN
+shun ^ VB
+shunammite ^ NN
+shunem ^ NN
+shuni ^ NN
+shunites ^ NN
+shunned ^ VB
+shupham ^ NN
+shuphamites ^ NN
+shuppim ^ NN
+shur ^ NN
+shushan ^ NN
+shut ^ VB
+shuthalhites ^ NN
+shuthelah ^ NN
+shutteth ^ NN
+shutting ^ NN
+shuttle ^ NN
+sia ^ NN
+siaha ^ NN
+sibbecai ^ NN
+sibbechai ^ NN
+sibboleth ^ NN
+sibmah ^ NN
+sibraim ^ NN
+sichem ^ NN
+sick ^ JJ NN
+sickle ^ NN
+sickly ^ RB
+sickness ^ NN
+sicknesses ^ NN
+siddim ^ NN
+side ^ NN
+sides ^ NN
+sidon ^ NN
+sidonians ^ NN
+siege ^ NN
+sieve ^ NN
+sift ^ VB
+sifted ^ VB
+sigh ^ NN
+sighed ^ VB
+sighest ^ NN
+sigheth ^ VB
+sighing ^ NN
+sighs ^ NN
+sight ^ NN
+sights ^ NN
+sign ^ NN
+signed ^ VB
+signet ^ RB NN
+signets ^ NN
+signification ^ NN
+signified ^ VB
+signifieth ^ IN
+signify ^ VB NN RB
+signifying ^ VB NN
+signs ^ NN
+sihon ^ NN
+sihor ^ NN
+silas ^ NN
+silence ^ NN
+silent ^ JJ
+silk ^ NN
+silla ^ NN
+silly ^ JJ
+siloah ^ NN
+siloam ^ NN
+silvanus ^ NN
+silver ^ NN
+silverlings ^ NN
+silversmith ^ NN
+simeon ^ NN
+simeonites ^ NN
+similitude ^ NN
+similitudes ^ NN
+simon ^ NN
+simple ^ NN
+simplicity ^ NN
+simri ^ NN
+sin ^ NN
+sina ^ NN
+sinai ^ NN
+since ^ IN RB
+sincere ^ RB JJR
+sincerely ^ RB
+sincerity ^ NN
+sinew ^ NN JJ
+sinews ^ NN
+sinful ^ JJ
+sing ^ NN
+singed ^ JJ
+singer ^ NN
+singers ^ NN VB
+singeth ^ VB
+singing ^ NN
+single ^ JJ
+singleness ^ NN
+singular ^ JJ
+sinim ^ NN
+sinite ^ NN
+sink ^ NN VB
+sinned ^ VB JJ .
+sinner ^ NN
+sinners ^ NN
+sinnest ^ NN
+sinneth ^ NN
+sinning ^ VB
+sins ^ NN
+sion ^ NN
+siphmoth ^ NN
+sippai ^ NN
+sir ^ NN
+sirah ^ NN
+sirion ^ NN
+sirs ^ NN
+sisamai ^ NN
+sisera ^ NN
+sister ^ NN
+sisters ^ NN
+sit ^ NN
+sith ^ JJ
+sitnah ^ NN
+sittest ^ NN
+sitteth ^ NN
+sitting ^ VB NN
+situate ^ JJ NN
+situation ^ NN
+sivan ^ NN
+six ^ CD
+sixscore ^ NN VB
+sixteen ^ JJ CD VB
+sixteenth ^ JJ
+sixth ^ JJ
+sixty ^ JJ RB .
+sixtyfold ^ JJ
+size ^ NN
+skies ^ NN
+skilful ^ JJ
+skilfully ^ RB
+skilfulness ^ NN
+skill ^ NN
+skin ^ NN
+skins ^ NN
+skip ^ VB
+skipped ^ VB
+skippedst ^ NN
+skipping ^ VB
+skirt ^ NN
+skirts ^ NN VB
+skull ^ NN
+sky ^ NN
+slack ^ JJ NN
+slacked ^ VB
+slackness ^ NN
+slain ^ NN
+slander ^ NN
+slandered ^ VB
+slanderers ^ NN
+slanderest ^ NN
+slandereth ^ VB
+slanderously ^ RB
+slanders ^ NN
+slang ^ NN
+slaughter ^ NN
+slave ^ NN
+slaves ^ NN
+slay ^ NN
+slayer ^ NN
+slayeth ^ NN
+slaying ^ VB
+sleep ^ NN
+sleeper ^ NN
+sleepest ^ NN
+sleepeth ^ NN
+sleeping ^ NN VB
+sleight ^ NN
+slept ^ NN
+slew ^ NN
+slewest ^ NN
+slidden ^ NN
+slide ^ VB
+slideth ^ NN
+slightly ^ RB
+slime ^ NN JJ
+slimepits ^ NN
+sling ^ VB NN JJ
+slingers ^ NN
+slings ^ NN
+slingstones ^ NN
+slip ^ VB
+slipped ^ VB
+slippery ^ NN
+slippeth ^ NN VB
+slips ^ NN
+slothful ^ JJ NN
+slothfulness ^ NN
+slow ^ JJ VB
+slowly ^ RB
+sluggard ^ NN JJ
+sluices ^ NN
+slumber ^ VB NN
+slumbered ^ VB
+slumbereth ^ NN
+slumberings ^ NN
+small ^ JJ
+smallest ^ JJS
+smart ^ JJS
+smell ^ NN VB
+smelled ^ VB
+smelleth ^ VB
+smelling ^ VB NN
+smite ^ VB JJ NN RB
+smiters ^ NN
+smitest ^ NN
+smiteth ^ NN
+smith ^ NN JJ
+smiths ^ NN VB
+smiting ^ VB
+smitten ^ VB JJ
+smoke ^ NN
+smoking ^ NN
+smooth ^ JJ
+smoother ^ JJR
+smootheth ^ VB
+smote ^ VB NN JJ
+smotest ^ VB
+smyrna ^ NN
+snail ^ NN
+snare ^ NN
+snared ^ VB
+snares ^ NN
+snatch ^ VB
+sneezed ^ VB
+snorting ^ NN
+snout ^ NN
+snow ^ NN
+snowy ^ NN
+snuffdishes ^ NN
+snuffed ^ VB
+snuffers ^ NN
+snuffeth ^ VB
+so ^ RB IN
+soaked ^ VB
+soap ^ NN
+sober ^ JJ
+soberly ^ RB
+soberness ^ NN
+sobriety ^ NN
+socho ^ NN
+sochoh ^ NN
+socket ^ NN
+sockets ^ NN
+socoh ^ NN
+sod ^ NN
+sodden ^ NN
+sodering ^ NN
+sodi ^ NN
+sodom ^ NN
+sodoma ^ NN
+sodomite ^ NN
+sodomites ^ NN
+soever ^ RB IN NN JJ
+soft ^ JJ
+softer ^ JJR
+softly ^ NN RB
+soil ^ NN
+sojourn ^ VB NN
+sojourned ^ VB .
+sojourner ^ NN
+sojourners ^ NN
+sojourneth ^ NN VB
+sojourning ^ NN
+solace ^ VB
+sold ^ VB
+soldier ^ NN
+soldiers ^ NN
+sole ^ NN
+solemn ^ NN JJ RB
+solemnities ^ NN
+solemnity ^ NN
+solemnly ^ RB
+soles ^ NN
+solitarily ^ RB
+solitary ^ RB JJ NN
+solomon ^ NN
+some ^ JJ
+somebody ^ NN
+something ^ NN
+sometime ^ RB
+sometimes ^ RB
+somewhat ^ RB
+son ^ NN
+song ^ NN
+songs ^ NN
+sons ^ NN
+soon ^ RB
+sooner ^ RBR
+soothsayer ^ NN
+soothsayers ^ NN
+soothsaying ^ VB
+sop ^ NN JJ
+sopater ^ NN
+sophereth ^ NN
+sorcerer ^ NN
+sorcerers ^ NN
+sorceress ^ NN
+sorceries ^ NN
+sorcery ^ NN
+sore ^ RB JJ NN .
+sorek ^ NN
+sorely ^ RB
+sorer ^ JJ
+sores ^ NN
+sorrow ^ NN
+sorrowed ^ VB
+sorroweth ^ NN
+sorrowful ^ JJ
+sorrowing ^ NN
+sorrows ^ NN
+sorry ^ JJ RB NN
+sort ^ NN
+sorts ^ NN
+sosipater ^ NN
+sosthenes ^ NN
+sotai ^ NN
+sottish ^ JJ
+sought ^ VB
+soul ^ NN
+souls ^ NN
+sound ^ NN
+sounded ^ VB JJ
+soundeth ^ NN
+sounding ^ VB NN
+soundness ^ NN
+sounds ^ NN
+sour ^ JJ
+south ^ NN
+southward ^ JJ RB IN NN
+sow ^ NN
+sowed ^ VB
+sowedst ^ NN
+sower ^ NN
+sowest ^ NN
+soweth ^ NN
+sowing ^ NN
+sown ^ NN
+space ^ NN
+spain ^ NN
+spake ^ NN VB
+spakest ^ NN
+span ^ NN
+spanned ^ VB
+spare ^ VB JJ
+spared ^ VB
+spareth ^ VB
+sparing ^ VB
+sparingly ^ RB
+spark ^ NN JJ
+sparkled ^ VB
+sparks ^ NN
+sparrow ^ JJ
+sparrows ^ NN
+spat ^ VB
+speak ^ VB NN
+speaker ^ NN
+speakest ^ NN
+speaketh ^ NN VB
+speaking ^ NN
+speakings ^ NN
+spear ^ NN
+spearmen ^ NN VB
+spears ^ NN
+special ^ JJ
+specially ^ RB
+speckled ^ JJ VB
+spectacle ^ NN
+sped ^ VB
+speech ^ NN
+speeches ^ NN
+speechless ^ VB JJ
+speed ^ NN
+speedily ^ RB VB
+speedy ^ JJ
+spend ^ VB
+spendest ^ NN
+spendeth ^ VB
+spent ^ VB
+spewing ^ NN
+spice ^ NN
+spiced ^ JJ
+spicery ^ NN
+spices ^ NN
+spider ^ NN
+spied ^ VB
+spies ^ NN
+spikenard ^ NN
+spilled ^ VB
+spilt ^ NN
+spin ^ VB
+spindle ^ NN
+spirit ^ NN
+spirits ^ NN
+spiritual ^ NN
+spiritually ^ RB
+spit ^ NN
+spite ^ NN
+spitefully ^ RB
+spitted ^ VB
+spitting ^ NN
+spittle ^ NN
+spoil ^ NN
+spoiled ^ VB .
+spoiler ^ NN
+spoilers ^ NN
+spoilest ^ NN
+spoileth ^ NN
+spoiling ^ NN
+spoils ^ NN
+spoken ^ VB JJ
+spokes ^ NN
+spokesman ^ NN
+spoon ^ NN
+spoons ^ NN
+sport ^ VB NN
+sporting ^ VB
+spot ^ NN
+spots ^ NN
+spotted ^ VB JJ
+spouse ^ NN
+spouses ^ NN
+sprang ^ NN
+spread ^ NN
+spreadest ^ NN
+spreadeth ^ NN VB
+spreading ^ VB NN
+spreadings ^ NN
+sprigs ^ NN VB
+spring ^ NN
+springeth ^ NN VB
+springing ^ NN VB
+springs ^ NN
+sprinkle ^ VB NN
+sprinkled ^ VB
+sprinkleth ^ NN VB
+sprinkling ^ NN
+sprout ^ NN
+sprung ^ VB
+spue ^ NN VB
+spued ^ VB
+spun ^ VB
+spunge ^ NN
+spy ^ VB NN
+square ^ NN
+squared ^ VB
+squares ^ NN
+stability ^ NN
+stable ^ JJ
+stablish ^ VB JJ
+stablished ^ VB
+stablisheth ^ VB
+stachys ^ NN
+stacks ^ NN
+stacte ^ NN
+staff ^ NN
+stagger ^ VB NN JJR
+staggered ^ VB
+staggereth ^ NN
+stain ^ NN
+stairs ^ NN
+stakes ^ NN
+stalk ^ NN
+stalks ^ NN
+stall ^ JJ
+stalled ^ JJ
+stalls ^ NN
+stammerers ^ NN
+stammering ^ VB NN
+stamp ^ VB NN
+stamped ^ VB
+stamping ^ NN
+stanched ^ .
+stand ^ NN
+standard ^ NN
+standards ^ NN
+standest ^ NN
+standeth ^ NN
+standing ^ NN
+stank ^ NN VB
+star ^ NN
+stare ^ NN
+stargazers ^ NN
+stars ^ NN
+state ^ NN
+stately ^ NN
+station ^ NN
+stature ^ NN
+statute ^ NN
+statutes ^ NN VB
+staves ^ NN VB
+stay ^ VB
+stayed ^ VB
+stayeth ^ VB
+stays ^ NN VB
+stead ^ NN
+steads ^ NN
+steady ^ JJ
+steal ^ NN
+stealeth ^ VB JJ
+stealing ^ VB NN
+stealth ^ NN
+stedfast ^ JJ RB NN
+stedfastly ^ RB JJ
+stedfastness ^ NN
+steel ^ NN
+steep ^ JJ
+stem ^ NN
+step ^ NN
+stephanas ^ NN
+stephen ^ NN
+stepped ^ VB
+steppeth ^ NN
+steps ^ NN
+stern ^ NN
+steward ^ NN
+stewards ^ NN
+stewardship ^ NN
+stick ^ VB
+sticketh ^ RB
+sticks ^ NN
+stiff ^ NN
+stiffened ^ VB
+stiffhearted ^ VB
+stiffnecked ^ JJ
+still ^ RB
+stilled ^ VB
+stillest ^ IN
+stilleth ^ VB
+sting ^ NN
+stingeth ^ JJR
+stings ^ NN
+stink ^ VB NN RB
+stinketh ^ JJ VB
+stinking ^ JJ
+stir ^ VB NN
+stirred ^ VB
+stirreth ^ VB
+stirs ^ NN
+stock ^ NN
+stocks ^ NN
+stoicks ^ NN
+stole ^ NN
+stolen ^ VB
+stomach ^ NN
+stomacher ^ NN
+stone ^ NN
+stoned ^ VB
+stones ^ NN
+stonesquarers ^ NN
+stonest ^ NN
+stoning ^ VB
+stony ^ NN JJ
+stood ^ VB
+stoodest ^ NN
+stool ^ NN
+stools ^ NN
+stoop ^ NN VB
+stooped ^ VB
+stoopeth ^ NN
+stooping ^ VB
+stop ^ VB
+stopped ^ VB
+stoppeth ^ VB
+store ^ NN
+storehouse ^ NN
+storehouses ^ NN
+stories ^ NN
+stork ^ NN
+storm ^ NN
+stormy ^ NN
+story ^ NN
+stout ^ NN RB
+stouthearted ^ JJ VB
+stoutness ^ NN
+straight ^ RB JJ NN
+straightway ^ RB NN VB
+strain ^ VB
+strait ^ NN
+straiten ^ VB
+straitened ^ VB .
+straiteneth ^ NN
+straitest ^ JJS
+straitly ^ RB
+straitness ^ NN
+straits ^ NN
+strake ^ NN
+strakes ^ NN
+strange ^ NN
+strangely ^ RB
+stranger ^ NN
+strangers ^ NN
+strangled ^ VB JJ
+strangling ^ NN
+straw ^ NN
+strawed ^ VB JJ
+stream ^ NN
+streams ^ NN
+street ^ NN
+streets ^ NN
+strength ^ NN
+strengthen ^ VB
+strengthened ^ VB
+strengthenedst ^ NN
+strengtheneth ^ VB
+strengthening ^ VB
+stretch ^ VB NN
+stretched ^ VB
+stretchedst ^ NN
+stretchest ^ VB
+stretcheth ^ VB NN
+stretching ^ VB
+stricken ^ VB JJ
+strife ^ NN
+strifes ^ NN
+strike ^ NN
+striker ^ NN
+striketh ^ VB NN
+string ^ NN
+stringed ^ JJ
+strings ^ NN
+strip ^ NN VB
+stripe ^ NN
+stripes ^ NN
+stripling ^ NN
+stripped ^ VB JJ
+stript ^ JJ
+strive ^ NN
+strived ^ VB
+striven ^ VB
+striveth ^ NN VB
+striving ^ VB
+strivings ^ NN
+stroke ^ NN VB
+strokes ^ NN
+strong ^ JJ
+stronger ^ JJR
+strongest ^ JJS
+strongly ^ RB
+strove ^ VB NN JJ
+strowed ^ VB
+struck ^ VB NN
+struggled ^ VB
+stubble ^ NN
+stubborn ^ JJ
+stubbornness ^ NN
+stuck ^ VB
+studieth ^ NN
+studs ^ NN
+study ^ NN
+stuff ^ NN
+stumble ^ NN
+stumbled ^ JJ VB
+stumbleth ^ VB
+stumbling ^ NN
+stumblingblock ^ NN
+stumblingblocks ^ NN
+stumblingstone ^ NN
+stump ^ NN
+suah ^ NN
+subdue ^ JJ VB
+subdued ^ VB
+subduedst ^ NN
+subdueth ^ VB
+subject ^ NN
+subjected ^ VB
+subjection ^ NN
+submit ^ VB NN
+submitted ^ VB
+submitting ^ VB
+suborned ^ VB
+subscribe ^ VB NN
+subscribed ^ VB
+substance ^ NN
+subtil ^ JJ NN
+subtilly ^ RB
+subtilty ^ JJ
+suburbs ^ NN
+subvert ^ VB
+subverted ^ JJ
+subverting ^ VB NN
+succeed ^ VB
+succeeded ^ VB
+succeedest ^ NN
+success ^ NN
+succoth ^ NN
+succothbenoth ^ NN
+succour ^ VB NN
+succoured ^ JJ
+succourer ^ NN
+such ^ JJ PDT
+suchathites ^ NN
+suck ^ NN VB
+sucked ^ VB JJ
+sucking ^ JJ NN
+suckling ^ NN
+sucklings ^ NN
+sudden ^ JJ
+suddenly ^ RB JJ
+sue ^ VB
+suffer ^ NN
+suffered ^ VB
+sufferest ^ VB
+suffereth ^ VB JJ
+suffering ^ NN
+sufferings ^ NN
+suffice ^ VB
+sufficed ^ VB
+sufficeth ^ VB
+sufficiency ^ NN
+sufficient ^ JJ
+sufficiently ^ RB
+suit ^ NN
+suits ^ NN
+sukkiims ^ NN
+sum ^ NN
+summer ^ NN
+sumptuously ^ RB
+sun ^ NN
+sunder ^ NN
+sundered ^ VB
+sundry ^ JJ
+sung ^ VB JJ
+sunk ^ VB
+sunrising ^ VB NN
+sup ^ VB NN
+superfluity ^ NN
+superfluous ^ JJ
+superscription ^ NN
+superstition ^ NN
+superstitious ^ JJ
+supped ^ VB
+supper ^ NN
+supplant ^ NN
+supplanted ^ VB
+supple ^ NN
+suppliants ^ NN
+supplication ^ NN
+supplications ^ NN
+supplied ^ VB
+supplieth ^ VB NN
+supply ^ NN
+support ^ VB
+suppose ^ NN
+supposed ^ VB
+supposing ^ NN
+supreme ^ NN
+sur ^ NN
+sure ^ JJ RB
+surely ^ RB
+sureties ^ NN
+suretiship ^ NN
+surety ^ NN JJ
+surfeiting ^ NN
+surmisings ^ NN
+surname ^ NN
+surnamed ^ VB
+surprised ^ VB JJ
+susanchites ^ NN
+susanna ^ NN
+susi ^ NN
+sustain ^ VB
+sustained ^ VB
+sustenance ^ NN
+swaddled ^ VB
+swaddling ^ VB
+swaddlingband ^ NN
+swallow ^ VB NN JJ
+swallowed ^ VB
+swalloweth ^ VB
+swan ^ NN
+sware ^ VB NN
+swarest ^ NN
+swarm ^ NN
+swarms ^ NN
+swear ^ NN
+swearers ^ NN
+sweareth ^ NN
+swearing ^ NN VB
+sweat ^ NN
+sweep ^ NN
+sweeping ^ JJ
+sweet ^ NN
+sweeter ^ JJR NN
+sweetly ^ VB RB
+sweetness ^ NN
+sweetsmelling ^ NN
+swell ^ VB
+swelled ^ VB
+swelling ^ VB
+swellings ^ NN
+swept ^ VB NN
+swerved ^ VB
+swift ^ JJ NN
+swifter ^ RB
+swiftly ^ RB
+swim ^ VB
+swimmest ^ NN
+swimmeth ^ VB
+swine ^ NN
+swollen ^ VB
+swoon ^ NN
+swooned ^ VB
+sword ^ NN
+swords ^ NN
+sworn ^ VB
+sycamine ^ NN
+sychar ^ NN
+sychem ^ NN
+sycomore ^ JJ JJR
+sycomores ^ NN
+syene ^ NN
+synagogue ^ NN
+synagogues ^ NN
+syntyche ^ NN
+syracuse ^ NN
+syria ^ NN
+syriack ^ NN
+syriadamascus ^ NN
+syriamaachah ^ NN
+syrian ^ NN
+syrians ^ NN
+syrophenician ^ NN
+taanach ^ NN
+taanathshiloh ^ NN
+tabbaoth ^ NN
+tabbath ^ NN
+tabeal ^ NN
+tabeel ^ NN
+taberah ^ NN
+tabering ^ VB
+tabernacle ^ NN
+tabernacles ^ NN
+tabitha ^ NN
+table ^ NN
+tables ^ NN
+tablets ^ NN
+tabor ^ NN
+tabret ^ NN
+tabrets ^ NN
+tabrimon ^ NN
+taches ^ NN
+tachmonite ^ NN
+tackling ^ NN
+tacklings ^ NN
+tadmor ^ NN
+tahan ^ NN
+tahanites ^ NN
+tahapanes ^ NN
+tahath ^ NN
+tahpanhes ^ NN
+tahpenes ^ NN
+tahrea ^ NN
+tahtimhodshi ^ NN
+tail ^ NN
+tails ^ NN
+take ^ VB NN
+taken ^ VB
+taker ^ NN
+takest ^ NN
+taketh ^ VB NN
+taking ^ VB
+tale ^ NN
+talebearer ^ NN
+talent ^ NN
+talents ^ NN
+tales ^ NN
+talitha ^ NN
+talk ^ NN VB
+talked ^ VB
+talkers ^ NN
+talkest ^ NN
+talketh ^ NN
+talking ^ VB
+tall ^ JJ
+taller ^ JJR
+talmai ^ NN
+talmon ^ NN
+tamah ^ NN
+tamar ^ NN
+tame ^ NN
+tamed ^ VB
+tammuz ^ NN
+tanach ^ NN
+tanhumeth ^ NN
+tanner ^ NN
+tapestry ^ NN
+taphath ^ NN
+tappuah ^ NN
+tarah ^ NN
+taralah ^ NN
+tare ^ VB NN
+tarea ^ NN
+tares ^ NN
+target ^ NN
+targets ^ NN
+tarpelites ^ NN
+tarried ^ VB JJ
+tarriest ^ JJS
+tarrieth ^ NN VB
+tarry ^ VB NN
+tarrying ^ NN
+tarshish ^ NN
+tarsus ^ NN
+tartak ^ NN
+tartan ^ NN
+task ^ NN
+taskmasters ^ NN
+tasks ^ NN
+taste ^ NN
+tasted ^ VB
+tasteth ^ NN
+tatnai ^ NN
+tattlers ^ NN
+taught ^ NN
+taunt ^ NN
+taunting ^ JJ
+taverns ^ NN
+taxation ^ NN
+taxed ^ VB
+taxes ^ NN
+taxing ^ NN
+teach ^ VB NN
+teacher ^ NN
+teachers ^ NN
+teachest ^ NN
+teacheth ^ NN
+teaching ^ NN
+tear ^ NN
+teareth ^ NN
+tears ^ NN
+teats ^ NN
+tebah ^ NN
+tebaliah ^ NN
+tebeth ^ NN
+tedious ^ JJ
+teeth ^ NN
+tehaphnehes ^ NN
+tehinnah ^ NN
+teil ^ NN
+tekel ^ NN
+tekoa ^ NN
+tekoah ^ NN
+tekoite ^ NN
+tekoites ^ NN
+telabib ^ NN
+telah ^ NN
+telaim ^ NN
+telassar ^ NN
+telem ^ NN
+telharesha ^ NN
+telharsa ^ NN
+tell ^ VB
+tellest ^ IN
+telleth ^ VB
+telling ^ VB
+telmelah ^ NN
+tema ^ NN
+teman ^ NN
+temani ^ NN
+temanite ^ NN
+temanites ^ NN
+temeni ^ NN
+temper ^ VB
+temperance ^ NN VB
+temperate ^ JJ
+tempered ^ VB
+tempest ^ NN
+tempestuous ^ JJ
+temple ^ NN
+temples ^ NN
+temporal ^ JJ
+tempt ^ NN
+temptation ^ NN
+temptations ^ NN
+tempted ^ VB JJ
+tempter ^ NN
+tempteth ^ VB
+tempting ^ VB
+ten ^ NN
+tend ^ VB
+tender ^ NN
+tenderhearted ^ VB
+tenderness ^ NN
+tendeth ^ NN
+tenons ^ NN
+tenor ^ NN
+tens ^ NN
+tent ^ NN JJ
+tenth ^ NN
+tentmakers ^ NN
+tents ^ NN
+terah ^ NN
+teraphim ^ NN
+teresh ^ NN
+termed ^ VB
+terraces ^ NN
+terrestrial ^ NN
+terrible ^ JJ
+terribleness ^ NN
+terribly ^ RB
+terrified ^ VB
+terrifiest ^ VB
+terrify ^ VB NN
+terror ^ NN
+terrors ^ NN
+tertius ^ NN
+tertullus ^ NN
+testament ^ NN
+testator ^ NN
+testified ^ VB
+testifiedst ^ NN
+testifieth ^ NN VB
+testify ^ VB NN
+testifying ^ NN
+testimonies ^ NN
+testimony ^ NN
+tetrarch ^ NN
+thaddaeus ^ NN
+thahash ^ NN
+thamah ^ NN
+thamar ^ NN
+than ^ IN
+thank ^ VB JJ IN
+thanked ^ VB
+thankful ^ IN JJ .
+thankfulness ^ NN
+thanking ^ VB
+thanks ^ NN
+thanksgiving ^ SYM JJ VB
+thanksgivings ^ NN
+thankworthy ^ IN
+thara ^ NN
+tharshish ^ NN
+that ^ IN NN JJ RB
+the ^ DT
+theatre ^ NN
+thebez ^ NN
+thee ^ NN
+theft ^ NN
+thefts ^ NN
+their ^ NN
+theirs ^ JJ NN
+thelasar ^ NN
+them ^ NN
+themselves ^ NN
+then ^ RB
+thence ^ NN
+thenceforth ^ JJ
+theophilus ^ NN
+there ^ EX RB
+thereabout ^ RB
+thereat ^ NN
+thereby ^ RB
+therefore ^ RB VB JJ EX
+therefrom ^ , NN
+therein ^ VB RB . JJ NN
+thereinto ^ .
+thereof ^ , . NN $ SYM TO RB VB '' POS EX JJ CD
+thereon ^ NN
+thereout ^ JJ NN
+thereto ^ SYM RB , TO . JJ
+thereunto ^ RB JJ TO .
+thereupon ^ JJ NN .
+therewith ^ RB , SYM JJ . LS
+therin ^ JJ
+therof ^ .
+these ^ JJ
+thessalonians ^ NN
+thessalonica ^ NN
+theudas ^ NN
+they ^ NN
+thick ^ JJ
+thicker ^ JJR
+thicket ^ NN
+thickets ^ NN
+thickness ^ NN
+thief ^ NN
+thieves ^ NN
+thigh ^ JJ NN .
+thighs ^ NN
+thimnathah ^ NN
+thin ^ JJ
+thine ^ NN
+thing ^ NN
+things ^ NN
+think ^ VB
+thinkest ^ NN
+thinketh ^ IN NN VB
+thinking ^ VB NN
+third ^ JJ
+thirdly ^ JJ
+thirst ^ NN
+thirsted ^ VB
+thirsteth ^ NN
+thirsty ^ NN
+thirteen ^ CD NN JJ IN
+thirteenth ^ JJ NN
+thirtieth ^ JJ
+thirty ^ NN
+thirtyfold ^ NN
+this ^ JJ
+thistle ^ NN
+thistles ^ JJ NN
+thither ^ JJ NN RB . IN
+thitherward ^ JJ NN
+thomas ^ NN
+thongs ^ NN
+thorn ^ NN
+thorns ^ NN
+thoroughly ^ RB
+those ^ JJ
+thou ^ NN
+though ^ IN RB
+thought ^ NN
+thoughtest ^ NN
+thoughts ^ NN
+thousand ^ CD ,
+thousands ^ NN
+thread ^ JJ NN VB
+threaten ^ VB
+threatened ^ VB
+threatening ^ JJ
+threatenings ^ NN
+three ^ CD
+threefold ^ JJ
+threescore ^ NN IN JJ ,
+thresh ^ IN VB JJ
+threshed ^ VB
+thresheth ^ NN
+threshing ^ NN
+threshingfloor ^ NN
+threshingfloors ^ NN
+threshingplace ^ NN
+threshold ^ NN
+thresholds ^ NN
+threw ^ VB
+threwest ^ NN
+thrice ^ NN
+throat ^ NN IN
+throne ^ NN
+thrones ^ NN
+throng ^ NN
+thronged ^ VB
+thronging ^ VB
+through ^ IN RP
+throughly ^ RB IN
+throughout ^ IN
+throw ^ NN
+throwing ^ VB
+thrown ^ RB VB
+thrust ^ NN
+thrusteth ^ IN
+thumb ^ NN
+thumbs ^ NN
+thummim ^ NN
+thunder ^ NN
+thunderbolts ^ NN
+thundered ^ VB
+thundereth ^ NN
+thunderings ^ NN
+thunders ^ NN
+thus ^ RB
+thy ^ NN
+thyatira ^ NN
+thyine ^ NN
+thyself ^ NN IN , UH
+tiberias ^ NN
+tiberius ^ NN
+tibhath ^ NN
+tibni ^ NN
+tidal ^ JJ
+tidings ^ NN
+tie ^ VB
+tied ^ VB
+tiglathpileser ^ NN
+tikvah ^ NN
+tikvath ^ NN
+tile ^ NN
+tilgathpilneser ^ NN
+tiling ^ NN
+till ^ NN
+tillage ^ NN
+tilled ^ VB
+tiller ^ NN
+tillest ^ IN
+tilleth ^ IN
+tilon ^ NN
+timaeus ^ NN
+timber ^ NN
+timbrel ^ NN
+timbrels ^ NN
+time ^ NN
+times ^ NN
+timna ^ NN
+timnah ^ NN
+timnath ^ NN
+timnathheres ^ NN
+timnathserah ^ NN
+timnite ^ NN
+timon ^ NN
+timotheus ^ NN
+timothy ^ NN
+tin ^ NN
+tingle ^ VB
+tinkling ^ NN
+tip ^ NN
+tiphsah ^ NN
+tiras ^ NN
+tirathites ^ NN
+tire ^ NN
+tired ^ VB
+tires ^ NN
+tirhakah ^ NN
+tirhanah ^ NN
+tiria ^ NN
+tirshatha ^ NN
+tirzah ^ NN
+tishbite ^ NN
+tithe ^ NN VB JJ
+tithes ^ NN
+tithing ^ VB NN
+title ^ NN
+titles ^ NN
+tittle ^ NN
+titus ^ NN
+tizite ^ NN
+to ^ TO
+toah ^ NN
+tob ^ NN
+tobadonijah ^ NN
+tobiah ^ NN
+tobijah ^ NN
+tochen ^ NN
+today ^ NN
+toe ^ NN
+toes ^ NN
+togarmah ^ NN
+together ^ RB
+tohu ^ NN
+toi ^ NN
+toil ^ NN
+toiled ^ VB
+toiling ^ VB
+token ^ JJ TO
+tokens ^ NN VB
+tola ^ NN
+tolad ^ NN
+tolaites ^ NN
+told ^ VB
+tolerable ^ JJ
+toll ^ NN
+tomb ^ NN
+tombs ^ NN
+tomorrow ^ NN
+tongs ^ NN
+tongue ^ NN
+tongues ^ NN
+too ^ RB
+took ^ VB
+tookest ^ VB NN
+tool ^ NN
+tooth ^ NN
+top ^ NN
+topaz ^ NN
+tophel ^ NN
+tophet ^ NN
+topheth ^ NN
+tops ^ NN
+torch ^ NN
+torches ^ NN VB
+torment ^ NN
+tormented ^ VB .
+tormentors ^ NN
+torments ^ NN
+torn ^ VB
+tortoise ^ NN
+tortured ^ VB
+toss ^ VB
+tossed ^ VB JJ
+tossings ^ NN
+tottering ^ NN
+tou ^ NN
+touch ^ NN
+touched ^ VB JJ
+toucheth ^ NN
+touching ^ JJ VB
+tow ^ NN
+toward ^ IN
+towel ^ NN
+tower ^ NN
+towers ^ NN .
+town ^ NN
+townclerk ^ NN
+towns ^ NN
+trachonitis ^ NN
+trade ^ NN
+traded ^ VB
+trading ^ NN
+tradition ^ NN
+traditions ^ NN
+traffick ^ VB NN
+traffickers ^ NN
+train ^ NN
+trained ^ JJ
+traitor ^ NN
+traitors ^ NN
+trample ^ NN VB
+trance ^ NN
+tranquillity ^ NN
+transferred ^ VB
+transfigured ^ VB
+transformed ^ VB
+transforming ^ VB
+transgress ^ NN
+transgressed ^ VB JJ
+transgressest ^ NN
+transgresseth ^ VB NN
+transgressing ^ VB NN
+transgression ^ NN
+transgressions ^ NN
+transgressor ^ NN
+transgressors ^ NN
+translate ^ VB
+translated ^ VB
+translation ^ NN
+transparent ^ NN
+trap ^ NN
+traps ^ NN
+travail ^ NN
+travailed ^ VB
+travailest ^ IN
+travaileth ^ NN VB
+travailing ^ NN VB
+travel ^ NN VB
+travelled ^ VB
+traveller ^ NN
+travellers ^ NN
+travelleth ^ NN
+travelling ^ NN
+traversing ^ VB
+treacherous ^ JJ
+treacherously ^ RB NN
+treachery ^ NN
+tread ^ VB NN
+treader ^ NN
+treaders ^ NN
+treadeth ^ VB NN
+treading ^ NN VB
+treason ^ NN
+treasure ^ NN
+treasured ^ VB
+treasurer ^ NN
+treasurers ^ NN
+treasures ^ NN
+treasurest ^ NN
+treasuries ^ NN VB
+treasury ^ NN
+treatise ^ NN
+tree ^ NN
+trees ^ NN
+tremble ^ VB NN
+trembled ^ VB . JJ
+trembleth ^ NN VB
+trembling ^ NN
+trench ^ NN
+trespass ^ NN
+trespassed ^ VB . JJ
+trespasses ^ NN
+trespassing ^ NN
+trial ^ NN
+tribe ^ NN
+tribes ^ NN
+tribulation ^ NN
+tribulations ^ NN
+tributaries ^ NN
+tributary ^ NN
+tribute ^ NN
+trickleth ^ IN
+tried ^ VB
+triest ^ VB
+trieth ^ NN VB
+trimmed ^ VB
+trimmest ^ NN
+triumph ^ NN
+triumphed ^ VB
+triumphing ^ NN VB
+troas ^ NN
+trodden ^ VB NN JJ IN
+trode ^ VB NN
+trogyllium ^ NN
+troop ^ NN
+troops ^ NN
+trophimus ^ NN
+trouble ^ NN
+troubled ^ VB JJ
+troubledst ^ NN
+troubler ^ NN
+troubles ^ NN
+troublest ^ NN
+troubleth ^ NN
+troubling ^ NN
+troublous ^ JJ
+trough ^ NN
+troughs ^ NN
+trow ^ NN
+trucebreakers ^ NN
+true ^ JJ
+truly ^ RB
+trump ^ NN
+trumpet ^ NN
+trumpeters ^ NN
+trumpets ^ NN
+trust ^ NN
+trusted ^ VB
+trustedst ^ NN
+trustest ^ NN
+trusteth ^ VB NN
+trusting ^ NN
+trusty ^ NN
+truth ^ NN
+try ^ VB
+trying ^ VB
+tryphena ^ NN
+tryphosa ^ NN
+tubal ^ NN
+tubalcain ^ NN
+tumbled ^ VB
+tumult ^ NN
+tumults ^ NN
+tumultuous ^ JJ
+turn ^ NN
+turned ^ VB
+turnest ^ NN
+turneth ^ NN VB
+turning ^ VB
+turtle ^ NN
+turtledove ^ NN VB
+turtledoves ^ NN
+turtles ^ NN
+tutors ^ NN
+twain ^ NN RB JJ .
+twelfth ^ NN
+twelve ^ NN
+twentieth ^ JJ NN
+twenty ^ CD
+twice ^ RB
+twigs ^ NN
+twilight ^ JJ NN
+twined ^ JJ VB
+twinkling ^ NN
+twins ^ NN
+two ^ CD
+twoedged ^ JJ
+twofold ^ RB
+tychicus ^ NN
+tyrannus ^ NN
+tyre ^ NN
+tyrus ^ NN
+ucal ^ NN
+uel ^ NN
+ulai ^ NN
+ulam ^ NN
+ulla ^ NN
+ummah ^ NN
+unaccustomed ^ JJ
+unadvisedly ^ RB
+unawares ^ NN
+unbelief ^ NN
+unbelievers ^ NN
+unbelieving ^ JJ
+unblameable ^ JJ
+unblameably ^ RB
+uncertain ^ JJ
+uncertainly ^ RB
+unchangeable ^ JJ
+uncircumcised ^ JJ VB
+uncircumcision ^ NN
+uncle ^ NN JJ
+unclean ^ JJ
+uncleanness ^ NN
+uncleannesses ^ NN
+unclothed ^ JJ
+uncomely ^ RB JJ
+uncondemned ^ VB JJ
+uncorruptible ^ JJ
+uncorruptness ^ NN
+uncover ^ IN VB NN
+uncovered ^ VB .
+uncovereth ^ VB JJ
+unction ^ NN
+undefiled ^ JJ VB
+under ^ IN JJ
+undergirding ^ VB
+underneath ^ NN
+undersetters ^ NN
+understand ^ VB
+understandest ^ NN
+understandeth ^ NN
+understanding ^ NN
+understood ^ VB NN JJ
+undertake ^ NN
+undertook ^ NN
+undo ^ VB
+undone ^ NN VB
+undressed ^ VB .
+unequal ^ JJ
+unequally ^ RB
+unfaithful ^ JJ
+unfaithfully ^ RB
+unfeigned ^ JJ
+unfruitful ^ JJ
+ungirded ^ VB
+ungodliness ^ NN
+ungodly ^ NN
+unholy ^ JJ
+unicorn ^ NN
+unicorns ^ NN
+unite ^ NN
+united ^ VB
+unity ^ NN
+unjust ^ NN
+unjustly ^ RB
+unknown ^ JJ
+unlade ^ VB
+unlawful ^ JJ
+unlearned ^ JJ VB
+unleavened ^ VB JJ IN
+unless ^ IN
+unloose ^ VB
+unmarried ^ JJ
+unmerciful ^ JJ
+unmindful ^ JJ
+unmoveable ^ JJ
+unni ^ NN
+unoccupied ^ JJ
+unperfect ^ JJ
+unprepared ^ JJ
+unprofitable ^ JJ
+unprofitableness ^ NN
+unpunished ^ JJ
+unquenchable ^ JJ
+unreasonable ^ JJ
+unrebukable ^ JJ
+unreproveable ^ JJ
+unrighteous ^ JJ
+unrighteously ^ RB
+unrighteousness ^ NN
+unripe ^ NN
+unruly ^ RB JJ
+unsatiable ^ JJ
+unsavoury ^ . RB
+unsearchable ^ JJ
+unseemly ^ JJ RB
+unshod ^ JJ
+unskilful ^ JJ
+unspeakable ^ JJ
+unspotted ^ JJ
+unstable ^ JJ
+unstopped ^ JJ
+untaken ^ IN
+untempered ^ JJ
+unthankful ^ JJ
+until ^ IN
+untimely ^ IN JJ
+unto ^ IN RB NN RP VB TO RBR JJ
+untoward ^ JJ
+unwalled ^ JJ
+unwashen ^ JJ NN
+unweighed ^ JJ
+unwise ^ VB JJ NN
+unwittingly ^ RB
+unworthily ^ RB
+unworthy ^ JJ
+up ^ RP IN RB
+upbraid ^ NN VB
+upbraided ^ VB
+upbraideth ^ VB
+upharsin ^ NN
+uphaz ^ NN
+upheld ^ VB
+uphold ^ VB JJ NN
+upholden ^ JJ
+upholdest ^ NN
+upholdeth ^ IN VB
+upholding ^ VB
+upon ^ IN RB
+upper ^ JJ
+uppermost ^ NN JJ
+upright ^ NN
+uprightly ^ RB
+uprightness ^ NN
+uprising ^ NN
+uproar ^ NN
+upside ^ RB IN
+upward ^ RB JJ
+ur ^ NN
+urbane ^ NN
+urge ^ VB
+urged ^ VB
+urgent ^ JJ
+uri ^ NN
+uriah ^ NN
+urias ^ NN
+uriel ^ NN
+urijah ^ NN
+urim ^ NN VB
+us ^ NN
+use ^ NN VB
+used ^ VB
+uses ^ NN
+usest ^ NN
+useth ^ NN IN VB
+using ^ VB
+usurer ^ NN
+usurp ^ VB
+usury ^ . NN JJ RB
+uthai ^ NN
+utmost ^ NN JJS
+utter ^ VB RB NN JJ
+utterance ^ RB NN
+uttered ^ VB JJ
+uttereth ^ VB RB IN
+uttering ^ VB
+utterly ^ RB
+uttermost ^ NN
+uz ^ NN
+uzai ^ NN
+uzal ^ NN
+uzza ^ NN
+uzzah ^ NN
+uzzensherah ^ NN
+uzzi ^ NN
+uzzia ^ NN
+uzziah ^ NN
+uzziel ^ NN
+uzzielites ^ NN
+vagabond ^ NN
+vagabonds ^ NN
+vail ^ NN
+vails ^ NN
+vain ^ NN
+vainglory ^ NN
+vainly ^ RB
+vajezatha ^ NN
+vale ^ NN
+valiant ^ JJ NN
+valiantest ^ NN
+valiantly ^ RB
+valley ^ NN
+valleys ^ NN
+valour ^ NN
+value ^ NN
+valued ^ VB
+valuest ^ NN
+vaniah ^ NN
+vanish ^ VB
+vanished ^ VB
+vanisheth ^ VB
+vanities ^ NN
+vanity ^ NN
+vapour ^ NN
+vapours ^ NN
+variableness ^ NN
+variance ^ NN
+vashni ^ NN
+vashti ^ NN
+vats ^ NN
+vaunt ^ NN
+vaunteth ^ NN
+vehement ^ JJ
+vehemently ^ RB
+veil ^ NN
+vein ^ NN
+vengeance ^ NN
+venison ^ NN
+venom ^ NN
+venomous ^ JJ
+vent ^ NN
+venture ^ NN
+verified ^ VB
+verily ^ RB
+verity ^ NN
+vermilion ^ CD
+very ^ RB JJ
+vessel ^ NN
+vessels ^ NN
+vestments ^ NN
+vestry ^ NN
+vesture ^ NN
+vestures ^ NN
+vex ^ VB NN RB JJ
+vexation ^ NN
+vexations ^ NN
+vexed ^ VB JJ .
+vial ^ JJ
+vials ^ NN
+victory ^ NN
+victual ^ NN RP JJ
+victuals ^ NN
+view ^ VB
+viewed ^ VB
+vigilant ^ NN
+vile ^ NN
+vilely ^ RB
+viler ^ RB
+vilest ^ NN
+village ^ NN
+villages ^ NN
+villany ^ NN
+vine ^ NN
+vinedressers ^ NN
+vinegar ^ NN
+vines ^ NN
+vineyard ^ NN
+vineyards ^ NN RB
+vintage ^ NN
+viol ^ NN
+violated ^ VB
+violence ^ NN
+violent ^ JJ NN
+violently ^ RB
+viols ^ VB .
+viper ^ NN
+vipers ^ NN
+virgin ^ NN
+virginity ^ NN
+virgins ^ NN
+virtue ^ NN
+virtuous ^ JJ
+virtuously ^ RB
+visage ^ NN
+visible ^ JJ
+vision ^ NN
+visions ^ NN
+visit ^ VB NN
+visitation ^ NN
+visited ^ VB
+visitest ^ NN
+visiteth ^ VB
+visiting ^ VB
+vocation ^ NN
+voice ^ NN
+voices ^ NN
+void ^ NN
+volume ^ NN
+voluntarily ^ RB
+voluntary ^ NN JJ
+vomit ^ NN
+vomited ^ VB
+vomiteth ^ VB
+vophsi ^ NN
+vow ^ NN VB RB
+vowed ^ VB
+vowedst ^ VB
+vowest ^ NN VB
+voweth ^ NN
+vows ^ NN VB
+voyage ^ NN
+vulture ^ NN
+vultures ^ NN
+wafer ^ NN
+wafers ^ NN
+wag ^ NN VB
+wages ^ NN
+wagging ^ VB
+wagon ^ NN
+wagons ^ NN
+wail ^ NN
+wailed ^ VB
+wailing ^ NN VB
+wait ^ NN
+waited ^ VB NN
+waiteth ^ VB NN
+waiting ^ VB
+wake ^ NN
+waked ^ VB
+wakened ^ VB
+wakeneth ^ VB
+waketh ^ NN
+waking ^ VB
+walk ^ NN
+walked ^ VB
+walkedst ^ NN
+walkest ^ NN
+walketh ^ NN VB
+walking ^ NN
+wall ^ NN
+walled ^ JJ VB
+wallow ^ NN VB
+wallowed ^ VB
+wallowing ^ NN
+walls ^ NN
+wander ^ NN
+wandered ^ VB
+wanderers ^ NN
+wanderest ^ NN
+wandereth ^ VB NN
+wandering ^ VB NN
+wanderings ^ NN
+want ^ VB
+wanted ^ VB
+wanteth ^ VB
+wanting ^ VB
+wanton ^ NN
+wantonness ^ NN
+wants ^ VB
+war ^ NN
+ward ^ NN
+wardrobe ^ NN
+wards ^ NN
+ware ^ NN
+wares ^ VB NN
+warfare ^ NN
+warm ^ JJ NN VB
+warmed ^ VB
+warmeth ^ VB
+warming ^ VB
+warn ^ VB
+warned ^ VB
+warning ^ NN VB
+warp ^ JJ VB
+warred ^ VB
+warreth ^ NN
+warring ^ NN VB
+warrior ^ NN
+warriors ^ NN
+wars ^ NN
+was ^ VB
+wash ^ NN
+washed ^ VB
+washest ^ VB
+washing ^ NN
+washings ^ NN
+washpot ^ NN
+wast ^ JJ VB NN
+waste ^ NN
+wasted ^ VB
+wasteness ^ NN
+waster ^ NN
+wastes ^ NN
+wasteth ^ VB NN
+wasting ^ NN VB
+watch ^ NN
+watched ^ VB
+watcher ^ NN
+watchers ^ NN
+watches ^ NN VB
+watcheth ^ NN
+watchful ^ NN
+watching ^ NN
+watchings ^ NN
+watchman ^ NN
+watchmen ^ NN VB
+watchtower ^ NN
+water ^ NN
+watercourse ^ NN
+watered ^ VB JJ
+wateredst ^ NN
+waterest ^ NN
+watereth ^ VB JJ NN
+waterflood ^ NN
+watering ^ NN VB
+waterpot ^ NN
+waterpots ^ NN
+waters ^ NN
+waterspouts ^ VB
+watersprings ^ NN
+wave ^ NN
+waved ^ VB
+wavereth ^ VB
+wavering ^ VB
+waves ^ NN
+wax ^ NN
+waxed ^ VB
+waxen ^ VB JJ NN
+waxeth ^ VB JJ
+waxing ^ VB
+way ^ NN
+wayfaring ^ VB NN
+waymarks ^ NN
+ways ^ NN
+wayside ^ NN
+we ^ NN
+weak ^ JJ
+weaken ^ VB
+weakened ^ VB
+weakeneth ^ IN VB
+weaker ^ JJR
+weakness ^ NN
+wealth ^ NN
+wealthy ^ JJ
+weaned ^ VB JJ
+weapon ^ NN
+weapons ^ NN
+wear ^ VB
+weareth ^ VB
+wearied ^ VB JJ
+wearieth ^ VB
+weariness ^ NN
+wearing ^ VB
+wearisome ^ JJ
+weary ^ JJ NN VB
+weasel ^ NN
+weather ^ NN
+weave ^ JJ VB
+weaver ^ NN IN
+weavest ^ VB
+web ^ NN
+webs ^ NN
+wedding ^ NN
+wedge ^ NN
+wedlock ^ NN
+weeds ^ NN
+week ^ NN
+weeks ^ NN
+weep ^ VB NN JJ
+weepest ^ NN
+weepeth ^ NN VB JJ
+weeping ^ NN
+weigh ^ VB
+weighed ^ VB
+weigheth ^ VB
+weighing ^ VB
+weight ^ NN
+weightier ^ NN
+weights ^ NN
+weighty ^ NN
+welfare ^ NN
+well ^ RB
+wellbeloved ^ JJ
+wellfavoured ^ JJ
+wellpleasing ^ NN VB
+wells ^ NN
+wellspring ^ NN JJ
+wen ^ NN
+wench ^ NN
+went ^ VB
+wentest ^ VB NN
+wept ^ VB NN
+were ^ VB
+wert ^ NN
+west ^ NN
+western ^ JJ
+westward ^ RB JJ NN
+wet ^ RB VB NN
+whale ^ NN
+whales ^ NN
+what ^ NN
+whatsoever ^ NN RB IN
+wheat ^ NN
+wheaten ^ NN
+wheel ^ NN
+wheels ^ NN
+whelp ^ NN
+whelps ^ NN . VB
+when ^ NN
+whence ^ NN
+whensoever ^ IN NN
+where ^ NN
+whereabout ^ IN
+whereas ^ NN JJ LS
+whereby ^ NN
+wherefore ^ NN JJ VB
+wherein ^ NN
+whereinsoever ^ NN
+whereinto ^ IN NN
+whereof ^ NN IN , SYM JJR CD
+whereon ^ NN IN
+wheresoever ^ NN
+whereto ^ NN
+whereunto ^ NN IN LS ,
+whereupon ^ IN NN
+wherewith ^ IN NN JJ LS
+wherewithal ^ NN
+whet ^ , . NN VB
+whether ^ IN CC
+which ^ NN
+while ^ IN NN
+whiles ^ NN LS
+whilst ^ IN
+whip ^ NN
+whips ^ NN
+whirleth ^ JJ
+whirlwind ^ NN JJ
+whirlwinds ^ NN
+whisper ^ NN
+whispered ^ VB
+whisperer ^ NN
+whisperers ^ NN
+whisperings ^ NN
+whit ^ NN JJ
+white ^ JJ
+whited ^ JJ
+whiter ^ JJR
+whither ^ JJ IN NN
+whithersoever ^ NN IN
+who ^ NN
+whoever ^ NN
+whole ^ NN
+wholesome ^ JJ
+wholly ^ RB
+whom ^ NN
+whomsoever ^ NN
+whore ^ NN JJ
+whoredom ^ NN
+whoredoms ^ NN
+whoremonger ^ NN
+whoremongers ^ NN
+whores ^ NN
+whoring ^ NN
+whorish ^ JJ
+whose ^ NN
+whoso ^ LS IN NN
+whosoever ^ NN
+why ^ NN
+wicked ^ JJ VB NN
+wickedly ^ RB
+wickedness ^ NN
+wide ^ JJ
+wideness ^ NN
+widow ^ NN
+widowhood ^ NN VB
+widows ^ NN
+wife ^ NN
+wild ^ JJ RB
+wilderness ^ NN
+wiles ^ NN
+wilfully ^ RB
+wilily ^ RB
+will ^ NN
+willeth ^ NN
+willing ^ JJ
+willingly ^ VB NN RB IN
+willow ^ NN
+willows ^ NN
+wilt ^ VB NN JJ IN
+wimples ^ NN
+win ^ VB
+wind ^ NN
+winding ^ VB NN
+window ^ NN
+windows ^ NN
+winds ^ NN
+windy ^ NN
+wine ^ NN
+winebibber ^ NN
+winebibbers ^ NN
+winefat ^ NN
+winepress ^ NN
+winepresses ^ NN
+wines ^ NN
+wing ^ NN
+winged ^ JJ
+wings ^ NN
+wink ^ VB
+winked ^ VB
+winketh ^ VB
+winneth ^ VB
+winnowed ^ VB
+winnoweth ^ VB
+winter ^ NN
+wintered ^ VB
+winterhouse ^ NN
+wipe ^ VB
+wiped ^ VB
+wipeth ^ IN
+wiping ^ VB
+wires ^ NN
+wisdom ^ NN
+wise ^ NN
+wisely ^ JJ RB
+wiser ^ JJR NN
+wish ^ NN
+wished ^ VB
+wishing ^ VB
+wist ^ VB NN
+wit ^ NN
+witch ^ NN
+witchcraft ^ NN
+witchcrafts ^ NN
+with ^ IN RP
+withal ^ NN VB , . JJ LS
+withdraw ^ VB
+withdrawest ^ NN
+withdraweth ^ VB
+withdrawn ^ VB
+withdrew ^ VB
+wither ^ IN VB
+withered ^ VB .
+withereth ^ IN VB NN
+withersoever ^ IN
+withheld ^ VB
+withheldest ^ NN
+withhold ^ VB NN
+withholden ^ IN NN
+withholdeth ^ VB IN
+within ^ IN
+without ^ IN
+withs ^ NN
+withstand ^ VB
+withstood ^ VB IN NN
+witness ^ NN
+witnessed ^ VB
+witnesses ^ NN
+witnesseth ^ NN
+witnessing ^ VB
+wittingly ^ RB
+witty ^ NN
+wives ^ NN
+wizard ^ NN
+wizards ^ NN
+woe ^ NN
+woeful ^ JJ
+woes ^ NN
+wolf ^ NN
+wolves ^ NN
+woman ^ NN
+womankind ^ NN
+womb ^ NN
+wombs ^ NN
+women ^ NN
+womenservants ^ NN
+won ^ VB
+wonder ^ NN
+wondered ^ VB
+wonderful ^ JJ
+wonderfully ^ RB
+wondering ^ VB
+wonderously ^ RB
+wonders ^ NN
+wondrous ^ JJ VB
+wondrously ^ RB
+wont ^ VB JJ NN
+wood ^ NN
+woods ^ NN
+woof ^ NN
+wool ^ NN
+woollen ^ JJ NN
+word ^ NN
+words ^ NN
+work ^ NN
+worker ^ NN
+workers ^ NN
+worketh ^ NN VB
+workfellow ^ NN
+working ^ NN
+workman ^ NN
+workmanship ^ NN
+workmen ^ NN
+works ^ NN
+world ^ NN
+worldly ^ RB
+worlds ^ NN
+worm ^ NN
+worms ^ NN
+wormwood ^ NN
+worse ^ JJR RBR
+worship ^ NN
+worshipped ^ VB '' NN
+worshipper ^ JJR
+worshippers ^ NN
+worshippeth ^ NN VB JJ .
+worshipping ^ VB
+worst ^ JJS
+worth ^ IN JJ NN
+worthies ^ NN
+worthily ^ NN
+worthy ^ JJ
+wot ^ NN VB
+wotteth ^ NN
+would ^ VB
+wouldest ^ VB JJS NN
+wound ^ NN
+wounded ^ VB JJ
+woundedst ^ ,
+woundeth ^ VB
+wounding ^ NN
+wounds ^ NN
+wove ^ NN
+woven ^ NN
+wrap ^ VB
+wrapped ^ VB
+wrath ^ NN
+wrathful ^ VB JJ
+wraths ^ NN
+wreath ^ NN
+wreathed ^ VB
+wreathen ^ NN VB
+wreaths ^ NN
+wrest ^ VB NN
+wrestle ^ VB
+wrestled ^ VB
+wrestlings ^ NN
+wretched ^ VB
+wretchedness ^ NN
+wring ^ VB
+wringed ^ VB
+wringing ^ NN
+wrinkle ^ NN
+wrinkles ^ NN
+write ^ VB
+writer ^ NN
+writest ^ NN
+writeth ^ VB
+writing ^ NN
+writings ^ NN
+written ^ VB
+wrong ^ NN JJ
+wronged ^ VB JJ
+wrongeth ^ VB
+wrongfully ^ RB
+wrote ^ VB
+wroth ^ JJ . VB
+wrought ^ VB JJ
+wroughtest ^ NN
+wrung ^ VB JJ
+yarn ^ NN
+ye ^ NN
+yea ^ NN
+year ^ NN
+yearly ^ JJ RB
+yearn ^ VB
+yearned ^ VB
+years ^ NN
+yell ^ RB
+yelled ^ JJ
+yellow ^ JJ
+yes ^ NN
+yesterday ^ NN
+yesternight ^ NN
+yet ^ RB CC
+yield ^ NN
+yielded ^ VB
+yieldeth ^ NN
+yielding ^ NN VB
+yoke ^ NN
+yoked ^ JJ
+yokefellow ^ NN
+yokes ^ NN
+yonder ^ NN VB
+you ^ NN
+young ^ JJ
+younger ^ JJR NN
+youngest ^ JJS
+your ^ NN
+yours ^ NN
+yourselves ^ NN
+youth ^ NN
+youthful ^ JJ
+youths ^ NN
+zaanaim ^ NN
+zaanan ^ NN
+zaanannim ^ NN
+zaavan ^ NN
+zabad ^ NN
+zabbai ^ NN
+zabbud ^ NN
+zabdi ^ NN
+zabdiel ^ NN
+zabud ^ NN
+zabulon ^ NN
+zaccai ^ NN
+zacchaeus ^ NN
+zacchur ^ NN
+zaccur ^ NN
+zachariah ^ NN
+zacharias ^ NN
+zacher ^ NN
+zadok ^ NN
+zaham ^ NN
+zair ^ NN
+zalaph ^ NN
+zalmon ^ NN
+zalmonah ^ NN
+zalmunna ^ NN
+zamzummims ^ NN
+zanoah ^ NN
+zaphnathpaaneah ^ NN
+zaphon ^ NN
+zara ^ NN
+zarah ^ NN
+zareah ^ NN
+zareathites ^ NN
+zared ^ NN
+zarephath ^ NN
+zaretan ^ NN
+zarethshahar ^ NN
+zarhites ^ NN
+zartanah ^ NN
+zarthan ^ NN
+zatthu ^ NN
+zattu ^ NN
+zavan ^ NN
+zaza ^ NN
+zeal ^ NN
+zealous ^ JJ
+zealously ^ RB
+zebadiah ^ NN
+zebah ^ NN
+zebaim ^ NN
+zebedee ^ NN
+zebedees ^ NN
+zebina ^ NN
+zeboiim ^ NN
+zeboim ^ NN
+zebudah ^ NN
+zebul ^ NN
+zebulonite ^ NN
+zebulun ^ NN
+zebulunites ^ NN
+zechariah ^ NN
+zedad ^ NN
+zedekiah ^ NN
+zeeb ^ NN
+zelah ^ NN
+zelek ^ NN
+zelophehad ^ NN
+zelotes ^ NN
+zelzah ^ NN
+zemaraim ^ NN
+zemarite ^ NN
+zemira ^ NN
+zenan ^ NN
+zenas ^ NN
+zephaniah ^ NN
+zephath ^ NN
+zephathah ^ NN
+zephi ^ NN
+zepho ^ NN
+zephon ^ NN
+zephonites ^ NN
+zer ^ NN
+zerah ^ NN
+zerahiah ^ NN
+zered ^ NN
+zereda ^ NN
+zeredathah ^ NN
+zererath ^ NN
+zeresh ^ NN
+zereth ^ NN
+zeri ^ NN
+zeror ^ NN
+zeruah ^ NN
+zerubbabel ^ NN
+zeruiah ^ NN
+zetham ^ NN
+zethan ^ NN
+zethar ^ NN
+zia ^ NN
+ziba ^ NN
+zibeon ^ NN
+zibia ^ NN
+zibiah ^ NN
+zichri ^ NN
+ziddim ^ NN
+zidkijah ^ NN
+zidon ^ NN
+zidonians ^ NN
+zif ^ NN
+ziha ^ NN
+ziklag ^ NN
+zillah ^ NN
+zilpah ^ NN
+zilthai ^ NN
+zimmah ^ NN
+zimran ^ NN
+zimri ^ NN
+zin ^ NN
+zina ^ NN
+zion ^ NN
+zior ^ NN
+ziph ^ NN
+ziphah ^ NN
+ziphion ^ NN
+ziphites ^ NN
+ziphron ^ NN
+zippor ^ NN
+zipporah ^ NN
+zithri ^ NN
+ziz ^ NN
+ziza ^ NN
+zizah ^ NN
+zoan ^ NN
+zoar ^ NN
+zoba ^ NN
+zobah ^ NN
+zobebah ^ NN
+zohar ^ NN
+zoheleth ^ NN
+zoheth ^ NN
+zophah ^ NN
+zophai ^ NN
+zophar ^ NN
+zophim ^ NN
+zorah ^ NN
+zorathites ^ NN
+zoreah ^ NN
+zorites ^ NN
+zorobabel ^ NN
+zuar ^ NN
+zuph ^ NN
+zur ^ NN
+zuriel ^ NN
+zurishaddai ^ NN
+zuzims ^ NN

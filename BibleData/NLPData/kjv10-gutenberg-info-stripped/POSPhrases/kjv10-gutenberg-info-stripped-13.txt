@@ -1,0 +1,1 @@
+[,] [NN] [NN] [VB] [VB] [IN] [DT] [NN] [IN] [NN] [NN] [CD] [:] ^ 2 ^ 12026

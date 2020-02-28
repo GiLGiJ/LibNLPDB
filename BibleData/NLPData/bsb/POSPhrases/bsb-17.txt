@@ -1,0 +1,1 @@
+[:] [NN] [VB] [RB] [VBx] [NN] [NN] [NN] [RP] [CC] [NN] [NN] [VB] [RB] [VBx] [CD] [:] ^ 2 ^ 13961

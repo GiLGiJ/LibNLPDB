@@ -1,0 +1,32 @@
+public class Words{
+	public bool bThing = true;
+	public bool bPlural = true;
+	public bool bSentenceBeginning = true;
+	public bool bEnrichedNoun = true;
+}
+public class Are{
+	public bool bBeingVerb = true;
+	public bool bPresentTense = true;
+}
+public class Powerful{
+	public bool bEnrichedNounHasPower = true;
+}
+public class Weapons{
+	public bool bThing = true;
+	public bool bPlural = true;
+}
+public class When{
+	public bool bWh = true;
+}
+public class True{
+	public bool bBooleanOperator = true;
+	public bool bPositiveComparisonOfWeaponsWithWordsThroughAre = true;
+	public bool bSentenceEnding = true;
+}
+public class And{
+	public bool bConjunctionOfAllBeforeAndAllAfterToTheDash = true;
+}
+public class Deeds{
+	public bool bThing = true;
+	public bool bPlural = true;
+}

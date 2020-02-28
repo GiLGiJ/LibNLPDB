@@ -1,0 +1,3 @@
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/SharpEntropy/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/SharpEntropy/bin/Release/SharpEntropy.dll
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/SharpEntropy/obj/Release/SharpEntropy.dll

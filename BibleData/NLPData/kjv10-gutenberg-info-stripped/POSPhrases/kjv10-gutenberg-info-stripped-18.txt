@@ -1,0 +1,1 @@
+[:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC] [DT] [NN] [CC] [DT] [NN] [VB] [DT] ^ 2 ^ 322

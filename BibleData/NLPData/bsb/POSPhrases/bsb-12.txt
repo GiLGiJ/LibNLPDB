@@ -1,0 +1,4 @@
+[NN] [IN] [DT] [NN] [IN] [DT] [NN] [TO] [NN] [IN] [DT] [NNP] ^ 2 ^ 378
+[NN] [NN] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [VBx] [CD] [:] ^ 2 ^ 556
+[VB] [IN] [DT] [NN] [IN] [NN] [NN] [VB] [NN] [RB] [TO] [NN] ^ 2 ^ 2034
+[IN] [NN] [NN] [VB] [NN] [NN] [VBx] [IN] [NN] [,] [CC] [DT] ^ 2 ^ 13942

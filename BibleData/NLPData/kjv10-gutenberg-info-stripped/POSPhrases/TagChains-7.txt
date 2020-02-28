@@ -1,0 +1,8 @@
+
+
+ [CD] [:] [CC] [DT] [NN] [VB] [VBx], 
+
+ [IN] [DT] [NN] [IN] [DT] [NN] [,], 
+
+ [CD] [:] [CC] [DT] [NN] [IN] [NNP], 
+

@@ -1,0 +1,3 @@
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\SharpEntropy\bin\Release\SharpEntropy.dll
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\SharpEntropy\obj\Release\SharpEntropy.csprojResolveAssemblyReference.cache
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\SharpEntropy\obj\Release\SharpEntropy.dll

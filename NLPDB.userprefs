@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Tester/NLPDB.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/backups/programming/LibNLPDB/Tester/MakeContexts.cs" line="1293" column="46" />
+      <Breakpoint file="/backups/programming/LibNLPDB/Tester/MakeContexts.cs" line="1269" column="1" />
+      <Breakpoint file="/backups/programming/LibNLPDB/Tester/MakeContexts.cs" line="2260" column="1" />
+      <Breakpoint file="/backups/programming/LibNLPDB/LibNLPDB/Parse.cs" line="88" column="1" />
+      <Breakpoint file="/backups/programming/LibNLPDB/LibNLPDB/Parse.cs" line="86" column="1" />
+      <Breakpoint file="/backups/programming/LibNLPDB/LibNLPDB/Parse.cs" line="90" column="1" />
+      <Breakpoint file="/backups/programming/LibNLPDB/LibNLPDB/POSPhrases.cs" line="193" column="21" />
+      <Breakpoint file="/backups/programming/LibNLPDB/LibNLPDB/POSPhrases.cs" line="192" column="1" />
+      <Breakpoint file="/backups/programming/LibNLPDB/LibNLPDB/Phrases.cs" line="428" column="1" />
+      <Breakpoint file="/backups/programming/LibNLPDB/Tester/Welcome.cs" line="370" column="1" />
+      <Breakpoint file="/home/jeremy/programming/LibNLPDB/LibNLPDB/Parse.cs" line="85" column="54" />
+      <Breakpoint file="/home/jeremy/programming/LibNLPDB/LibNLPDB/Parse.cs" line="86" column="1" />
+      <Breakpoint file="/media/jeremy/Backups/Programming/LibNLPDB/LibNLPDB/POSPhrases.cs" line="377" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

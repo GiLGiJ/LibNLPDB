@@ -1,0 +1,16 @@
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\ModelConverter.exe.config
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\ModelConverter.exe
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\ModelConverter.pdb
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\SharpEntropy.dll
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\SharpEntropy.pdb
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\obj\Debug\ResolveAssemblyReference.cache
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\obj\Debug\ModelConverter.exe
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\obj\Debug\ModelConverter.pdb
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\ModelConverter.exe.config
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\ModelConverter.exe
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\ModelConverter.pdb
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\SharpEntropy.dll
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\bin\Debug\SharpEntropy.pdb
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\obj\Debug\ModelConverter.csprojResolveAssemblyReference.cache
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\obj\Debug\ModelConverter.exe
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\ModelConverter\obj\Debug\ModelConverter.pdb

@@ -1,0 +1,14 @@
+ [CD] [:] [CC] [NN] [VB] [DT],  [CD] [:] [CC] [NN] [VB] [VBx], 
+
+ [CD] [:] [CC] [DT] [NN] [VB],  [CD] [:] [CC] [DT] [NN] [IN], 
+
+
+
+ [:] [CC] [DT] [NN] [VB] [,], 
+
+ [DT] [NNP] [CD] [:] [CC] [NNP], 
+
+ [NN] [IN] [DT] [NN] [,] [DT], 
+
+ [JJ] [NN] [IN] [DT] [NN] [:], 
+

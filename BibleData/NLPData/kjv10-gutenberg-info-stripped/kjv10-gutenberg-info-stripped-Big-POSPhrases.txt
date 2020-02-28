@@ -1,0 +1,932 @@
+POSPhrase ^ Count ^ ExampleFWID
+[NN]  ^ 2968 ^ 14
+[VB]  ^ 1340 ^ 7
+[IN]  ^ 1229 ^ 4
+[CC]  ^ 1146 ^ 18
+[DT]  ^ 996 ^ 1
+[,]  ^ 951 ^ 29
+[:]  ^ 794 ^ 6
+[NNP]  ^ 585 ^ 20
+[:] [CC]  ^ 503 ^ 22
+[DT] [NN]  ^ 469 ^ 12
+[CD] [:]  ^ 446 ^ 9
+[,] [CC]  ^ 440 ^ 29
+[IN] [DT]  ^ 418 ^ 11
+[JJ]  ^ 336 ^ 2
+[VBx]  ^ 334 ^ 205
+[CD] [:] [CC]  ^ 331 ^ 21
+[NN] [VB]  ^ 319 ^ 14
+[NN] [NN]  ^ 302 ^ 514
+[IN] [NN]  ^ 286 ^ 45
+[CC] [NN]  ^ 284 ^ 56
+[NN] [,]  ^ 266 ^ 97
+[CD]  ^ 238 ^ 414
+[RB]  ^ 227 ^ 4913
+[CC] [DT]  ^ 176 ^ 18
+[:] [CC] [NN]  ^ 176 ^ 55
+[NN] [IN]  ^ 169 ^ 3
+[DT] [NN] [IN]  ^ 148 ^ 37
+[IN] [DT] [NN]  ^ 145 ^ 51
+[NN] [,] [CC]  ^ 138 ^ 97
+[TO]  ^ 131 ^ 358
+[,] [NN]  ^ 131 ^ 1513
+[NNP] [,]  ^ 114 ^ 457
+[DT] [NNP]  ^ 102 ^ 19
+[CC] [NNP]  ^ 98 ^ 2558
+[VB] [IN]  ^ 96 ^ 243
+[:] [CC] [DT]  ^ 94 ^ 22
+[VB] [DT]  ^ 92 ^ 73
+[,] [IN]  ^ 91 ^ 76
+[VB] [NN]  ^ 89 ^ 367
+[VB] [VB]  ^ 74 ^ 879
+[CC] [NN] [VB]  ^ 73 ^ 56
+[IN] [NNP]  ^ 72 ^ 1246
+[VBx] [NN]  ^ 68 ^ 263
+[CD] [:] [CC] [NN]  ^ 66 ^ 54
+[IN] [DT] [NNP]  ^ 63 ^ 282
+[JJ] [NN]  ^ 62 ^ 674
+[CD] [:] [CC] [DT]  ^ 62 ^ 21
+[VB] [,]  ^ 59 ^ 58
+[,] [CC] [NN]  ^ 59 ^ 639
+[NN] [:]  ^ 58 ^ 382
+[:] [CC] [NN] [VB]  ^ 58 ^ 55
+[:] [CC] [NNP]  ^ 56 ^ 1520
+[,] [CC] [DT]  ^ 53 ^ 98
+[:] [CD] [:]  ^ 53 ^ 1760
+[VB] [VBx]  ^ 50 ^ 786
+[IN] [JJ]  ^ 49 ^ 855
+[NN] [IN] [DT]  ^ 48 ^ 38
+[CC] [DT] [NN]  ^ 48 ^ 1139
+[CC] [IN]  ^ 47 ^ 467
+[CC] [JJ]  ^ 46 ^ 541
+[VB] [RB]  ^ 45 ^ 257
+[,] [CC] [VBx]  ^ 45 ^ 585
+[DT] [JJ]  ^ 44 ^ 1
+[:] [IN]  ^ 44 ^ 8348
+[CC] [VBx]  ^ 44 ^ 2241
+[CC] [VB]  ^ 42 ^ 133
+[,] [CC] [VB]  ^ 42 ^ 132
+[TO] [VB]  ^ 41 ^ 398
+[NN] [CC]  ^ 39 ^ 17
+[VBx] [NNP]  ^ 39 ^ 1496
+[DT] [NN] [,]  ^ 39 ^ 1149
+[NN] [VBx]  ^ 38 ^ 309
+[IN] [NN] [VB]  ^ 38 ^ 77
+[NN] [NN] [VB]  ^ 38 ^ 987
+[CC] [NN] [NN]  ^ 38 ^ 1687
+[CD] [:] [CC] [NNP]  ^ 38 ^ 1519
+[:] [CC] [DT] [NN]  ^ 36 ^ 1138
+[,] [DT]  ^ 35 ^ 260
+[,] [CC] [IN]  ^ 35 ^ 372
+[,] [VB]  ^ 34 ^ 59
+[NN] [:] [CC]  ^ 34 ^ 1504
+[DT] [NN] [NN]  ^ 32 ^ 1058
+[NNP] [,] [CC]  ^ 32 ^ 1570
+[DT] [NN] [IN] [DT]  ^ 31 ^ 37
+[NN] [,] [CC] [VBx]  ^ 31 ^ 3345
+[DT] [NNP] [,]  ^ 30 ^ 456
+[DT] [NN] [VB]  ^ 30 ^ 2620
+[NNP] [VB]  ^ 29 ^ 25
+[NN] [VB] [,]  ^ 29 ^ 57
+[IN] [IN]  ^ 28 ^ 1021
+[VB] [TO]  ^ 28 ^ 2582
+[CD] [CC]  ^ 28 ^ 3884
+[RP]  ^ 27 ^ 5913
+[POS]  ^ 27 ^ 2371
+[,] [NN] [VB]  ^ 27 ^ 840
+[IN] [DT] [NN] [IN]  ^ 27 ^ 36
+[NNP] [:]  ^ 26 ^ 228
+[JJ] [DT]  ^ 26 ^ 737
+[,] [VBx]  ^ 26 ^ 838
+[VBx] [DT]  ^ 26 ^ 1615
+[CD] [NN]  ^ 26 ^ 3381
+[,] [IN] [NN]  ^ 26 ^ 76
+[NN] [VB] [VB]  ^ 26 ^ 841
+[EX]  ^ 25 ^ 61
+[POS] [VBx]  ^ 25 ^ 2371
+[CD] [CD]  ^ 25 ^ 3380
+[JJ] [VB]  ^ 24 ^ 542
+[VB] [IN] [DT]  ^ 24 ^ 35
+[:] [CD] [:] [CC]  ^ 24 ^ 3366
+[CD] [:] [CC] [NNP] [VB]  ^ 24 ^ 2521
+[:] [CD]  ^ 23 ^ 1816
+[VBx] [,]  ^ 22 ^ 839
+[,] [IN] [DT]  ^ 22 ^ 281
+[,] [CC] [JJ]  ^ 22 ^ 540
+[:] [RB]  ^ 21 ^ 752
+[TO] [NN]  ^ 21 ^ 2229
+[IN] [NN] [NN]  ^ 21 ^ 272
+[IN] [NN] [,]  ^ 21 ^ 279
+[CC] [CD] [NN]  ^ 21 ^ 3417
+[NN] [DT]  ^ 20 ^ 548
+[DT] [NN] [IN] [NNP]  ^ 20 ^ 1374
+[VB] [JJ]  ^ 19 ^ 79
+[VBx] [NN] [,]  ^ 19 ^ 787
+[NN] [NN] [,]  ^ 19 ^ 1688
+[:] [CC] [NN] [VB] [,]  ^ 19 ^ 55
+[:] [DT]  ^ 18 ^ 417
+[VB] [NNP]  ^ 18 ^ 3766
+[IN] [DT] [NN] [,]  ^ 18 ^ 1148
+[DT] [JJ] [NN]  ^ 17 ^ 112
+[VB] [NN] [NN]  ^ 17 ^ 2995
+[IN] [DT] [NNP] [,]  ^ 17 ^ 455
+[DT] [NNP] [,] [CC]  ^ 17 ^ 738
+[CC] [TO]  ^ 16 ^ 461
+[JJ] [CC]  ^ 16 ^ 948
+[JJ] [VB] [DT]  ^ 16 ^ 1038
+[:] [CC] [JJ]  ^ 16 ^ 1069
+[NN] [IN] [DT] [NN]  ^ 16 ^ 725
+[VBx] [NN] [CC] [NN]  ^ 16 ^ 3441
+[CD] [:] [CC] [NN] [VB]  ^ 16 ^ 69
+[NN] [,] [CC] [VBx] [NN] [CC] [NN]  ^ 16 ^ 3438
+[,] [JJ]  ^ 15 ^ 2733
+[:] [NN]  ^ 15 ^ 434
+[VB] [RP]  ^ 15 ^ 1121
+[,] [TO]  ^ 15 ^ 2423
+[NN] [JJ]  ^ 15 ^ 3899
+[,] [VBx] [,]  ^ 15 ^ 838
+[CD] [CD] [CC]  ^ 15 ^ 3434
+[DT] [NN] [IN] [NN]  ^ 15 ^ 1157
+[:] [CC] [NN] [NN]  ^ 15 ^ 2166
+[VB] [IN] [NN] [VB]  ^ 15 ^ 3429
+[RB] [,]  ^ 14 ^ 2431
+[RB] [IN]  ^ 14 ^ 2442
+[,] [NN] [NN]  ^ 14 ^ 275
+[DT] [NNP] [:]  ^ 14 ^ 283
+[IN] [JJ] [NN]  ^ 14 ^ 1296
+[NN] [CD] [:]  ^ 14 ^ 1617
+[VBx] [DT] [NN]  ^ 14 ^ 1718
+[JJ] [DT] [NN]  ^ 14 ^ 2158
+[POS] [VBx] [NN]  ^ 14 ^ 2371
+[DT] [NNP] [CD] [:]  ^ 14 ^ 19
+[DT] [NN] [,] [CC]  ^ 14 ^ 732
+[CC] [DT] [NN] [VB]  ^ 14 ^ 1740
+[:] [CC] [NNP] [VB]  ^ 14 ^ 3893
+[DT] [NNP] [CD] [:] [CC]  ^ 14 ^ 19
+[,] [RB]  ^ 13 ^ 1829
+[JJ] [IN]  ^ 13 ^ 3089
+[,] [VB] [,]  ^ 13 ^ 580
+[NN] [VB] [VBx]  ^ 13 ^ 785
+[CC] [JJ] [DT]  ^ 13 ^ 970
+[VB] [,] [NN]  ^ 13 ^ 2001
+[IN] [NN] [NN] [,]  ^ 13 ^ 272
+[CC] [NN] [VB] [,]  ^ 13 ^ 1999
+[NN] [CD] [:] [CC]  ^ 13 ^ 2710
+[IN] [DT] [NN] [IN] [DT]  ^ 13 ^ 36
+[DT] [NN] [IN] [DT] [NN]  ^ 13 ^ 85
+[CD] [:] [CC] [NN] [VB] [,]  ^ 13 ^ 54
+[EX] [VB]  ^ 12 ^ 66
+[TO] [DT]  ^ 12 ^ 1209
+[DT] [CD]  ^ 12 ^ 3341
+[:] [IN] [DT]  ^ 12 ^ 10
+[NN] [VB] [DT]  ^ 12 ^ 72
+[JJ] [VB] [NN]  ^ 12 ^ 542
+[VB] [VBx] [NN]  ^ 12 ^ 1990
+[VBx] [NNP] [,]  ^ 12 ^ 4250
+[NN] [:] [CC] [NN]  ^ 12 ^ 2488
+[VB] [VBx] [NNP] [,]  ^ 12 ^ 4249
+[,] [CC] [NN] [NN]  ^ 12 ^ 4464
+['']  ^ 11 ^ 2790
+[CC] [EX]  ^ 11 ^ 65
+[CC] [,]  ^ 11 ^ 941
+[CC] [IN] [DT]  ^ 11 ^ 467
+[IN] [IN] [DT]  ^ 11 ^ 1194
+[DT] [NNP] [:] [CC]  ^ 11 ^ 283
+[CC] [,] [VBx] [,]  ^ 11 ^ 941
+[CC] [DT] [NN] [IN]  ^ 11 ^ 1311
+[NN] [NN] [,] [CC]  ^ 11 ^ 1688
+[JJ] [DT] [NN] [IN]  ^ 11 ^ 2158
+[NN] [VB] [TO] [VB]  ^ 11 ^ 2581
+[:] [CC] [JJ] [DT]  ^ 11 ^ 3392
+[IN] [DT] [NNP] [,] [CC]  ^ 11 ^ 889
+[:] [CC] [DT] [NN] [VB]  ^ 11 ^ 2655
+[PDT]  ^ 10 ^ 1000
+[:] [VBx]  ^ 10 ^ 1652
+[CC] [CD]  ^ 10 ^ 3628
+[JJ] [,]  ^ 10 ^ 4043
+[VBx] [,] [NN]  ^ 10 ^ 839
+[,] [NN] [VBx]  ^ 10 ^ 1421
+[TO] [VB] [,]  ^ 10 ^ 2583
+[NN] [POS] [VBx]  ^ 10 ^ 2771
+[NN] [IN] [NNP]  ^ 10 ^ 4957
+[IN] [NNP] [,]  ^ 10 ^ 6642
+[CC] [NN] [VB] [VBx]  ^ 10 ^ 784
+[NN] [IN] [DT] [NN] [,]  ^ 10 ^ 725
+[:] [CC] [DT] [NN] [NN]  ^ 10 ^ 1138
+[:] [CC] [JJ] [DT] [NN]  ^ 10 ^ 3392
+[CD] [:] [CC] [DT] [NN]  ^ 10 ^ 5373
+[CD] [:] [CC] [DT] [NN] [NN]  ^ 10 ^ 1137
+[:] [CC] [NN] [VB] [TO] [VB]  ^ 10 ^ 2720
+[IN] [VBx]  ^ 9 ^ 545
+[NN] [TO]  ^ 9 ^ 1100
+[RB] [VB]  ^ 9 ^ 4834
+[NN] [RB]  ^ 9 ^ 2464
+[,] [CC] [TO]  ^ 9 ^ 471
+[:] [CC] [IN]  ^ 9 ^ 1252
+[NN] [VB] [IN]  ^ 9 ^ 1770
+[CC] [NN] [VBx]  ^ 9 ^ 2192
+[VB] [CD] [CD]  ^ 9 ^ 3379
+[IN] [NN] [CC]  ^ 9 ^ 6374
+[VB] [IN] [DT] [NNP]  ^ 9 ^ 677
+[,] [CC] [JJ] [NN]  ^ 9 ^ 1485
+[DT] [NN] [VB] [VBx]  ^ 9 ^ 2657
+[CC] [NN] [NN] [VB]  ^ 9 ^ 8289
+[NN] [NN] [,] [CC] [VBx]  ^ 9 ^ 3344
+[NN] [:] [CC] [NN] [VB]  ^ 9 ^ 3405
+[DT] [NN] [IN] [NNP] [,]  ^ 9 ^ 4956
+[:] [CC] [JJ] [DT] [NN] [IN]  ^ 9 ^ 3447
+[NN] [,] [CC] [VBx] [NN] [CC] [NN] [CD] [:] [CC]  ^ 8 ^ 7809
+[VBx] [NN] [CC] [NN] [:] [CD] [:] [CC] [JJ] [DT] [NN]  ^ 8 ^ 3441
+[NN] [,] [CC] [VBx] [NN] [CC] [NN] [:] [CD] [:] [CC] [JJ] [DT] [NN] [IN]  ^ 8 ^ 3438
+[RB] [NN]  ^ 8 ^ 1424
+[CC] [DT] [NNP]  ^ 8 ^ 18
+[:] [CC] [EX]  ^ 8 ^ 64
+[NNP] [:] [CC]  ^ 8 ^ 228
+[NN] [VB] [NN]  ^ 8 ^ 269
+[DT] [NNP] [IN]  ^ 8 ^ 525
+[NN] [CC] [NN]  ^ 8 ^ 771
+[NN] [IN] [NN]  ^ 8 ^ 1425
+[:] [IN] [NN]  ^ 8 ^ 2215
+[NNP] [NN] [NN]  ^ 8 ^ 2717
+[CC] [NNP] [,]  ^ 8 ^ 3127
+[,] [CD] [:] [CC]  ^ 8 ^ 7069
+[IN] [NN] [NN] [,] [CC]  ^ 8 ^ 303
+[CC] [NN] [NN] [,] [CC]  ^ 8 ^ 1687
+[:] [CC] [DT] [NN] [IN]  ^ 8 ^ 3368
+[:] [CC] [NN] [VB] [VBx]  ^ 8 ^ 4246
+[:] [CC] [DT] [NN] [VB] [VBx]  ^ 8 ^ 2655
+[CD] [:] [CC] [NN] [VB] [,] [VB]  ^ 8 ^ 54
+[NN] [:] [CC] [NN] [VB] [CD] [:] [CC]  ^ 8 ^ 3405
+[VBx] [IN]  ^ 7 ^ 2708
+[RP] [DT]  ^ 7 ^ 808
+[PDT] [DT]  ^ 7 ^ 4993
+[TO] [JJ]  ^ 7 ^ 886
+[''] [VBx]  ^ 7 ^ 7704
+[NN] [VBx] [NN]  ^ 7 ^ 262
+[JJ] [,] [CC]  ^ 7 ^ 584
+[JJ] [NN] [NN]  ^ 7 ^ 674
+[NN] [DT] [NN]  ^ 7 ^ 1598
+[DT] [NN] [:]  ^ 7 ^ 2342
+[CC] [VB] [,]  ^ 7 ^ 2538
+[CD] [:] [IN]  ^ 7 ^ 2673
+[VB] [IN] [NN]  ^ 7 ^ 3694
+[:] [CC] [,]  ^ 7 ^ 4272
+[NN] [JJ] [,]  ^ 7 ^ 7786
+[,] [IN] [NN] [VB]  ^ 7 ^ 76
+[DT] [NN] [NN] [VB]  ^ 7 ^ 152
+[VB] [NN] [,] [CC]  ^ 7 ^ 637
+[,] [CC] [IN] [JJ]  ^ 7 ^ 740
+[JJ] [NN] [IN] [DT]  ^ 7 ^ 887
+[IN] [DT] [JJ] [NN]  ^ 7 ^ 979
+[:] [JJ] [VB] [DT]  ^ 7 ^ 1037
+[IN] [DT] [NN] [:]  ^ 7 ^ 1489
+[VB] [VBx] [NN] [,]  ^ 7 ^ 1990
+[NN] [VB] [TO] [VB] [,]  ^ 7 ^ 2581
+[CD] [:] [CC] [NN] [NN]  ^ 7 ^ 6319
+[IN] [DT] [NN] [IN] [NNP]  ^ 7 ^ 7043
+[NN] [NN] [VB] [IN] [DT] [NNP]  ^ 7 ^ 675
+[CC] [CD] [NN] [,] [CC] [VBx]  ^ 7 ^ 3417
+[JJR]  ^ 6 ^ 419
+[JJ] [VBx]  ^ 6 ^ 1510
+[NN] [NNP]  ^ 6 ^ 1183
+[RB] [TO]  ^ 6 ^ 2311
+[,] [NN] [DT]  ^ 6 ^ 547
+[,] [VB] [NN]  ^ 6 ^ 697
+[VB] [NN] [VB]  ^ 6 ^ 698
+[JJ] [DT] [NNP]  ^ 6 ^ 737
+[DT] [JJ] [IN]  ^ 6 ^ 1350
+[,] [JJ] [VB]  ^ 6 ^ 1623
+[VB] [VBx] [DT]  ^ 6 ^ 1717
+[VB] [,] [CC]  ^ 6 ^ 1835
+[VB] [VB] [DT]  ^ 6 ^ 2901
+[IN] [DT] [JJ]  ^ 6 ^ 2986
+[CC] [NNP] [VB]  ^ 6 ^ 3567
+[,] [CC] [NNP]  ^ 6 ^ 4181
+[CC] [IN] [JJ]  ^ 6 ^ 4482
+[NN] [,] [NN]  ^ 6 ^ 5467
+[IN] [NN] [VB] [JJ]  ^ 6 ^ 77
+[NN] [,] [CC] [JJ]  ^ 6 ^ 557
+[NN] [IN] [DT] [NNP]  ^ 6 ^ 641
+[NN] [NN] [VB] [VB]  ^ 6 ^ 987
+[,] [CC] [NN] [VBx]  ^ 6 ^ 2191
+[TO] [VB] [,] [NN]  ^ 6 ^ 2583
+[:] [CC] [NN] [VB] [IN]  ^ 6 ^ 240
+[IN] [DT] [NN] [IN] [NN]  ^ 6 ^ 762
+[JJ] [NN] [IN] [DT] [NN]  ^ 6 ^ 895
+[DT] [NN] [CD] [:] [CC]  ^ 6 ^ 2547
+[DT] [NN] [IN] [DT] [NNP]  ^ 6 ^ 2884
+[NN] [IN] [NNP] [,] [CC]  ^ 6 ^ 9475
+[IN] [DT] [NN] [IN] [DT] [NN]  ^ 6 ^ 48
+[CC] [NN] [NN] [,] [CC] [VBx]  ^ 6 ^ 3343
+[,] [CC] [NN] [NN] [,] [CC]  ^ 6 ^ 4780
+[CD] [:] [CC] [DT] [NN] [VB]  ^ 6 ^ 5110
+[:] [CC] [NN] [VB] [TO] [VB] [,]  ^ 6 ^ 2720
+[CC] [DT] [NN] [CC] [DT] [NN] [VB] [DT]  ^ 6 ^ 105
+[:] [CC] [NN] [VB] [RB] [CD] [:] [CC]  ^ 6 ^ 167
+[:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC]  ^ 5 ^ 240
+[RB] [RB]  ^ 5 ^ 510
+[CC] [RB]  ^ 5 ^ 5883
+[:] [VB]  ^ 5 ^ 8633
+[,] [CD]  ^ 5 ^ 4490
+[:] [JJ]  ^ 5 ^ 9525
+[IN] [NN] [VBx]  ^ 5 ^ 757
+[IN] [JJ] [DT]  ^ 5 ^ 855
+[NN] [NN] [NN]  ^ 5 ^ 985
+[CC] [IN] [NN]  ^ 5 ^ 1253
+[:] [CC] [RB]  ^ 5 ^ 2429
+[RB] [IN] [DT]  ^ 5 ^ 2442
+[VB] [DT] [CD]  ^ 5 ^ 3340
+[DT] [CD] [CC]  ^ 5 ^ 3341
+[IN] [NNP] [:]  ^ 5 ^ 4168
+[JJ] [NN] [,]  ^ 5 ^ 4420
+[NNP] [POS] [VBx]  ^ 5 ^ 4886
+[''] [VBx] [NN]  ^ 5 ^ 8196
+[NN] [IN] [NN] [NN]  ^ 5 ^ 562
+[JJ] [,] [CC] [VBx]  ^ 5 ^ 584
+[VB] [,] [VBx] [,]  ^ 5 ^ 837
+[IN] [JJ] [DT] [NNP]  ^ 5 ^ 855
+[IN] [DT] [NN] [NN]  ^ 5 ^ 1944
+[,] [CC] [VB] [,]  ^ 5 ^ 2537
+[NN] [NN] [POS] [VBx]  ^ 5 ^ 3104
+[VB] [CD] [CD] [CC]  ^ 5 ^ 3400
+[NNP] [,] [CC] [NNP]  ^ 5 ^ 3907
+[,] [CC] [IN] [NN]  ^ 5 ^ 4522
+[DT] [NN] [VB] [VB]  ^ 5 ^ 5395
+[NN] [VBx] [NN] [,]  ^ 5 ^ 8674
+[NN] [IN] [NNP] [,]  ^ 5 ^ 9493
+[NN] [NN] [IN] [NN]  ^ 5 ^ 11449
+[DT] [NNP] [IN] [NN] [NN]  ^ 5 ^ 643
+[JJ] [VB] [DT] [NN] [IN]  ^ 5 ^ 1038
+[VB] [VBx] [DT] [NN] [,]  ^ 5 ^ 1717
+[:] [CC] [,] [VBx] [,]  ^ 5 ^ 4398
+[,] [CD] [:] [CC] [DT]  ^ 5 ^ 7131
+[:] [CC] [NN] [NN] [VB]  ^ 5 ^ 8288
+[,] [CC] [DT] [NN] [IN]  ^ 5 ^ 9514
+[CD] [:] [CC] [NN] [VB] [DT]  ^ 5 ^ 90
+[:] [CC] [DT] [NN] [VB] [,]  ^ 5 ^ 3966
+[NN] [CD] [:] [CC] [NN] [VB] [,] [VB]  ^ 5 ^ 114
+[:] [CC] [NN] [VB] [RB] [CD] [:] [CC] [NN]  ^ 5 ^ 167
+[RBR]  ^ 4 ^ 1701
+[NNP] [CC]  ^ 4 ^ 2557
+[NNP] [NN]  ^ 4 ^ 8187
+[CC] [EX] [VB]  ^ 4 ^ 65
+[TO] [VB] [DT]  ^ 4 ^ 358
+[CC] [JJ] [VBx]  ^ 4 ^ 4721
+[JJ] [VBx] [NN]  ^ 4 ^ 1510
+[CC] [TO] [JJ]  ^ 4 ^ 885
+[,] [CC] [,]  ^ 4 ^ 940
+[JJ] [CC] [NN]  ^ 4 ^ 1236
+[,] [IN] [JJ]  ^ 4 ^ 1396
+[RB] [NN] [IN]  ^ 4 ^ 1424
+[,] [DT] [NN]  ^ 4 ^ 1684
+[JJ] [:] [CC]  ^ 4 ^ 1924
+[:] [CC] [VBx]  ^ 4 ^ 2240
+[CC] [TO] [NN]  ^ 4 ^ 2389
+[CD] [CD] [NN]  ^ 4 ^ 3380
+[CD] [JJ] [CC]  ^ 4 ^ 3626
+[CD] [NN] [JJ]  ^ 4 ^ 3898
+[NN] [,] [DT]  ^ 4 ^ 4894
+[CD] [CC] [JJ]  ^ 4 ^ 5305
+[DT] [NN] [NNP]  ^ 4 ^ 5566
+[IN] [NN] [:]  ^ 4 ^ 5867
+[RB] [,] [CC]  ^ 4 ^ 6678
+[NNP] [CD] [:]  ^ 4 ^ 7616
+[NNP] [''] [VBx]  ^ 4 ^ 8195
+[NNP] [CC] [NNP]  ^ 4 ^ 9205
+[,] [VB] [EX] [VB]  ^ 4 ^ 59
+[,] [VBx] [,] [NN]  ^ 4 ^ 838
+[,] [IN] [DT] [NN]  ^ 4 ^ 1053
+[:] [DT] [NN] [IN]  ^ 4 ^ 1266
+[:] [CC] [IN] [DT]  ^ 4 ^ 1409
+[JJ] [NN] [,] [CC]  ^ 4 ^ 1526
+[NN] [VB] [,] [NN]  ^ 4 ^ 2000
+[,] [CC] [NN] [VB]  ^ 4 ^ 2232
+[:] [CC] [NN] [VBx]  ^ 4 ^ 2314
+[,] [VBx] [,] [DT]  ^ 4 ^ 2412
+[IN] [NN] [,] [CC]  ^ 4 ^ 2446
+[VBx] [DT] [NN] [,]  ^ 4 ^ 2860
+[CD] [CC] [NN] [NN]  ^ 4 ^ 3342
+[CC] [CD] [NN] [:]  ^ 4 ^ 3508
+[IN] [JJ] [NN] [,]  ^ 4 ^ 4487
+[,] [DT] [NN] [CC]  ^ 4 ^ 4648
+[POS] [VBx] [NN] [,]  ^ 4 ^ 4963
+[IN] [DT] [NNP] [:]  ^ 4 ^ 5087
+[CD] [CC] [JJ] [NN]  ^ 4 ^ 5305
+[IN] [IN] [DT] [NNP]  ^ 4 ^ 5379
+[,] [IN] [NN] [NN]  ^ 4 ^ 6927
+[NNP] [CD] [:] [CC]  ^ 4 ^ 7359
+[NN] [JJ] [,] [CC]  ^ 4 ^ 7786
+[NNP] [''] [VBx] [NN]  ^ 4 ^ 8195
+[IN] [NN] [CC] [NN]  ^ 4 ^ 9108
+[IN] [NN] [NN] [:] [CC]  ^ 4 ^ 319
+[VB] [JJ] [,] [CC] [VBx]  ^ 4 ^ 583
+[IN] [DT] [NNP] [CD] [:]  ^ 4 ^ 748
+[JJ] [NN] [IN] [DT] [NNP]  ^ 4 ^ 887
+[:] [CD] [:] [CC] [DT]  ^ 4 ^ 1290
+[NN] [CD] [:] [CC] [DT]  ^ 4 ^ 1906
+[VB] [IN] [DT] [NN] [,]  ^ 4 ^ 2040
+[VB] [DT] [NN] [IN] [DT]  ^ 4 ^ 2513
+[IN] [DT] [NN] [NN] [,]  ^ 4 ^ 4891
+[NN] [,] [CC] [IN] [JJ]  ^ 4 ^ 5198
+[DT] [NN] [VBx] [DT] [NN]  ^ 4 ^ 5905
+[,] [NN] [VBx] [NN] [,]  ^ 4 ^ 8673
+[DT] [NNP] [CD] [:] [CC] [DT]  ^ 4 ^ 19
+[NN] [IN] [DT] [NN] [,] [CC]  ^ 4 ^ 725
+[:] [CC] [DT] [NN] [NN] [VB]  ^ 4 ^ 1442
+[CD] [:] [CC] [DT] [NN] [IN]  ^ 4 ^ 6871
+[IN] [DT] [NN] [IN] [JJ] [DT] [NNP]  ^ 4 ^ 852
+[CD] [:] [CC] [DT] [NN] [VB] [,]  ^ 4 ^ 3965
+[DT] [JJ] [NN] [IN] [DT] [NN] [,]  ^ 4 ^ 4896
+[CD] [:] [CC] [NN] [VB] [,] [VB] [DT]  ^ 4 ^ 190
+[JJ] [VB] [NN] [NN] [VB] [IN] [DT] [NNP]  ^ 4 ^ 743
+[CD] [NN] [,] [CC] [VBx] [NN] [CC] [NN]  ^ 4 ^ 3647
+[CD] [:] [CC] [DT] [NN] [IN] [DT] [NN]  ^ 4 ^ 11008
+[CD] [:] [CC] [DT] [NN] [CC] [DT] [NN] [VB] [DT]  ^ 3 ^ 330
+[:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC] [NN]  ^ 3 ^ 240
+[CD] [:] [CC] [DT] [NN] [IN] [DT] [NN] [VB] [VBx] [NN] [,]  ^ 3 ^ 11069
+[IN] [NN] [NN] [:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC]  ^ 3 ^ 319
+[CC] [PDT]  ^ 3 ^ 4992
+[CD] [IN]  ^ 3 ^ 4491
+[JJ] [JJ]  ^ 3 ^ 5228
+[VBx] [RB]  ^ 3 ^ 5105
+[RP] [IN]  ^ 3 ^ 5503
+[JJ] [RBR]  ^ 3 ^ 5673
+[JJ] [JJR]  ^ 3 ^ 5956
+[VBx] [VBx]  ^ 3 ^ 5761
+[,] [NNP]  ^ 3 ^ 9793
+[NNP] [VBx]  ^ 3 ^ 11249
+[DT] [VBx] [NN]  ^ 3 ^ 211
+[CC] [VB] [NN]  ^ 3 ^ 366
+[:] [CC] [TO]  ^ 3 ^ 460
+[CC] [JJ] [VB]  ^ 3 ^ 541
+[VB] [NN] [,]  ^ 3 ^ 578
+[CC] [PDT] [DT]  ^ 3 ^ 4992
+[DT] [JJ] [VB]  ^ 3 ^ 1321
+[VBx] [NN] [NN]  ^ 3 ^ 2155
+[,] [TO] [VB]  ^ 3 ^ 2511
+[VB] [VB] [NN]  ^ 3 ^ 2700
+[:] [NN] [VB]  ^ 3 ^ 3083
+[DT] [NN] [VBx]  ^ 3 ^ 3847
+[NN] [VB] [RP]  ^ 3 ^ 5485
+[NN] [NN] [RB]  ^ 3 ^ 5949
+[NN] [VBx] [VB]  ^ 3 ^ 8312
+[NN] [NN] [JJ]  ^ 3 ^ 11292
+[NN] [JJ] [CC]  ^ 3 ^ 11293
+[:] [CC] [EX] [VB]  ^ 3 ^ 64
+[NNP] [:] [CC] [DT]  ^ 3 ^ 228
+[CC] [JJ] [VB] [NN]  ^ 3 ^ 541
+[CC] [JJ] [VBx] [NN]  ^ 3 ^ 6378
+[,] [CC] [IN] [DT]  ^ 3 ^ 721
+[NN] [VB] [VB] [IN]  ^ 3 ^ 878
+[,] [CC] [TO] [JJ]  ^ 3 ^ 892
+[IN] [NN] [VB] [VB]  ^ 3 ^ 936
+[,] [NN] [VBx] [RB]  ^ 3 ^ 1421
+[RB] [NN] [IN] [NN]  ^ 3 ^ 1424
+[,] [NN] [VB] [RB]  ^ 3 ^ 1727
+[:] [CC] [NN] [DT]  ^ 3 ^ 1849
+[,] [CC] [VB] [VBx]  ^ 3 ^ 1988
+[VB] [,] [NN] [NN]  ^ 3 ^ 2204
+[TO] [VB] [,] [IN]  ^ 3 ^ 2916
+[CD] [CC] [CD] [NN]  ^ 3 ^ 3416
+[JJ] [CC] [CD] [NN]  ^ 3 ^ 3570
+[IN] [JJ] [VB] [NN]  ^ 3 ^ 4530
+[CC] [NN] [VB] [VB]  ^ 3 ^ 4576
+[NN] [,] [CC] [IN]  ^ 3 ^ 5194
+[NN] [VB] [IN] [NN]  ^ 3 ^ 5288
+[NN] [,] [IN] [DT]  ^ 3 ^ 5408
+[IN] [IN] [DT] [NN]  ^ 3 ^ 5607
+[,] [NN] [VB] [DT]  ^ 3 ^ 6130
+[NN] [,] [VB] [,]  ^ 3 ^ 6249
+[VB] [NN] [NN] [IN]  ^ 3 ^ 6261
+[JJ] [IN] [DT] [NN]  ^ 3 ^ 6367
+[NN] [IN] [NN] [CC]  ^ 3 ^ 6411
+[,] [DT] [NN] [IN]  ^ 3 ^ 6639
+[NN] [NN] [CD] [:]  ^ 3 ^ 6929
+[NNP] [IN] [DT] [NNP]  ^ 3 ^ 8104
+[,] [NN] [NN] [VB]  ^ 3 ^ 8598
+[IN] [NNP] [CC] [NNP]  ^ 3 ^ 9747
+[DT] [RBS] [JJ] [NN]  ^ 3 ^ 10017
+[NN] [IN] [NN] [NN] [,]  ^ 3 ^ 668
+[DT] [NNP] [,] [CC] [JJ]  ^ 3 ^ 857
+[TO] [JJ] [NN] [IN] [DT]  ^ 3 ^ 886
+[VB] [IN] [DT] [NNP] [,]  ^ 3 ^ 906
+[,] [CC] [,] [VBx] [,]  ^ 3 ^ 940
+[CC] [DT] [NN] [IN] [DT]  ^ 3 ^ 1311
+[CC] [NN] [VB] [,] [NN]  ^ 3 ^ 1999
+[CC] [CD] [NN] [:] [CC]  ^ 3 ^ 3508
+[CC] [CD] [NN] [,] [CC]  ^ 3 ^ 3628
+[,] [NN] [,] [CC] [NN]  ^ 3 ^ 4462
+[IN] [DT] [NNP] [:] [CC]  ^ 3 ^ 5087
+[IN] [NN] [CC] [NN] [CC]  ^ 3 ^ 6374
+[,] [IN] [NN] [NN] [,]  ^ 3 ^ 6923
+[CD] [:] [JJ] [VB] [DT]  ^ 3 ^ 7224
+[VB] [TO] [,] [VB] [NN]  ^ 3 ^ 7546
+[NNP] [NNP] [''] [VBx] [NN]  ^ 3 ^ 8805
+[,] [CC] [TO] [NN] [NN]  ^ 3 ^ 9353
+[CC] [NN] [NN] [IN] [NN]  ^ 3 ^ 11448
+[IN] [NN] [NN] [,] [CC] [JJ]  ^ 3 ^ 555
+[IN] [DT] [NNP] [IN] [NN] [NN]  ^ 3 ^ 642
+[DT] [NNP] [IN] [NN] [NN] [,]  ^ 3 ^ 661
+[:] [JJ] [VB] [DT] [NN] [IN]  ^ 3 ^ 1037
+[VB] [NN] [CD] [:] [CC] [DT]  ^ 3 ^ 1905
+[NN] [VB] [VB] [TO] [VB] [,]  ^ 3 ^ 2913
+[NNP] [,] [NNP] [,] [CC] [NNP]  ^ 3 ^ 3905
+[VB] [NN] [NN] [,] [CC] [VBx]  ^ 3 ^ 7855
+[CD] [:] [CC] [NN] [VB] [VBx]  ^ 3 ^ 10389
+[NN] [CD] [:] [CC] [NN] [NN]  ^ 3 ^ 11410
+[IN] [DT] [NN] [IN] [DT] [NN] [TO]  ^ 3 ^ 352
+[JJ] [NN] [NN] [VB] [IN] [DT] [NNP]  ^ 3 ^ 674
+[DT] [NN] [IN] [DT] [NN] [,] [CC]  ^ 3 ^ 724
+[NN] [NN] [VB] [IN] [DT] [NNP] [,]  ^ 3 ^ 904
+[CD] [:] [CC] [DT] [NN] [NN] [VB]  ^ 3 ^ 2082
+[CD] [:] [CC] [DT] [NN] [VB] [VBx]  ^ 3 ^ 2654
+[CD] [CC] [NN] [NN] [,] [CC] [VBx]  ^ 3 ^ 3342
+[:] [CC] [NN] [NN] [VB] [NN] [NN]  ^ 3 ^ 6320
+[:] [CC] [NN] [VB] [VBx] [NN] [,]  ^ 3 ^ 10360
+[IN] [CD] [NN] [JJ] [,] [CC] [DT]  ^ 3 ^ 10449
+[,] [VB] [JJ] [,] [CC] [VBx] [,] [CC]  ^ 3 ^ 582
+[:] [CC] [NN] [VB] [TO] [VB] [,] [NN]  ^ 3 ^ 2720
+[CD] [:] [CC] [NN] [VB] [,] [VB] [EX] [VB]  ^ 3 ^ 54
+[NN] [CD] [:] [CC] [NN] [VB] [,] [VB] [DT]  ^ 3 ^ 189
+[-LRB-]  ^ 2 ^ 7109
+[NN] [CD] [:] [CC] [NN] [VB] [,] [VB] [EX] [VB]  ^ 2 ^ 114
+[NN] [CD] [:] [CC] [NN] [VB] [,] [VB] [DT] [NN]  ^ 2 ^ 189
+[:] [CC] [NN] [VB] [RB] [CD] [:] [CC] [NN] [VB]  ^ 2 ^ 404
+[CD] [CC] [CD] [NN] [,] [CC] [VBx] [NN] [CC] [NN]  ^ 2 ^ 3435
+[CC] [CD] [NN] [:] [CC] [NN] [VB] [CD] [:] [CC]  ^ 2 ^ 3508
+[CD] [CC] [NN] [NN] [,] [CC] [VBx] [NN] [CC] [NN]  ^ 2 ^ 3590
+[JJ] [NN] [NN] [VB] [IN] [DT] [NNP] [CD] [:] [CC]  ^ 2 ^ 6513
+[:] [CC] [NN] [VB] [TO] [VB] [,] [IN] [,] [NN]  ^ 2 ^ 8703
+[,] [CC] [NN] [NN] [,] [CC] [JJ] [IN] [NN] [VB]  ^ 2 ^ 8889
+[:] [CC] [NN] [VB] [RB] [CD] [:] [CC] [NN] [VB] [DT]  ^ 2 ^ 167
+[CD] [:] [CC] [NN] [VB] [,] [VB] [DT] [NNP] [VB] [RB]  ^ 2 ^ 248
+[IN] [DT] [NNP] [:] [CC] [NN] [VB] [RB] [CD] [:] [CC]  ^ 2 ^ 282
+[,] [JJ] [IN] [NN] [,] [CC] [IN] [NN] [,] [CC] [IN]  ^ 2 ^ 5187
+[,] [CC] [IN] [JJ] [VB] [NN] [NN] [VB] [IN] [DT] [NNP]  ^ 2 ^ 5199
+[CD] [:] [CC] [NN] [VB] [RB] [JJ] [CD] [NN] [:] [CC]  ^ 2 ^ 5590
+[IN] [NNP] [:] [CC] [NNP] [VB] [VB] [NN] [NN] [CD] [:]  ^ 2 ^ 6753
+[,] [IN] [NN] [NN] [,] [IN] [NN] [NN] [,] [IN] [NN]  ^ 2 ^ 7232
+[CD] [NN] [,] [CC] [VBx] [NN] [CC] [NN] [CD] [:] [CC]  ^ 2 ^ 7808
+[IN] [DT] [NN] [IN] [DT] [NN] [TO] [VB] [NN] [IN] [DT] [NNP]  ^ 2 ^ 392
+[,] [NN] [NN] [VB] [VB] [IN] [DT] [NN] [IN] [NN] [NN] [CD] [:]  ^ 2 ^ 12026
+[VB] [VBx] [NN] [,] [VB] [JJ] [,] [CC] [VBx] [,] [CC] [VB] [DT] [NNP]  ^ 2 ^ 786
+[,] [CC] [NN] [VB] [NN] [CD] [:] [CC] [DT] [NN] [NN] [VB] [VBx] [DT]  ^ 2 ^ 2077
+[CD] [CD] [CC] [CD] [NN] [,] [CC] [VBx] [NN] [CC] [NN] [CD] [:] [CC]  ^ 2 ^ 7840
+[:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC] [NN] [VB] [,] [VB]  ^ 2 ^ 240
+[IN] [NN] [NN] [:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC] [NN]  ^ 2 ^ 563
+[CD] [NN] [,] [CC] [VBx] [NN] [CC] [NN] [:] [CD] [:] [CC] [JJ] [DT] [NN] [IN]  ^ 2 ^ 3647
+[,] [CC] [NN] [NN] [,] [CC] [NN] [NN] [,] [CC] [NN] [NN] [POS] [NN] [IN] [NN]  ^ 2 ^ 4776
+[:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC] [DT] [NN] [CC] [DT] [NN] [VB] [DT]  ^ 2 ^ 322
+[JJ] [:]  ^ 2 ^ 80
+[RB] [DT]  ^ 2 ^ 626
+[IN] [PDT]  ^ 2 ^ 7257
+[:] [TO]  ^ 2 ^ 875
+[:] [EX]  ^ 2 ^ 1301
+[VBx] [:]  ^ 2 ^ 1590
+[RB] [CC]  ^ 2 ^ 2305
+[''] [VB]  ^ 2 ^ 2790
+[IN] [RB]  ^ 2 ^ 2454
+[:] [PDT]  ^ 2 ^ 5216
+[-RRB-] [CC]  ^ 2 ^ 7116
+[NN] [RP]  ^ 2 ^ 7727
+[RB] [:]  ^ 2 ^ 8581
+[JJ] [TO]  ^ 2 ^ 9031
+[TO] [NNP]  ^ 2 ^ 11284
+[NN] [CC] [DT]  ^ 2 ^ 17
+[RB] [NN] [,]  ^ 2 ^ 258
+[:] [CC] [VB]  ^ 2 ^ 365
+[VB] [RB] [RB]  ^ 2 ^ 509
+[NN] [NN] [:]  ^ 2 ^ 768
+[DT] [NN] [CC]  ^ 2 ^ 962
+[,] [CC] [PDT]  ^ 2 ^ 4991
+[VB] [CD] [:]  ^ 2 ^ 1006
+[,] [CC] [EX]  ^ 2 ^ 1106
+[EX] [VB] [RB]  ^ 2 ^ 1108
+[DT] [NN] [TO]  ^ 2 ^ 1111
+[CC] [EX] [NN]  ^ 2 ^ 1181
+[NN] [TO] [DT]  ^ 2 ^ 1208
+[JJ] [IN] [NN]  ^ 2 ^ 1214
+[IN] [NNP] [TO]  ^ 2 ^ 1246
+[TO] [NN] [NN]  ^ 2 ^ 1378
+[:] [RB] [DT]  ^ 2 ^ 1696
+[VB] [,] [DT]  ^ 2 ^ 2059
+[TO] [VB] [IN]  ^ 2 ^ 2066
+[CD] [:] [VBx]  ^ 2 ^ 2198
+[:] [VBx] [DT]  ^ 2 ^ 2199
+[VB] [,] [IN]  ^ 2 ^ 2245
+[VB] [DT] [NN]  ^ 2 ^ 2393
+[NN] [''] [VB]  ^ 2 ^ 2789
+[NN] [''] [VBx]  ^ 2 ^ 9797
+[''] [VB] [NN]  ^ 2 ^ 2790
+[NN] [VB] [RB]  ^ 2 ^ 2834
+[:] [VBx] [,]  ^ 2 ^ 2873
+[VBx] [IN] [DT]  ^ 2 ^ 2979
+[IN] [JJ] [IN]  ^ 2 ^ 3088
+[NN] [TO] [NN]  ^ 2 ^ 3184
+[:] [JJ] [VB]  ^ 2 ^ 3283
+[VB] [CD] [NN]  ^ 2 ^ 3519
+[NN] [VB] [NNP]  ^ 2 ^ 3633
+[RB] [:] [IN]  ^ 2 ^ 3738
+[IN] [,] [NN]  ^ 2 ^ 8710
+[,] [DT] [JJ]  ^ 2 ^ 4034
+[VBx] [NN] [VB]  ^ 2 ^ 4354
+[DT] [NNP] [VB]  ^ 2 ^ 4440
+[NN] [,] [RB]  ^ 2 ^ 4600
+[IN] [JJ] [VBx]  ^ 2 ^ 4637
+[CD] [NN] [,]  ^ 2 ^ 4702
+[NN] [JJ] [NN]  ^ 2 ^ 4759
+[VB] [IN] [,]  ^ 2 ^ 4774
+[CD] [CC] [CD]  ^ 2 ^ 4837
+[NN] [NN] [IN]  ^ 2 ^ 4972
+[VB] [IN] [VBx]  ^ 2 ^ 5029
+[CC] [NN] [IN]  ^ 2 ^ 5052
+[CC] [JJ] [NN]  ^ 2 ^ 5178
+[VB] [RB] [TO]  ^ 2 ^ 5492
+[VB] [DT] [NNP]  ^ 2 ^ 5753
+[RB] [IN] [IN]  ^ 2 ^ 5895
+[NN] [,] [VB]  ^ 2 ^ 6217
+[JJ] [JJR] [VB]  ^ 2 ^ 6349
+[VB] [VB] [IN]  ^ 2 ^ 6486
+[JJ] [NN] [VB]  ^ 2 ^ 6499
+[VB] [TO] [VB]  ^ 2 ^ 6603
+[CD] [:] [DT]  ^ 2 ^ 6845
+[,] [RB] [IN]  ^ 2 ^ 7013
+[VB] [VB] [VBx]  ^ 2 ^ 8253
+[NN] [IN] [IN]  ^ 2 ^ 8259
+[NN] [NN] [VBx]  ^ 2 ^ 8300
+[,] [VBx] [DT]  ^ 2 ^ 8450
+[VB] [VBx] [NNP]  ^ 2 ^ 8611
+[NN] [NN] [DT]  ^ 2 ^ 8623
+[NN] [NNP] [VB]  ^ 2 ^ 8712
+[NNP] [VB] [VBx]  ^ 2 ^ 9093
+[TO] [DT] [NN]  ^ 2 ^ 9156
+[RP] [NN] [NN]  ^ 2 ^ 9181
+[CD] [:] [RB]  ^ 2 ^ 9228
+[,] [CD] [:]  ^ 2 ^ 9595
+[,] [CC] [RB]  ^ 2 ^ 9637
+[PDT] [DT] [NN]  ^ 2 ^ 9770
+[,] [VB] [IN]  ^ 2 ^ 9873
+[VB] [RB] [VB]  ^ 2 ^ 10310
+[VB] [VB] [VB]  ^ 2 ^ 11567
+[CC] [DT] [NNP] [VB]  ^ 2 ^ 23
+[NN] [,] [CC] [DT]  ^ 2 ^ 97
+[,] [CC] [DT] [NN]  ^ 2 ^ 306
+[:] [CC] [VB] [NN]  ^ 2 ^ 385
+[NN] [TO] [VB] [DT]  ^ 2 ^ 420
+[CD] [:] [CC] [TO]  ^ 2 ^ 459
+[JJ] [VBx] [NN] [NN]  ^ 2 ^ 6278
+[CC] [JJ] [NN] [NN]  ^ 2 ^ 673
+[,] [VB] [NN] [VB]  ^ 2 ^ 697
+[JJ] [VB] [NN] [NN]  ^ 2 ^ 825
+[VBx] [,] [NN] [VB]  ^ 2 ^ 839
+[,] [NN] [VB] [VB]  ^ 2 ^ 840
+[,] [CC] [JJ] [DT]  ^ 2 ^ 969
+[,] [CC] [PDT] [DT]  ^ 2 ^ 4991
+[TO] [NN] [DT] [NN]  ^ 2 ^ 1113
+[DT] [NN] [CD] [:]  ^ 2 ^ 1115
+[IN] [NN] [:] [CC]  ^ 2 ^ 1159
+[:] [DT] [JJ] [VB]  ^ 2 ^ 1320
+[:] [IN] [IN] [DT]  ^ 2 ^ 1428
+[NN] [NN] [VB] [NN]  ^ 2 ^ 1460
+[VB] [,] [JJ] [VB]  ^ 2 ^ 1622
+[IN] [NN] [NN] [:]  ^ 2 ^ 2284
+[TO] [NN] [:] [CC]  ^ 2 ^ 2312
+[CC] [TO] [NN] [NN]  ^ 2 ^ 2626
+[CC] [VBx] [IN] [DT]  ^ 2 ^ 2978
+[IN] [DT] [JJ] [IN]  ^ 2 ^ 2986
+[,] [CC] [DT] [JJ]  ^ 2 ^ 3188
+[IN] [NN] [VB] [NN]  ^ 2 ^ 3304
+[VB] [DT] [CD] [CC]  ^ 2 ^ 3340
+[NNP] [,] [VB] [,]  ^ 2 ^ 3824
+[,] [VB] [,] [JJ]  ^ 2 ^ 3825
+[,] [IN] [IN] [DT]  ^ 2 ^ 3841
+[,] [NN] [NN] [NN]  ^ 2 ^ 4107
+[,] [CC] [DT] [VB]  ^ 2 ^ 4128
+[TO] [NN] [JJ] [NN]  ^ 2 ^ 4418
+[NN] [VB] [NN] [NN]  ^ 2 ^ 4450
+[NN] [''] [NN] [IN]  ^ 2 ^ 4475
+[NN] [POS] [NN] [IN]  ^ 2 ^ 4787
+[DT] [NN] [,] [TO]  ^ 2 ^ 4499
+[CD] [:] [IN] [DT]  ^ 2 ^ 4878
+[IN] [DT] [CD] [JJ]  ^ 2 ^ 4880
+[VB] [VB] [CD] [:]  ^ 2 ^ 5159
+[NN] [VB] [RP] [DT]  ^ 2 ^ 5485
+[VB] [RP] [DT] [NN]  ^ 2 ^ 5603
+[VB] [IN] [NN] [,]  ^ 2 ^ 5802
+[DT] [NN] [:] [CC]  ^ 2 ^ 5908
+[JJ] [NN] [POS] [VBx]  ^ 2 ^ 6176
+[DT] [NN] [TO] [NN]  ^ 2 ^ 6352
+[NN] [NN] [,] [NN]  ^ 2 ^ 6451
+[VB] [,] [VB] [VB]  ^ 2 ^ 6746
+[IN] [JJ] [VB] [DT]  ^ 2 ^ 6905
+[CC] [NNP] [,] [CC]  ^ 2 ^ 7212
+[:] [IN] [DT] [NN]  ^ 2 ^ 7743
+[DT] [CD] [NN] [JJ]  ^ 2 ^ 7784
+[IN] [NNP] [POS] [VBx]  ^ 2 ^ 8120
+[CC] [NN] [NN] [VBx]  ^ 2 ^ 8299
+[VBx] [NN] [,] [CC]  ^ 2 ^ 8302
+[NNP] [NN] [NN] [,]  ^ 2 ^ 8386
+[VBx] [DT] [NN] [IN]  ^ 2 ^ 8445
+[RB] [IN] [DT] [NN]  ^ 2 ^ 8460
+[NNP] [,] [CC] [VB]  ^ 2 ^ 8471
+[,] [VBx] [NN] [NN]  ^ 2 ^ 8475
+[,] [CC] [JJ] [IN]  ^ 2 ^ 8893
+[,] [IN] [NN] [CC]  ^ 2 ^ 9107
+[NNP] [CC] [NNP] [,]  ^ 2 ^ 9205
+[NNP] [NN] [IN] [NNP]  ^ 2 ^ 9469
+[JJ] [NN] [IN] [NN]  ^ 2 ^ 9480
+[CD] [:] [CC] [EX]  ^ 2 ^ 9647
+[:] [CC] [NN] [NNP]  ^ 2 ^ 9856
+[VBx] [NN] [NN] [NN]  ^ 2 ^ 11144
+[NN] [JJ] [,] [NN]  ^ 2 ^ 11277
+[VB] [IN] [NN] [IN]  ^ 2 ^ 11626
+[CC] [NNP] [NN] [NN]  ^ 2 ^ 12039
+[DT] [JJ] [NN] [,]  ^ 2 ^ 12160
+[VB] [VB] [DT] [NN]  ^ 2 ^ 12418
+[CD] [:] [CC] [DT] [NNP]  ^ 2 ^ 21
+[IN] [DT] [JJ] [CC] [DT]  ^ 2 ^ 39
+[CC] [VB] [NN] [VB] [IN]  ^ 2 ^ 366
+[JJ] [DT] [NNP] [,] [CC]  ^ 2 ^ 737
+[NN] [VB] [,] [VBx] [,]  ^ 2 ^ 836
+[NN] [IN] [JJ] [CC] [NN]  ^ 2 ^ 1234
+[:] [DT] [NN] [IN] [DT]  ^ 2 ^ 1266
+[:] [NN] [VB] [NN] [NN]  ^ 2 ^ 1274
+[VB] [DT] [NN] [NN] [IN]  ^ 2 ^ 1279
+[NN] [DT] [NN] [NN] [VB]  ^ 2 ^ 1598
+[NN] [NN] [:] [CC] [NN]  ^ 2 ^ 1668
+[VB] [VBx] [NN] [,] [NN]  ^ 2 ^ 1990
+[NN] [VB] [,] [NN] [NN]  ^ 2 ^ 2203
+[VB] [,] [VBx] [,] [DT]  ^ 2 ^ 2411
+[NN] [CD] [:] [CC] [NNP]  ^ 2 ^ 2710
+[NN] [NN] [''] [VB] [NN]  ^ 2 ^ 2788
+[DT] [JJ] [CC] [DT] [NN]  ^ 2 ^ 2844
+[NN] [:] [DT] [NN] [IN]  ^ 2 ^ 3060
+[CC] [NN] [VB] [NN] [NN]  ^ 2 ^ 3264
+[CD] [NN] [CC] [CD] [NN]  ^ 2 ^ 3611
+[CD] [JJ] [CC] [CD] [NN]  ^ 2 ^ 3626
+[VB] [CD] [CD] [JJ] [CC]  ^ 2 ^ 3664
+[CC] [NNP] [VB] [IN] [NN]  ^ 2 ^ 3692
+[VB] [DT] [CD] [CD] [CC]  ^ 2 ^ 3748
+[CC] [,] [VBx] [,] [NN]  ^ 2 ^ 4273
+[DT] [NN] [IN] [NN] [,]  ^ 2 ^ 4425
+[,] [CD] [IN] [JJ] [NN]  ^ 2 ^ 4490
+[,] [TO] [VB] [NN] [VBx]  ^ 2 ^ 4501
+[:] [CC] [NN] [VB] [VB]  ^ 2 ^ 4575
+[CC] [NN] [VB] [VB] [IN]  ^ 2 ^ 4576
+[IN] [NN] [,] [IN] [DT]  ^ 2 ^ 4790
+[,] [IN] [NN] [VB] [VB]  ^ 2 ^ 4851
+[:] [IN] [DT] [JJ] [NN]  ^ 2 ^ 4939
+[,] [CC] [PDT] [DT] [NN]  ^ 2 ^ 4991
+[DT] [NNP] [:] [CC] [NNP]  ^ 2 ^ 5277
+[IN] [NN] [IN] [DT] [NN]  ^ 2 ^ 5290
+[VBx] [NN] [IN] [DT] [NN]  ^ 2 ^ 5552
+[CC] [VB] [,] [CC] [,]  ^ 2 ^ 5721
+[CC] [,] [VBx] [,] [DT]  ^ 2 ^ 5724
+[RB] [IN] [DT] [NN] [,]  ^ 2 ^ 5770
+[VB] [IN] [NN] [NN] [,]  ^ 2 ^ 5944
+[DT] [NNP] [,] [CC] [IN]  ^ 2 ^ 6064
+[IN] [NN] [,] [VB] [,]  ^ 2 ^ 6248
+[IN] [NN] [NN] [CD] [:]  ^ 2 ^ 6928
+[,] [CC] [NNP] [,] [CC]  ^ 2 ^ 6958
+[NN] [NN] [IN] [DT] [NN]  ^ 2 ^ 7003
+[RB] [IN] [DT] [NN] [IN]  ^ 2 ^ 7609
+[POS] [VBx] [NN] [,] [CC]  ^ 2 ^ 8182
+[:] [CC] [NN] [VB] [RB]  ^ 2 ^ 8199
+[CC] [NN] [VBx] [VB] [DT]  ^ 2 ^ 8311
+[,] [CC] [VB] [NN] [NN]  ^ 2 ^ 8514
+[:] [CC] [EX] [VB] [DT]  ^ 2 ^ 8563
+[NNP] [NN] [IN] [NNP] [,]  ^ 2 ^ 9464
+[,] [CC] [VB] [NN] [VBx]  ^ 2 ^ 9884
+[IN] [DT] [RBS] [JJ] [NN]  ^ 2 ^ 10016
+[DT] [RBS] [JJ] [NN] [,]  ^ 2 ^ 10035
+[NN] [IN] [NN] [CC] [NNP]  ^ 2 ^ 10040
+[VB] [,] [NN] [NN] [,]  ^ 2 ^ 10237
+[CD] [:] [CC] [NN] [DT]  ^ 2 ^ 10510
+[VB] [VB] [IN] [NN] [NN]  ^ 2 ^ 10920
+[DT] [NN] [IN] [JJ] [NN]  ^ 2 ^ 11377
+[,] [CC] [NN] [NN] [VB]  ^ 2 ^ 11420
+[NN] [NN] [VB] [VB] [IN]  ^ 2 ^ 11617
+[,] [NNP] [NN] [NN] [VB]  ^ 2 ^ 11836
+[,] [CC] [JJ] [NN] [VB]  ^ 2 ^ 11968
+[VB] [IN] [DT] [NN] [IN] [DT]  ^ 2 ^ 35
+[DT] [NN] [CD] [:] [CC] [NN]  ^ 2 ^ 52
+[NN] [CC] [NN] [VB] [NN] [NN]  ^ 2 ^ 771
+[CC] [TO] [JJ] [NN] [IN] [DT]  ^ 2 ^ 885
+[TO] [JJ] [NN] [IN] [DT] [NNP]  ^ 2 ^ 886
+[JJ] [NN] [IN] [DT] [NN] [,]  ^ 2 ^ 895
+[NN] [NN] [NN] [NN] [VB] [VB]  ^ 2 ^ 985
+[JJ] [VB] [DT] [NN] [IN] [DT]  ^ 2 ^ 1038
+[NN] [TO] [NN] [IN] [DT] [NNP]  ^ 2 ^ 1100
+[IN] [JJ] [NN] [IN] [DT] [NN]  ^ 2 ^ 1397
+[JJ] [NN] [IN] [DT] [NN] [:]  ^ 2 ^ 1539
+[,] [CC] [VB] [VBx] [NN] [,]  ^ 2 ^ 1988
+[:] [CC] [NN] [VB] [,] [NN]  ^ 2 ^ 1998
+[JJ] [DT] [NN] [IN] [NN] [NN]  ^ 2 ^ 2158
+[NN] [VB] [TO] [VB] [,] [IN]  ^ 2 ^ 8705
+[:] [NN] [VB] [DT] [NN] [IN]  ^ 2 ^ 3083
+[CC] [VB] [NN] [NN] [NNP] [:]  ^ 2 ^ 3225
+[NN] [,] [CC] [VBx] [DT] [NN]  ^ 2 ^ 3345
+[CD] [CC] [CD] [NN] [:] [CC]  ^ 2 ^ 3507
+[IN] [NN] [,] [DT] [NN] [CC]  ^ 2 ^ 4646
+[,] [DT] [NN] [CC] [NN] [NN]  ^ 2 ^ 4648
+[,] [DT] [NN] [CC] [DT] [NN]  ^ 2 ^ 4680
+[IN] [IN] [DT] [NN] [IN] [DT]  ^ 2 ^ 4732
+[DT] [NNP] [CD] [:] [CC] [NNP]  ^ 2 ^ 4737
+[VBx] [NNP] [IN] [DT] [NN] [,]  ^ 2 ^ 4840
+[NN] [IN] [DT] [NN] [,] [DT]  ^ 2 ^ 4898
+[CC] [DT] [NN] [IN] [NN] [VB]  ^ 2 ^ 4917
+[IN] [DT] [NNP] [:] [CC] [DT]  ^ 2 ^ 5087
+[IN] [IN] [DT] [NNP] [CD] [:]  ^ 2 ^ 5504
+[DT] [NN] [IN] [DT] [NN] [NNP]  ^ 2 ^ 5563
+[RB] [IN] [DT] [NNP] [,] [CC]  ^ 2 ^ 5833
+[VB] [DT] [NN] [VBx] [DT] [NN]  ^ 2 ^ 5904
+[:] [IN] [DT] [NN] [IN] [JJ]  ^ 2 ^ 6153
+[VB] [NN] [NN] [IN] [NN] [,]  ^ 2 ^ 6261
+[NNP] [,] [CC] [NNP] [:] [CC]  ^ 2 ^ 6569
+[CC] [NN] [VB] [VBx] [IN] [DT]  ^ 2 ^ 6769
+[IN] [DT] [NN] [IN] [NNP] [,]  ^ 2 ^ 6823
+[,] [VB] [TO] [,] [VB] [NN]  ^ 2 ^ 7545
+[IN] [JJ] [DT] [NNP] [:] [CC]  ^ 2 ^ 7720
+[NNP] [IN] [DT] [NNP] [,] [TO]  ^ 2 ^ 8207
+[:] [CD] [:] [CC] [NN] [NN]  ^ 2 ^ 8286
+[IN] [DT] [NN] [CD] [:] [CC]  ^ 2 ^ 8461
+[DT] [NN] [VBx] [DT] [NN] [,]  ^ 2 ^ 8489
+[IN] [NN] [CC] [NN] [,] [CC]  ^ 2 ^ 9108
+[,] [NN] [VBx] [NN] [,] [IN]  ^ 2 ^ 9136
+[CD] [:] [CC] [NNP] [VB] [,]  ^ 2 ^ 10233
+[CD] [:] [CC] [NN] [NN] [VB]  ^ 2 ^ 11323
+[NN] [NN] [IN] [NN] [CC] [NN]  ^ 2 ^ 11329
+[NN] [NN] [VB] [NN] [,] [CC]  ^ 2 ^ 11737
+[NN] [CD] [:] [CC] [DT] [NN]  ^ 2 ^ 12098
+[VB] [TO] [DT] [NN] [IN] [NN]  ^ 2 ^ 12404
+[CD] [:] [CC] [NN] [VB] [NN] [,]  ^ 2 ^ 574
+[NN] [IN] [DT] [NNP] [IN] [NN] [NN]  ^ 2 ^ 641
+[DT] [NNP] [IN] [NN] [NN] [:] [CC]  ^ 2 ^ 643
+[IN] [DT] [NNP] [IN] [NN] [NN] [,]  ^ 2 ^ 660
+[DT] [NNP] [IN] [NN] [NN] [,] [CC]  ^ 2 ^ 661
+[NN] [IN] [NN] [NN] [,] [CC] [JJ]  ^ 2 ^ 668
+[JJ] [NN] [IN] [DT] [NNP] [,] [CC]  ^ 2 ^ 887
+[,] [CC] [,] [VBx] [,] [NN] [VB]  ^ 2 ^ 940
+[CD] [:] [CC] [IN] [IN] [DT] [NN]  ^ 2 ^ 1191
+[IN] [DT] [NN] [IN] [DT] [NN] [,]  ^ 2 ^ 1223
+[CD] [:] [CC] [DT] [NN] [IN] [DT]  ^ 2 ^ 1309
+[:] [CC] [DT] [NN] [NN] [VB] [,]  ^ 2 ^ 1442
+[VB] [,] [NN] [VB] [RB] [NN] [IN]  ^ 2 ^ 1726
+[IN] [DT] [NN] [CD] [:] [CC] [DT]  ^ 2 ^ 1735
+[NN] [NNP] [RB] [NN] [NN] [,] [CC]  ^ 2 ^ 2434
+[IN] [DT] [NN] [IN] [DT] [NNP] [:]  ^ 2 ^ 2883
+[CC] [NN] [VB] [VB] [TO] [VB] [,]  ^ 2 ^ 2912
+[CC] [NN] [NN] [POS] [VBx] [NN] [VB]  ^ 2 ^ 3103
+[,] [NNP] [,] [NNP] [,] [CC] [NNP]  ^ 2 ^ 4194
+[:] [CC] [NN] [VB] [VBx] [NNP] [,]  ^ 2 ^ 4246
+[DT] [NN] [,] [NN] [,] [CC] [NN]  ^ 2 ^ 4460
+[,] [CC] [NN] [NN] [,] [CC] [NN]  ^ 2 ^ 4464
+[CC] [IN] [NN] [NN] [VB] [RB] [VBx]  ^ 2 ^ 4655
+[NNP] [,] [CC] [NNP] [,] [CC] [NNP]  ^ 2 ^ 4948
+[CD] [:] [CC] [NN] [VB] [TO] [VB]  ^ 2 ^ 5455
+[DT] [NN] [VB] [VB] [IN] [IN] [DT]  ^ 2 ^ 5522
+[:] [CC] [NN] [VBx] [VBx] [NNP] [,]  ^ 2 ^ 5758
+[DT] [NNP] [CD] [:] [CC] [NN] [VB]  ^ 2 ^ 6356
+[NN] [VB] [VB] [TO] [VB] [,] [NN]  ^ 2 ^ 6420
+[CC] [JJ] [VB] [NN] [IN] [JJ] [NN]  ^ 2 ^ 6460
+[:] [RB] [JJ] [VB] [DT] [NN] [IN]  ^ 2 ^ 6817
+[CD] [:] [JJ] [VB] [DT] [NN] [IN]  ^ 2 ^ 7224
+[VBx] [NNP] [,] [NNP] [,] [CC] [NNP]  ^ 2 ^ 8057
+[IN] [DT] [NN] [IN] [NNP] [,] [CC]  ^ 2 ^ 9258
+[DT] [NN] [NN] [VB] [IN] [NN] [,]  ^ 2 ^ 9568
+[CD] [:] [CC] [DT] [NN] [IN] [NNP]  ^ 2 ^ 9955
+[DT] [NN] [IN] [DT] [NN] [VB] [VBx]  ^ 2 ^ 10204
+[VB] [VBx] [NN] [,] [NN] [VB] [DT]  ^ 2 ^ 10393
+[NN] [NN] [CD] [:] [CC] [NN] [VB]  ^ 2 ^ 10417
+[VB] [NN] [NN] [JJ] [CC] [CD] [,]  ^ 2 ^ 11291
+[NN] [IN] [DT] [NN] [IN] [DT] [NN] [TO]  ^ 2 ^ 351
+[NN] [IN] [DT] [NN] [,] [CC] [TO] [JJ]  ^ 2 ^ 896
+[JJ] [NN] [NN] [VB] [IN] [DT] [NNP] [,]  ^ 2 ^ 903
+[,] [NN] [VBx] [RB] [NN] [IN] [NN] [:]  ^ 2 ^ 1421
+[DT] [NN] [VB] [IN] [NN] [CD] [:] [CC]  ^ 2 ^ 1464
+[,] [NN] [VB] [JJ] [IN] [NN] [VB] [VB]  ^ 2 ^ 2092
+[VB] [JJ] [CC] [CD] [NN] [,] [CC] [VBx]  ^ 2 ^ 3569
+[CD] [CD] [CC] [CD] [NN] [,] [CC] [VBx]  ^ 2 ^ 3769
+[NNP] [,] [NNP] [,] [CC] [NNP] [CD] [:]  ^ 2 ^ 3905
+[,] [CC] [NN] [NN] [,] [CC] [NN] [NN]  ^ 2 ^ 4468
+[,] [CC] [NN] [NN] [''] [NN] [IN] [NN]  ^ 2 ^ 4472
+[IN] [DT] [NNP] [NN] [NN] [CC] [NN] [NN]  ^ 2 ^ 4712
+[:] [CC] [NN] [VB] [TO] [VB] [IN] [DT]  ^ 2 ^ 5676
+[JJ] [VBx] [NN] [NN] [VB] [IN] [NN] [,]  ^ 2 ^ 6278
+[:] [CC] [NN] [NN] [VB] [NN] [NN] [IN]  ^ 2 ^ 6320
+[,] [JJ] [VB] [DT] [JJ] [IN] [DT] [NN]  ^ 2 ^ 6363
+[CD] [:] [CC] [NN] [VB] [TO] [VB] [,]  ^ 2 ^ 8591
+[NN] [,] [RB] [NN] [NN] [VB] [TO] [DT]  ^ 2 ^ 9150
+[CD] [:] [CC] [NN] [VB] [VBx] [NN] [,]  ^ 2 ^ 10389
+[CD] [:] [CC] [NNP] [VB] [VBx] [NNP] [,]  ^ 2 ^ 10811
+[CC] [NN] [NN] [IN] [NN] [IN] [NN] [NN]  ^ 2 ^ 11448
+[CD] [:] [CC] [NN] [VB] [VBx] [NNP] [,]  ^ 2 ^ 11515
+[NN] [NN] [VB] [IN] [DT] [NNP] [IN] [NN] [NN]  ^ 2 ^ 675
+[NN] [NN] [:] [CC] [NN] [VB] [,] [CC] [VBx]  ^ 2 ^ 2527
+[CD] [:] [CC] [DT] [NN] [VB] [VBx] [NNP] [,]  ^ 2 ^ 2654
+[JJ] [NN] [,] [NN] [VB] [DT] [NN] [IN] [NN]  ^ 2 ^ 4420
+[DT] [NN] [VB] [VB] [RP] [IN] [IN] [DT] [NNP]  ^ 2 ^ 5499
+[TO] [VB] [IN] [DT] [NN] [IN] [NNP] [:] [CC]  ^ 2 ^ 8212
+[NN] [IN] [NNP] [,] [CC] [DT] [NN] [IN] [NNP]  ^ 2 ^ 9511
+[CC] [NN] [NN] [VB] [IN] [NN] [VB] [VB] [,]  ^ 2 ^ 10909
+[VBx] [NN] [,] [CC] [TO] [NN] [NN] [IN] [NN]  ^ 2 ^ 11465

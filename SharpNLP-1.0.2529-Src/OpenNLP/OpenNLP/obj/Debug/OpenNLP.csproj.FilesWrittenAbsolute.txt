@@ -1,0 +1,8 @@
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/OpenNLP/OpenNLP/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/OpenNLP/OpenNLP/bin/Debug/OpenNLP.dll.mdb
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/OpenNLP/OpenNLP/bin/Debug/OpenNLP.dll
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/OpenNLP/OpenNLP/obj/Debug/OpenNLP.dll
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/OpenNLP/OpenNLP/obj/Debug/OpenNLP.dll.mdb
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/OpenNLP/OpenNLP/bin/Debug/SharpWordNet.dll
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/OpenNLP/OpenNLP/bin/Debug/SharpEntropy.dll
+/media/jeremy/Backups/Programming/SharpNLP/SharpNLP-1.0.2529-Src/OpenNLP/OpenNLP/bin/Debug/SharpEntropy.dll.mdb

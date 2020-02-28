@@ -1,0 +1,1 @@
+D:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\SQLite.NET\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache

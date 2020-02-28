@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ParsePartsDS" targetNamespace="http://tempuri.org/ParsePartsDS.xsd" xmlns:mstns="http://tempuri.org/ParsePartsDS.xsd" xmlns="http://tempuri.org/ParsePartsDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ParsePartsDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ParsePartsDS" msprop:Generator_UserDSName="ParsePartsDS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Branches" msprop:Generator_TableClassName="BranchesDataTable" msprop:Generator_TableVarName="tableBranches" msprop:Generator_TablePropName="Branches" msprop:Generator_RowDeletingName="BranchesRowDeleting" msprop:Generator_UserTableName="Branches" msprop:Generator_RowChangingName="BranchesRowChanging" msprop:Generator_RowEvHandlerName="BranchesRowChangeEventHandler" msprop:Generator_RowDeletedName="BranchesRowDeleted" msprop:Generator_RowEvArgName="BranchesRowChangeEvent" msprop:Generator_RowChangedName="BranchesRowChanged" msprop:Generator_RowClassName="BranchesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BranchRowID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnBranchRowID" msprop:Generator_ColumnPropNameInRow="BranchRowID" msprop:Generator_ColumnPropNameInTable="BranchRowIDColumn" msprop:Generator_UserColumnName="BranchRowID" type="xs:string" />
+              <xs:element name="BranchID" msprop:Generator_ColumnVarNameInTable="columnBranchID" msprop:Generator_ColumnPropNameInRow="BranchID" msprop:Generator_ColumnPropNameInTable="BranchIDColumn" msprop:Generator_UserColumnName="BranchID" type="xs:int" minOccurs="0" />
+              <xs:element name="BranchLevel" msprop:Generator_ColumnVarNameInTable="columnBranchLevel" msprop:Generator_ColumnPropNameInRow="BranchLevel" msprop:Generator_ColumnPropNameInTable="BranchLevelColumn" msprop:Generator_UserColumnName="BranchLevel" type="xs:int" minOccurs="0" />
+              <xs:element name="BranchSequenceID" msprop:Generator_ColumnVarNameInTable="columnBranchSequenceID" msprop:Generator_ColumnPropNameInRow="BranchSequenceID" msprop:Generator_ColumnPropNameInTable="BranchSequenceIDColumn" msprop:Generator_UserColumnName="BranchSequenceID" type="xs:int" minOccurs="0" />
+              <xs:element name="BranchSequenceValue" msprop:Generator_ColumnVarNameInTable="columnBranchSequenceValue" msprop:Generator_ColumnPropNameInRow="BranchSequenceValue" msprop:Generator_ColumnPropNameInTable="BranchSequenceValueColumn" msprop:Generator_UserColumnName="BranchSequenceValue" type="xs:int" minOccurs="0" />
+              <xs:element name="BranchTag" msprop:Generator_ColumnVarNameInTable="columnBranchTag" msprop:Generator_ColumnPropNameInRow="BranchTag" msprop:Generator_ColumnPropNameInTable="BranchTagColumn" msprop:Generator_UserColumnName="BranchTag" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Leaves" msprop:Generator_TableClassName="LeavesDataTable" msprop:Generator_TableVarName="tableLeaves" msprop:Generator_TablePropName="Leaves" msprop:Generator_RowDeletingName="LeavesRowDeleting" msprop:Generator_UserTableName="Leaves" msprop:Generator_RowChangingName="LeavesRowChanging" msprop:Generator_RowEvHandlerName="LeavesRowChangeEventHandler" msprop:Generator_RowDeletedName="LeavesRowDeleted" msprop:Generator_RowEvArgName="LeavesRowChangeEvent" msprop:Generator_RowChangedName="LeavesRowChanged" msprop:Generator_RowClassName="LeavesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LeafRowID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnLeafRowID" msprop:Generator_ColumnPropNameInRow="LeafRowID" msprop:Generator_ColumnPropNameInTable="LeafRowIDColumn" msprop:Generator_UserColumnName="LeafRowID" type="xs:string" />
+              <xs:element name="LeafID" msprop:Generator_ColumnVarNameInTable="columnLeafID" msprop:Generator_ColumnPropNameInRow="LeafID" msprop:Generator_ColumnPropNameInTable="LeafIDColumn" msprop:Generator_UserColumnName="LeafID" type="xs:int" minOccurs="0" />
+              <xs:element name="LeafText" msprop:Generator_ColumnVarNameInTable="columnLeafText" msprop:Generator_ColumnPropNameInRow="LeafText" msprop:Generator_ColumnPropNameInTable="LeafTextColumn" msprop:Generator_UserColumnName="LeafText" type="xs:string" minOccurs="0" />
+              <xs:element name="LeafTag" msprop:Generator_ColumnVarNameInTable="columnLeafTag" msprop:Generator_ColumnPropNameInRow="LeafTag" msprop:Generator_ColumnPropNameInTable="LeafTagColumn" msprop:Generator_UserColumnName="LeafTag" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Branches" />
+      <xs:field xpath="mstns:BranchRowID" />
+    </xs:unique>
+    <xs:unique name="Leaves_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Leaves" />
+      <xs:field xpath="mstns:LeafRowID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

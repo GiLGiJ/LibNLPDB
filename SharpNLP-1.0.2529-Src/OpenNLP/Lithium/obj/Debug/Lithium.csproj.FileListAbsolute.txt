@@ -1,0 +1,15 @@
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\bin\Debug\Lithium.dll
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\bin\Debug\Lithium.pdb
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\ResolveAssemblyReference.cache
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\Netron.Lithium.LithiumControl.resources
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\GenerateResource.read.1.tlog
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\GenerateResource.write.1.tlog
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\Lithium.dll
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\Lithium.pdb
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\bin\Debug\Lithium.dll
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\bin\Debug\Lithium.pdb
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\Lithium.csprojResolveAssemblyReference.cache
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\Netron.Lithium.LithiumControl.resources
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\Lithium.csproj.GenerateResource.Cache
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\Lithium.dll
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\Lithium\obj\Debug\Lithium.pdb

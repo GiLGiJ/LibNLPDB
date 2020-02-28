@@ -1,0 +1,2 @@
+[VB] [TO] [NN] [NN] [,] [NN] [,] [NN] [,] [CC] [NN] [VBx] [CD] [:] ^ 2 ^ 7033
+[NNP] [VB] [,] [VBx] [DT] [NN] [RB] [VB] [JJ] [,] [CC] [VB] [NN] [VB] ^ 2 ^ 12720

@@ -1,0 +1,3 @@
+judah 1 ^ 535144
+jezreel 2 ^ 695359
+jerusalem 1 ^ 710999

@@ -1,0 +1,26 @@
+
+
+ [:] [CC] [NN] [VB] [VBx],  [:] [CC] [NN] [VB] [IN],  [:] [CC] [NN] [VB] [VB],  [:] [CC] [NN] [VB] [RB], 
+
+ [CD] [:] [CC] [NN] [NN],  [CD] [:] [CC] [NN] [DT], 
+
+ [IN] [DT] [NN] [IN] [NNP],  [IN] [DT] [NN] [IN] [NN], 
+
+ [DT] [NN] [IN] [DT] [NNP], 
+
+ [:] [CC] [DT] [NN] [NN],  [:] [CC] [DT] [NN] [IN], 
+
+ [CD] [:] [CC] [DT] [NNP], 
+
+ [JJ] [NN] [IN] [DT] [NNP], 
+
+ [NN] [CD] [:] [CC] [NNP], 
+
+ [DT] [NNP] [,] [CC] [IN], 
+
+ [CC] [,] [VBx] [,] [DT], 
+
+ [RB] [IN] [DT] [NN] [IN], 
+
+ [,] [CC] [VB] [NN] [VBx], 
+

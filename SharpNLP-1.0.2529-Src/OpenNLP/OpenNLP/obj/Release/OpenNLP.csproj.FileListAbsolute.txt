@@ -1,0 +1,6 @@
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\OpenNLP\bin\Release\OpenNLP.dll
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\OpenNLP\bin\Release\SharpEntropy.dll
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\OpenNLP\bin\Release\SharpWordNet.dll
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\OpenNLP\bin\Release\SharpWordNet.pdb
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\OpenNLP\obj\Release\OpenNLP.csprojResolveAssemblyReference.cache
+K:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\OpenNLP\obj\Release\OpenNLP.dll

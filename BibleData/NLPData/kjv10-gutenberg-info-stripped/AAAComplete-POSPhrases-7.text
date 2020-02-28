@@ -1,0 +1,7 @@
+[IN] [PRP$] [NN] [NNP] [NN] [CD] [NNP] ^ 4
+[PRP] [WRB] [JJ] [NNS] [VBP] [NN] [PRP] ^ 2
+[MD] [VB] [PRP$] [NN] [MD] [VB] [PRP] ^ 2
+[VBD] [PRP$] [NN] [WP] [VBP] [VBN] [PRP$] ^ 2
+[IN] [NNP] [MD] [VB] [NN] [VB] [VBN] ^ 2
+[PRP$] [NNS] [FW] [MD] [VB] [PRP] [VB] ^ 2
+[NN] [VBD] [VBG] [PRP$] [NN] [CD] [NNP] ^ 2

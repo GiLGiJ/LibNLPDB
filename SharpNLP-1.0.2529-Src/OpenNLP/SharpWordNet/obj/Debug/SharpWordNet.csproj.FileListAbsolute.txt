@@ -1,0 +1,10 @@
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\bin\Debug\SharpWordNet.dll
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\bin\Debug\SharpWordNet.pdb
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\obj\Debug\ResolveAssemblyReference.cache
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\obj\Debug\SharpWordNet.dll
+N:\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\obj\Debug\SharpWordNet.pdb
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\bin\Debug\SharpWordNet.dll
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\bin\Debug\SharpWordNet.pdb
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\obj\Debug\SharpWordNet.csprojResolveAssemblyReference.cache
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\obj\Debug\SharpWordNet.dll
+C:\Backups\Programming\SharpNLP\SharpNLP-1.0.2529-Src\OpenNLP\SharpWordNet\obj\Debug\SharpWordNet.pdb

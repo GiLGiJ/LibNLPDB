@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="FullBuild" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <ProjectGuid>{2C60691F-A89E-437E-B771-7005939858F5}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReferences Include="SQLite.NET\System.Data.SQLite\System.Data.SQLite - Full.csproj" />
+    <ProjectReferences Include="SQLite.NET\test\test.csproj" />
+    <ProjectReferences Include="SharpEntropy\SharpEntropy.csproj" />
+    <ProjectReferences Include="SharpEntropy\SharpEntropySqlite\SharpEntropySqlite.csproj" />
+    <ProjectReferences Include="OpenNLP\SharpWordNet\SharpWordNet.csproj" />
+    <ProjectReferences Include="OpenNLP\OpenNLP\OpenNLP.csproj" />
+    <ProjectReferences Include="OpenNLP\ModelConverter\ModelConverter.csproj" />
+    <ProjectReferences Include="OpenNLP\ParseTree\ParseTree.csproj" />
+    <ProjectReferences Include="OpenNLP\ToolsExample\ToolsExample.csproj">
+      <SubType>Designer</SubType>
+    </ProjectReferences>
+  </ItemGroup>
+  <Target Name="FullBuild">
+    <MSBuild Projects="@(ProjectReferences)" Targets="Build" />
+  </Target>
+</Project>

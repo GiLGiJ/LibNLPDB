@@ -1,0 +1,3 @@
+[VB] [DT] [NN] [IN] [NN] [,] [CC] [RB] [NN] [VB] [VBx] [CD] [:] ^ 8 ^ 3417
+[,] [IN] [IN] [NN] [NN] [CC] [NN] [NN] [CC] [NN] [NN] [VBx] [NN] ^ 2 ^ 4754
+[NN] [RBS] [JJ] [,] [NN] [IN] [NN] [CC] [NNP] [,] [VBx] [CD] [:] ^ 2 ^ 9796

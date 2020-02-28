@@ -1,0 +1,4 @@
+ [VB],  [IN],  [CC],  [DT],  [,],  [:],  [NNP],  [JJ],  [VBx],  [CD],  [RB],  [TO],  [RP],  [POS],  [EX],  [''],  [PDT],  [JJR],  [RBR],  [-LRB-], 
+
+
+

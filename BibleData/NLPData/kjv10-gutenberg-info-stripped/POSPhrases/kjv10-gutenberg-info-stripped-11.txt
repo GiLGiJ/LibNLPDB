@@ -1,0 +1,11 @@
+[VBx] [NN] [CC] [NN] [:] [CD] [:] [CC] [JJ] [DT] [NN] ^ 8 ^ 3441
+[:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC] ^ 5 ^ 240
+[:] [CC] [NN] [VB] [RB] [CD] [:] [CC] [NN] [VB] [DT] ^ 2 ^ 167
+[CD] [:] [CC] [NN] [VB] [,] [VB] [DT] [NNP] [VB] [RB] ^ 2 ^ 248
+[IN] [DT] [NNP] [:] [CC] [NN] [VB] [RB] [CD] [:] [CC] ^ 2 ^ 282
+[,] [JJ] [IN] [NN] [,] [CC] [IN] [NN] [,] [CC] [IN] ^ 2 ^ 5187
+[,] [CC] [IN] [JJ] [VB] [NN] [NN] [VB] [IN] [DT] [NNP] ^ 2 ^ 5199
+[CD] [:] [CC] [NN] [VB] [RB] [JJ] [CD] [NN] [:] [CC] ^ 2 ^ 5590
+[IN] [NNP] [:] [CC] [NNP] [VB] [VB] [NN] [NN] [CD] [:] ^ 2 ^ 6753
+[,] [IN] [NN] [NN] [,] [IN] [NN] [NN] [,] [IN] [NN] ^ 2 ^ 7232
+[CD] [NN] [,] [CC] [VBx] [NN] [CC] [NN] [CD] [:] [CC] ^ 2 ^ 7808

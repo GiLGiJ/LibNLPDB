@@ -1,0 +1,13 @@
+[ODBC]
+DRIVER=Microsoft Text Driver (*.txt; *.csv)
+UID=admin
+UserCommitSync=Yes
+Threads=3
+SafeTransactions=0
+PageTimeout=5
+MaxScanRows=8
+MaxBufferSize=2048
+FIL=text
+DriverId=27
+DefaultDir=C:\BACKUPS\PROGRAMMING\NLP DATA\BIBLE\KJV\NLPDATA\KJV10-GUTENBERG-INFO-STRIPPED
+DBQ=C:\BACKUPS\PROGRAMMING\NLP DATA\BIBLE\KJV\NLPDATA\KJV10-GUTENBERG-INFO-STRIPPED

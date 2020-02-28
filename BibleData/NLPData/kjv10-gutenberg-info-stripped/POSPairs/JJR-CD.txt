@@ -1,0 +1,7 @@
+younger 25 ^ 20311
+weaker 3 ^ 268004
+lighter 12 ^ 306000
+greater 9 ^ 431347
+stronger 17 ^ 441053
+more two ^ 668978
+younger 9 ^ 869014

@@ -1,0 +1,29 @@
+﻿The 3 Dichotomies:
+Structure / Data
+Generality / Specific
+Similarity / Difference
+
+
+Names / Labels (and their opposites when they exist) are boundaries, while non-directed learning 
+with numbers is the unnamed range between those boundaries (ie. Similarity/Difference).
+
+
+Nominal Hierarchy->
+-Nouns
+--Consisting of Parts
+---Other Nouns are constituents of this Noun
+---This Noun is a constituent of other Nouns
+--Modifiers
+---Adjectives, Adverbs and transformed Objects of the Preposition
+---Verbs
+----Parts
+----Modifiers
+
+
+Possible Rules:
+Look for first- or second-order patterns in the Noun Hierarchy
+Compare Nouns by their properties to get a distance (eg. Similarity/Difference score).
+
+#NN(var) (should equal) #VB(var;nonconsec) + #MOD(var;nonconsec) + ??
+?? is then where the interest lies; JJ JJ NNS VB(x) VB(x) OR IN NN OR ...
+

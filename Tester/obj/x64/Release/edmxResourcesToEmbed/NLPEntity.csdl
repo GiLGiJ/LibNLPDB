@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="NLPEntity" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="NLPEntityContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clauses" EntityType="NLPEntity.Clause" />
+    <EntitySet Name="Words" EntityType="NLPEntity.Word" />
+    <AssociationSet Name="AdjectiveNoun" Association="NLPEntity.AdjectiveNoun">
+      <End Role="Adjective" EntitySet="Words" />
+      <End Role="Noun" EntitySet="Words" />
+    </AssociationSet>
+    <AssociationSet Name="AdverbVerb" Association="NLPEntity.AdverbVerb">
+      <End Role="Adverb" EntitySet="Words" />
+      <End Role="Verb" EntitySet="Words" />
+    </AssociationSet>
+    <EntitySet Name="PrepositionalPhrases" EntityType="NLPEntity.PrepositionalPhrase" />
+  </EntityContainer>
+  <EntityType Name="Clause">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClauseText" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Word">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WordText" Type="String" Nullable="false" />
+    <Property Name="POS" Type="String" Nullable="false" />
+    <Property Name="WordID" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Noun" BaseType="NLPEntity.Word">
+    <NavigationProperty Name="Adjectives" Relationship="NLPEntity.AdjectiveNoun" FromRole="Noun" ToRole="Adjective" />
+  </EntityType>
+  <EntityType Name="Verb" BaseType="NLPEntity.Word">
+    <NavigationProperty Name="Adverbs" Relationship="NLPEntity.AdverbVerb" FromRole="Verb" ToRole="Adverb" />
+  </EntityType>
+  <EntityType Name="Adjective" BaseType="NLPEntity.Word">
+    <NavigationProperty Name="Nouns" Relationship="NLPEntity.AdjectiveNoun" FromRole="Adjective" ToRole="Noun" />
+  </EntityType>
+  <EntityType Name="Adverb" BaseType="NLPEntity.Word">
+    <NavigationProperty Name="Verbs" Relationship="NLPEntity.AdverbVerb" FromRole="Adverb" ToRole="Verb" />
+  </EntityType>
+  <Association Name="AdjectiveNoun">
+    <End Type="NLPEntity.Adjective" Role="Adjective" Multiplicity="*" />
+    <End Type="NLPEntity.Noun" Role="Noun" Multiplicity="*" />
+  </Association>
+  <Association Name="AdverbVerb">
+    <End Type="NLPEntity.Adverb" Role="Adverb" Multiplicity="*" />
+    <End Type="NLPEntity.Verb" Role="Verb" Multiplicity="*" />
+  </Association>
+  <EntityType Name="PrepositionalPhrase">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Determiner" BaseType="NLPEntity.Word" />
+  <EntityType Name="Conjunction" BaseType="NLPEntity.Word" />
+  <EntityType Name="Preposition" BaseType="NLPEntity.Word" />
+  <EntityType Name="OtherNominalReference" BaseType="NLPEntity.Word" />
+</Schema>

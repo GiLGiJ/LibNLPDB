@@ -1,0 +1,4 @@
+[IN] [NN] [NN] [:] [CC] [NN] [VB] [IN] [NN] [VB] [JJ] [CD] [:] [CC] ^ 3 ^ 319
+[VB] [VBx] [NN] [,] [VB] [JJ] [,] [CC] [VBx] [,] [CC] [VB] [DT] [NNP] ^ 2 ^ 786
+[,] [CC] [NN] [VB] [NN] [CD] [:] [CC] [DT] [NN] [NN] [VB] [VBx] [DT] ^ 2 ^ 2077
+[CD] [CD] [CC] [CD] [NN] [,] [CC] [VBx] [NN] [CC] [NN] [CD] [:] [CC] ^ 2 ^ 7840

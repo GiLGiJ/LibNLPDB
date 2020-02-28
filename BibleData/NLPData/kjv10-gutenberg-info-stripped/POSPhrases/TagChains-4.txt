@@ -1,0 +1,74 @@
+ [CD] [:] [CC] [DT],  [CD] [:] [CC] [NNP],  [CD] [:] [CC] [TO],  [CD] [:] [CC] [EX], 
+
+
+
+ [:] [CC] [NN] [NN],  [:] [CC] [NN] [VBx],  [:] [CC] [NN] [DT],  [:] [CC] [NN] [NNP], 
+
+ [DT] [NN] [IN] [NNP],  [DT] [NN] [IN] [NN], 
+
+ [NN] [,] [CC] [JJ],  [NN] [,] [CC] [IN],  [NN] [,] [CC] [DT], 
+
+ [IN] [DT] [NN] [,],  [IN] [DT] [NN] [:],  [IN] [DT] [NN] [NN], 
+
+ [IN] [DT] [NNP] [:], 
+
+ [NN] [IN] [DT] [NNP], 
+
+ [VB] [IN] [NN] [,],  [VB] [IN] [NN] [IN], 
+
+ [DT] [NN] [,] [TO], 
+
+ [CC] [DT] [NN] [IN], 
+
+ [IN] [NN] [NN] [:], 
+
+ [CC] [NN] [VB] [VBx],  [CC] [NN] [VB] [VB], 
+
+ [,] [CC] [NN] [VBx],  [,] [CC] [NN] [VB], 
+
+ [NN] [NN] [,] [NN], 
+
+ [,] [CC] [JJ] [DT],  [,] [CC] [JJ] [IN], 
+
+ [DT] [NN] [VB] [VB], 
+
+ [CC] [NN] [NN] [VBx], 
+
+ [,] [IN] [NN] [NN],  [,] [IN] [NN] [CC], 
+
+ [,] [CC] [IN] [NN],  [,] [CC] [IN] [DT], 
+
+ [JJ] [NN] [IN] [NN], 
+
+ [IN] [DT] [JJ] [IN], 
+
+ [IN] [NN] [VB] [VB],  [IN] [NN] [VB] [NN], 
+
+ [NN] [NN] [VB] [NN], 
+
+ [TO] [VB] [,] [IN], 
+
+ [NN] [IN] [NN] [CC], 
+
+ [,] [CC] [VB] [VBx], 
+
+ [NNP] [,] [CC] [VB], 
+
+ [,] [VBx] [,] [DT], 
+
+ [VBx] [DT] [NN] [IN], 
+
+ [,] [DT] [NN] [IN], 
+
+ [IN] [IN] [DT] [NN], 
+
+ [NN] [JJ] [,] [NN], 
+
+ [,] [NN] [VB] [DT],  [,] [NN] [VB] [VB], 
+
+ [IN] [JJ] [VB] [DT], 
+
+ [,] [NN] [NN] [NN], 
+
+ [,] [CC] [DT] [JJ],  [,] [CC] [DT] [VB], 
+

@@ -1,0 +1,24 @@
+The Bible says that all the kinds originated around the same time.
+Evolution says that all the species have arisen in a continuum over time.
+
+<Position=1 Text=the ID=1 POS=DT NominalDefinitionClause=1 PossibleNVPair=1>
+<Position=2 Text=bible ID=2 POS=NN NominalDefinitionClause=1 PossibleNVPair=1>
+<Position=3 Text=says ID=3 POS=VB PossibleNVPair=1 PossibleObjectiveClause=1>
+<Position=4 Text=that ID=4 POS=??EncapsulatingNextPlus?? PossibleObjectiveClause=1>
+<Position=5 Text=all ID=5 POS=??Quantity-of-Next?? PossibleObjectiveClause=1>
+<Position=6 Text=the ID=1 POS=DT NominalDefinitionClause=2 PossibleObjectiveClause=1 PossibleNVPair=2>
+<Position=7 Text=kinds ID=6 POS=NN NominalDefinitionClause=2 PossibleObjectiveClause=1 PossibleNVPair=2>
+<Position=8 Text=originated ID=7 POS=VB PossibleNVPair=2 PossibleObjectiveClause=2>
+<Position=9 Text=around ID=8 POS=PP PossibleObjectiveClause=2>
+<Position=10 Text=the ID=1 POS=DT NominalDefinitionClause=3 PossibleObjectiveClause=2>
+<Position=11 Text=same ID=9 POS=JJ NominalPropertyClause=1 NominalDefinitionClause=3 PossibleObjectiveClause=2>
+<Position=12 Text=time ID=10 POS=NN NominalPropertyClause=1 NominalDefinitionClause=3 PossibleObjectiveClause=2>
+
+Chunking rules:
+<DT><NN> -> NominalDefinitionClause=X Collapses to <NN>
+<JJ><NN> -> NominalPropertyClause=X Collapses to <NN>
+<NN><VB> -> PossibleNVPair=X
+<VB><NN> -> PossibleObjectiveClause=X
+<PP><NN> -> PrepositionalClause=X
+
+<NN><VB><NN><VB><NN> -> Sentence1Subject Sentence1VB Sentence1aSubject Sentence1aVB Sentence1aObject -> S1Sub S1VB (S1Obj -> S2Subj S2VB s2Obj)

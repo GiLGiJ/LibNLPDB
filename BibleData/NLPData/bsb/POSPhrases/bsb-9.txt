@@ -1,0 +1,8 @@
+[VB] [NN] [JJ] [,] [NN] [VB] [DT] [NN] [IN] ^ 17 ^ 3433
+[VB] [NN] [CC] [VB] [JJ] [NN] [CC] [NN] [VBx] ^ 16 ^ 3403
+[DT] [NN] [IN] [DT] [NN] [IN] [JJ] [CC] [NN] ^ 2 ^ 1207
+[JJ] [DT] [NN] [IN] [NN] [NN] [VBx] [CD] [:] ^ 2 ^ 2153
+[NNP] [,] [NNP] [,] [CC] [NNP] [VBx] [CD] [:] ^ 2 ^ 3934
+[DT] [NN] [VB] [IN] [DT] [NNP] [VBx] [CD] [:] ^ 2 ^ 4739
+[NNP] [VB] [DT] [NN] [,] [IN] [IN] [NN] [NN] ^ 2 ^ 4750
+[NN] [DT] [JJR] [NN] [VB] [TO] [DT] [JJR] [,] ^ 2 ^ 13875

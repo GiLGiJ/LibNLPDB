@@ -1,0 +1,1 @@
+ ^ [,] ^ [:] ^ [''] ^ [CC] ^ [CD] ^ [DT] ^ [EX] ^ [IN] ^ [JJ] ^ [JJR] ^ [-LRB-] ^ [NNP] ^ [PDT] ^ [POS] ^ [RB] ^ [RBR] ^ [RP] ^ [TO] ^ [VB] ^ [VBx] ^ 
